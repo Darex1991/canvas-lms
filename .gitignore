@@ -84,3 +84,4 @@ coverage-karma
 
 # generated graphql schema
 schema.graphql
+.idea
