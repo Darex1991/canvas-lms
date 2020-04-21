@@ -22,7 +22,7 @@ namespace :canvas do
     # opt out
     compile_css = ENV["COMPILE_ASSETS_CSS"] != "0"
     build_styleguide = ENV["COMPILE_ASSETS_STYLEGUIDE"] != "0"
-    build_webpack = ENV["COMPILE_ASSETS_BUILD_JS"] != "0"
+    # build_webpack = ENV["COMPILE_ASSETS_BUILD_JS"] != "0"
     build_api_docs = ENV["COMPILE_ASSETS_API_DOCS"] != "0"
 
     if compile_css
@@ -43,46 +43,47 @@ namespace :canvas do
     Rake::Task['js:build_client_apps'].invoke
 
     generate_tasks = []
-    generate_tasks << 'i18n:generate_js' if build_webpack
+    # generate_tasks << 'i18n:generate_js' if build_webpack
     build_tasks = []
-    if build_webpack
-      # build dev bundles even in prod mode so you can debug with ?optimized_js=0 query string
-      # (except for on jenkins where we set JS_BUILD_NO_UGLIFY anyway so there's no need for an unminified fallback)
-      build_prod = ENV['RAILS_ENV'] == 'production' || ENV['USE_OPTIMIZED_JS'] == 'true' || ENV['USE_OPTIMIZED_JS'] == 'True'
-      dont_need_dev_fallback = build_prod && ENV['JS_BUILD_NO_UGLIFY']
-      build_tasks << 'js:webpack_development' unless dont_need_dev_fallback
-      build_tasks << 'js:webpack_production' if build_prod
-    end
+    # if build_webpack
+    #   # build dev bundles even in prod mode so you can debug with ?optimized_js=0 query string
+    #   # (except for on jenkins where we set JS_BUILD_NO_UGLIFY anyway so there's no need for an unminified fallback)
+    #   build_prod = ENV['RAILS_ENV'] == 'production' || ENV['USE_OPTIMIZED_JS'] == 'true' || ENV['USE_OPTIMIZED_JS'] == 'True'
+    #   dont_need_dev_fallback = build_prod && ENV['JS_BUILD_NO_UGLIFY']
+    #   build_tasks << 'js:webpack_development' unless dont_need_dev_fallback
+    #   build_tasks << 'js:webpack_production' if build_prod
+    # end
 
     msg = "run " + (generate_tasks + build_tasks).join(", ")
-    tasks[msg] = -> {
-      if generate_tasks.any?
-        Parallel.each(generate_tasks, in_processes: parallel_processes) do |name|
-          log_time(name) { Rake::Task[name].invoke }
-        end
-      end
-
-      if build_tasks.any?
-        Parallel.each(build_tasks, in_threads: parallel_processes) do |name|
-          log_time(name) { Rake::Task[name].invoke }
-        end
-      end
-    }
+    # tasks[msg] = -> {
+    #   if generate_tasks.any?
+    #     Parallel.each(generate_tasks, in_processes: parallel_processes) do |name|
+    #       log_time(name) { Rake::Task[name].invoke }
+    #     end
+    #   end
+    #
+    #   if build_tasks.any?
+    #     Parallel.each(build_tasks, in_threads: parallel_processes) do |name|
+    #       log_time(name) { Rake::Task[name].invoke }
+    #     end
+    #   end
+    # }
 
     if build_api_docs
       tasks["Generate documentation [yardoc]"] = -> {
         Rake::Task['doc:api'].invoke
       }
     end
-
-    times = nil
-    real_time = Benchmark.realtime do
-      times = Parallel.map(tasks, :in_processes => parallel_processes) do |name, lamduh|
-        log_time(name) { lamduh.call }
-      end
-    end
-    combined_time = times.reduce(:+)
-    puts "Finished compiling assets in #{real_time}. parallelism saved #{combined_time - real_time} (#{real_time.to_f / combined_time.to_f * 100.0}%)"
+    #
+    # times = nil
+    # real_time = Benchmark.realtime do
+    #   times = Parallel.map(tasks, :in_processes => parallel_processes) do |name, lamduh|
+    #     log_time(name) { lamduh.call }
+    #   end
+    # end
+    # combined_time = times.reduce(:+)
+    puts "Finished compiling assets in"
+    # puts "Finished compiling assets in #{real_time}. parallelism saved #{combined_time - real_time} (#{real_time.to_f / combined_time.to_f * 100.0}%)"
   end
 
   desc "Just compile css and js for development"
