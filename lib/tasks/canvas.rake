@@ -20,19 +20,10 @@ namespace :canvas do
   task :compile_assets do |t, args|
 
     # opt out
-    npm_install = ENV["COMPILE_ASSETS_NPM_INSTALL"] != "0"
     compile_css = ENV["COMPILE_ASSETS_CSS"] != "0"
     build_styleguide = ENV["COMPILE_ASSETS_STYLEGUIDE"] != "0"
     build_webpack = ENV["COMPILE_ASSETS_BUILD_JS"] != "0"
     build_api_docs = ENV["COMPILE_ASSETS_API_DOCS"] != "0"
-
-    if npm_install
-      log_time('Making sure node_modules are up to date') {
-        Rake::Task['js:yarn_install'].invoke
-      }
-    end
-
-    raise "Error running gulp rev" unless system('yarn run gulp rev')
 
     if compile_css
       # public/dist/brandable_css/brandable_css_bundles_with_deps.json needs
