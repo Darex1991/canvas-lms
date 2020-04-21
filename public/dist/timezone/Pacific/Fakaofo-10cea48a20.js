@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Fakaofo"]={zones:{"Pacific/Fakaofo":["z",{wallclock:13252032e5,format:"+13",abbrev:"+13",offset:468e5,posix:13252428e5,save:0},{wallclock:-21774528e5,format:"-11",abbrev:"-11",offset:-396e5,posix:-2177411704e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-41096e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Fakaofo-10cea48a20.js.map

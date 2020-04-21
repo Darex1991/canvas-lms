@@ -1,0 +1,1124 @@
+@charset "UTF-8";
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/pages/assignments/_assignments.scss */
+.lock_date {
+  color: #444;
+  padding-right: 20px;
+  font-weight: bold; }
+
+/* line 26, app/stylesheets/pages/assignments/_assignments.scss */
+#submit_assignment .submission_comment_textarea {
+  width: 300px;
+  height: 20px;
+  padding: 4px 6px; }
+  /* line 30, app/stylesheets/pages/assignments/_assignments.scss */
+  #submit_assignment .submission_comment_textarea.focus_or_content {
+    width: 100%;
+    height: 72px; }
+
+/* line 37, app/stylesheets/pages/assignments/_assignments.scss */
+#point_change_warning {
+  margin-top: 15px;
+  margin-bottom: 0px;
+  display: none; }
+
+/* line 43, app/stylesheets/pages/assignments/_assignments.scss */
+#edit_assignment_form {
+  margin: 0; }
+  /* line 45, app/stylesheets/pages/assignments/_assignments.scss */
+  #edit_assignment_form .advanced-togglable-true {
+    margin-top: 18px;
+    border-top: 1px solid #ccc;
+    padding-top: 18px; }
+  /* line 50, app/stylesheets/pages/assignments/_assignments.scss */
+  #edit_assignment_form .advanced-togglable-false {
+    margin-top: 18px; }
+  /* line 53, app/stylesheets/pages/assignments/_assignments.scss */
+  #edit_assignment_form #group_category_selector,
+  #edit_assignment_form #assignment_peer_reviews_fields {
+    margin-bottom: 0; }
+  /* line 57, app/stylesheets/pages/assignments/_assignments.scss */
+  #edit_assignment_form .frozen-description {
+    padding: 15px;
+    overflow-y: auto;
+    height: 200px;
+    border: 1px solid #AAA;
+    resize: vertical; }
+  /* line 64, app/stylesheets/pages/assignments/_assignments.scss */
+  #edit_assignment_form .explanation {
+    font-size: 0.8em;
+    color: #888; }
+
+/* line 70, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_turnitin_settings {
+  min-width: 400px; }
+  /* line 72, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_turnitin_settings label {
+    width: 95%; }
+  /* line 75, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_turnitin_settings .js-exclude-small-matches-options {
+    margin-right: 21px; }
+    /* line 77, app/stylesheets/pages/assignments/_assignments.scss */
+    #assignment_turnitin_settings .js-exclude-small-matches-options input[type="radio"] {
+      margin-top: 13px; }
+
+/* line 84, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .assignment-title {
+  margin-bottom: 24px; }
+  @media only screen and (min-width: 992px) {
+    /* line 84, app/stylesheets/pages/assignments/_assignments.scss */
+    #assignment_show .assignment-title {
+      display: flex;
+      align-items: center; } }
+
+/* line 92, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .title-content {
+  box-sizing: border-box; }
+  @media only screen and (min-width: 992px) {
+    /* line 92, app/stylesheets/pages/assignments/_assignments.scss */
+    #assignment_show .title-content {
+      flex: 1;
+      min-width: 1px; } }
+  /* line 100, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_show .title-content .title {
+    margin: 0 0 12px;
+    line-height: 1.3;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+            hyphens: auto; }
+    @media only screen and (min-width: 992px) {
+      /* line 100, app/stylesheets/pages/assignments/_assignments.scss */
+      #assignment_show .title-content .title {
+        margin: 0; } }
+
+@media only screen and (min-width: 992px) {
+  /* line 111, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_show .assignment-buttons {
+    padding-right: 18px;
+    text-align: left; }
+    /* line 115, app/stylesheets/pages/assignments/_assignments.scss */
+    #assignment_show .assignment-buttons .Button,
+    #assignment_show .assignment-buttons .btn,
+    #assignment_show .assignment-buttons .ui-button {
+      margin: 0.125rem; } }
+
+/* line 122, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .undo-main-margins {
+  margin-right: -1em;
+  margin-left: -1em;
+  margin-bottom: -1em; }
+
+/* line 127, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .student-assignment-overview {
+  list-style: none;
+  box-sizing: border-box;
+  border-top: 1px solid #C7CDD1;
+  border-bottom: 1px solid #C7CDD1;
+  padding: 12px 0;
+  margin: 0 0 18px 0; }
+  /* line 134, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_show .student-assignment-overview li {
+    display: inline-block; }
+  /* line 137, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_show .student-assignment-overview .title {
+    font-weight: bold;
+    padding-left: 0.5em; }
+  /* line 141, app/stylesheets/pages/assignments/_assignments.scss */
+  #assignment_show .student-assignment-overview .value {
+    padding-left: 2.0em; }
+
+/* line 145, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .form-horizontal.display-only .control-group {
+  margin-bottom: 0; }
+
+/* line 148, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .description.student-version {
+  min-height: 260px; }
+
+/* line 151, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .description.teacher-version {
+  padding: 15px;
+  overflow-y: auto;
+  border: 1px solid #AAA;
+  border-radius: 4px;
+  resize: vertical; }
+
+/* line 159, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .control-group .control-label {
+  font-weight: bold; }
+
+/* line 162, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment_show .control-group .controls .value {
+  display: block;
+  padding-top: 5px; }
+
+/* line 170, app/stylesheets/pages/assignments/_assignments.scss */
+.control-group .controls-url {
+  padding-top: 5px;
+  word-wrap: break-word; }
+
+/* line 176, app/stylesheets/pages/assignments/_assignments.scss */
+.omit-from-final-warning {
+  padding: 12px;
+  border-width: 1px;
+  margin: 5px; }
+
+/* line 182, app/stylesheets/pages/assignments/_assignments.scss */
+#assignment-draft-state {
+  padding: 10px;
+  line-height: 33px; }
+
+/* line 187, app/stylesheets/pages/assignments/_assignments.scss */
+#sequence_footer.module-sequence-footer {
+  padding-top: 0px; }
+
+/* line 192, app/stylesheets/pages/assignments/_assignments.scss */
+#sidebar_content .details {
+  border: none;
+  padding: 0; }
+  /* line 195, app/stylesheets/pages/assignments/_assignments.scss */
+  #sidebar_content .details h2 {
+    margin: 0; }
+  /* line 198, app/stylesheets/pages/assignments/_assignments.scss */
+  #sidebar_content .details .header {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 2px; }
+  /* line 203, app/stylesheets/pages/assignments/_assignments.scss */
+  #sidebar_content .details .content {
+    padding-right: 5px; }
+    /* line 205, app/stylesheets/pages/assignments/_assignments.scss */
+    #sidebar_content .details .content h3 {
+      font-size: 11px;
+      font-size: 0.6875rem;
+      font-weight: bold;
+      margin-bottom: 0; }
+    /* line 210, app/stylesheets/pages/assignments/_assignments.scss */
+    #sidebar_content .details .content .module {
+      padding-top: 10px; }
+    /* line 213, app/stylesheets/pages/assignments/_assignments.scss */
+    #sidebar_content .details .content .late {
+      color: #D01A19;
+      font-weight: bold; }
+    /* line 217, app/stylesheets/pages/assignments/_assignments.scss */
+    #sidebar_content .details .content .unstyled_list {
+      margin: 5px 10px 0; }
+    /* line 220, app/stylesheets/pages/assignments/_assignments.scss */
+    #sidebar_content .details .content .comments {
+      font-size: 11px;
+      font-size: 0.6875rem;
+      max-height: 300px;
+      overflow: auto; }
+      /* line 224, app/stylesheets/pages/assignments/_assignments.scss */
+      #sidebar_content .details .content .comments .comment {
+        margin-right: 10px; }
+        /* line 226, app/stylesheets/pages/assignments/_assignments.scss */
+        #sidebar_content .details .content .comments .comment .signature {
+          color: #888888;
+          font-size: 0.8em;
+          text-align: left; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 26, app/stylesheets/pages/shared/_grading_standards.scss */
+#standards .grading_standard {
+  border-bottom: 1px dotted #ccc;
+  margin-bottom: 25px; }
+  /* line 29, app/stylesheets/pages/shared/_grading_standards.scss */
+  #standards .grading_standard .links {
+    opacity: 0.5; }
+  /* line 33, app/stylesheets/pages/shared/_grading_standards.scss */
+  #standards .grading_standard:hover .links {
+    opacity: 1; }
+  /* line 37, app/stylesheets/pages/shared/_grading_standards.scss */
+  #standards .grading_standard .standard_title {
+    font-weight: bold;
+    font-size: 1.2em; }
+
+/* line 43, app/stylesheets/pages/shared/_grading_standards.scss */
+#standards.react_grading_standards .cancel_button {
+  margin-left: 6px; }
+
+/* line 50, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard .read_only {
+  display: none; }
+
+/* line 53, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard .editing_box {
+  display: none; }
+
+/* line 56, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard .editing_td {
+  display: none; }
+
+/* line 59, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard .editing_tr {
+  display: none; }
+
+/* line 62, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard .min_score, .grading_standard .max_score {
+  width: 100px; }
+
+/* line 66, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.editing .displaying {
+  display: none; }
+
+/* line 69, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.editing .editing_box {
+  display: block; }
+
+/* line 72, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.editing td.editing_box {
+  display: table-cell; }
+
+/* line 75, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.editing tr.editing_box {
+  display: table-row; }
+
+/* line 78, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.editing .standard_title div {
+  float: right; }
+
+/* line 83, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .alert-message:focus {
+  outline: none; }
+
+/* line 86, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .grading_standard_title {
+  width: 175px; }
+
+/* line 89, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .name_header {
+  text-align: right;
+  padding-left: 10px;
+  width: 24%; }
+
+/* line 94, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .insert_row_container {
+  padding: 2px 5px;
+  width: 4%; }
+
+/* line 98, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .links {
+  float: left; }
+
+/* line 101, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .disabled-buttons {
+  float: left;
+  opacity: 0.5; }
+
+/* line 105, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .cannot-manage-notification {
+  font-weight: normal;
+  margin-right: 4px; }
+
+/* line 109, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .icon-edit {
+  margin-left: 5px; }
+
+/* line 112, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .form-actions {
+  background-color: transparent;
+  margin-bottom: 0px;
+  padding-bottom: 0px; }
+
+/* line 117, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard .range_container {
+  width: 72%; }
+  /* line 119, app/stylesheets/pages/shared/_grading_standards.scss */
+  .grading_standard.react_grading_standard .range_container .range_label {
+    float: right;
+    margin-right: 10px; }
+
+/* line 124, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard.react_grading_standard table {
+  width: 100%; }
+  /* line 126, app/stylesheets/pages/shared/_grading_standards.scss */
+  .grading_standard.react_grading_standard table.grading_standard_data {
+    margin-bottom: 20px; }
+
+/* line 135, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row input {
+  margin-top: 5px;
+  margin-bottom: 5px; }
+
+/* line 139, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row .insert_row_icon_container {
+  padding: 2px;
+  width: 4%; }
+
+/* line 143, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row .row_name_container {
+  width: 24%; }
+
+/* line 146, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row .standard_name {
+  width: 100px; }
+
+/* line 149, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row .standard_value {
+  width: 37px; }
+
+/* line 152, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row .last_row_cell {
+  padding-right: 15px; }
+
+/* line 155, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row .row_cell {
+  padding: 2px;
+  width: 24%; }
+  /* line 158, app/stylesheets/pages/shared/_grading_standards.scss */
+  .grading_standard_row.react_grading_standard_row .row_cell .range_to {
+    padding-left: 5px; }
+
+/* line 162, app/stylesheets/pages/shared/_grading_standards.scss */
+.grading_standard_row.react_grading_standard_row.border_below {
+  border-bottom: dashed;
+  border-bottom-width: 2px;
+  border-bottom-color: #999; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 20, app/stylesheets/pages/shared/_mark_as_done.scss */
+.mark-done-labels span {
+  display: none; }
+
+/* line 24, app/stylesheets/pages/shared/_mark_as_done.scss */
+.mark-done-labels .visible {
+  display: inline; }
+
+/* line 1, app/stylesheets/vendor/_embed_content.scss */
+.embed_content {
+  padding: 0; }
+
+/* line 4, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table {
+  width: 100%;
+  border-collapse: collapse; }
+
+/* line 8, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td {
+  vertical-align: top; }
+
+/* line 11, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td > .content {
+  overflow: auto; }
+
+/* line 14, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_title {
+  font-size: 0.8em; }
+
+/* line 17, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_results {
+  position: relative; }
+
+/* line 20, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result {
+  width: 40%;
+  float: right;
+  margin: 3px;
+  padding: 3px;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer; }
+
+/* line 29, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result.search_result_assignment {
+  padding-right: 22px;
+  background: url(/dist/images/binder-6ef0937025.png) no-repeat 3px 3px; }
+
+/* line 33, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result.search_result_discussion_topic,
+.embed_content > table td.search .search_result.search_result_discussion_entry,
+.embed_content > table td.search .search_result.search_result_announcement {
+  padding-right: 22px;
+  background: url(/dist/images/word_bubble-2ac7184a98.png) no-repeat 3px 3px; }
+
+/* line 40, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result.search_result_calendar_event {
+  padding-right: 22px;
+  background: url(/dist/images/history-214ab216d9.png) no-repeat 3px 3px; }
+
+/* line 44, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result.search_result_wiki_page {
+  padding-right: 22px;
+  background: url(/dist/images/file-95ff332fb8.png) no-repeat 3px 3px; }
+
+/* line 48, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result:hover {
+  background-color: #DADADA;
+  -moz-border-radius: 3px; }
+
+/* line 53, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result .title {
+  white-space: nowrap;
+  font-weight: bold; }
+
+/* line 57, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result .links {
+  text-align: left;
+  font-size: 1.0em;
+  font-weight: bold;
+  opacity: 0.5;
+  margin-left: 10px; }
+
+/* line 64, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result:hover .links {
+  opacity: 1.0; }
+
+/* line 67, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result .teaser {
+  max-height: 40px;
+  overflow: hidden;
+  font-size: 0.8em;
+  margin-right: 10px;
+  color: #888; }
+
+/* line 74, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result:hover .teaser {
+  color: #444; }
+
+/* line 77, app/stylesheets/vendor/_embed_content.scss */
+.embed_content > table td.search .search_result .image_preview {
+  overflow: hidden; }
+
+/* line 80, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options {
+  margin: 0;
+  padding: 5px; }
+
+/* line 84, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options li {
+  cursor: pointer;
+  white-space: nowrap;
+  padding: 2px 20px;
+  list-style-type: none; }
+
+/* line 90, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options li:hover {
+  background: #ddd; }
+
+/* line 93, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options li.selected {
+  background: #bbb; }
+
+/* line 96, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options li .search_title,
+.embed_content .content_options li .models {
+  display: none; }
+
+/* line 100, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options ul {
+  display: none;
+  padding-right: 20px; }
+
+/* line 104, app/stylesheets/vendor/_embed_content.scss */
+.embed_content .content_options ul.opened {
+  display: block; }
+
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/components/_conditional_release.scss */
+#canvas-conditional-release-editor {
+  height: 675px;
+  padding-top: 12px;
+  display: flex;
+  overflow-x: scroll; }
+
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/components/_conditional_release_stats.scss */
+#crs-graphs {
+  margin-top: 50px; }
+  /* line 22, app/stylesheets/components/_conditional_release_stats.scss */
+  #crs-graphs:first-child {
+    margin: 0px; }
+
+/* line 27, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-graph {
+  display: flex;
+  flex-direction: column; }
+  /* line 32, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-breakdown-graph .crs-breakdown-graph__loading p {
+    float: right;
+    padding-top: 8px;
+    padding-right: 10px; }
+  /* line 38, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-breakdown-graph .crs-breakdown-graph__loading > div {
+    float: right; }
+
+/* line 44, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details {
+  width: 365px; }
+
+/* line 48, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__closeButton {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  z-index: 11;
+  color: #556572; }
+
+/* line 56, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__closeButtonIcon {
+  font-size: 1rem;
+  font-weight: lighter; }
+
+/* line 61, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__header {
+  margin-top: 10px;
+  font-weight: lighter;
+  border-bottom: 1px solid #C7CDD1;
+  padding: 2px;
+  text-align: center;
+  display: flex; }
+
+/* line 70, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__header-text {
+  margin-right: 20px;
+  margin-left: 10px; }
+
+/* line 75, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__horizontal-outside {
+  position: relative;
+  height: 14px;
+  border-radius: 25px;
+  padding: 5px 0; }
+
+/* line 82, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__horizontal-inside-fill {
+  position: absolute;
+  height: 50%;
+  border-radius: 20px;
+  background-color: #394B58;
+  overflow: hidden;
+  border: 1px solid #394B58; }
+
+/* line 91, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__horizontal-inside {
+  position: absolute;
+  height: 50%;
+  width: 100%;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  border: 1px solid #394B58; }
+
+/* line 101, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__bottom {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #2D3B45;
+  margin-right: 4px;
+  margin-bottom: 15px; }
+
+/* line 112, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__info {
+  height: 50%; }
+
+/* line 116, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-link-button {
+  background: transparent;
+  border: none;
+  color: var(--ic-link-color); }
+  /* line 121, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-link-button:focus, .crs-link-button:hover {
+    text-decoration: underline;
+    color: var(--ic-link-color-darkened-10); }
+
+/* line 128, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-ranges-view {
+  transition: all .5s; }
+  /* line 131, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view.crs-ranges-view__hidden {
+    opacity: 0;
+    visibility: hidden; }
+  /* line 136, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view .crs-ranges-view__header {
+    font-weight: lighter;
+    padding: 15px 10px;
+    color: #556572;
+    text-indent: 10px; }
+  /* line 143, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-Tab__accordion"] {
+    border-radius: 0;
+    font-weight: bold;
+    margin: 0 0 1px;
+    text-indent: 10px;
+    border: none;
+    box-shadow: 0 0 0 1px #C7CDD1 !important; }
+  /* line 152, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-TabPanel__accordion"] {
+    margin-bottom: 1px; }
+  /* line 156, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-TabPanel__accordion"][aria-hidden="true"] {
+    margin-bottom: 0; }
+  /* line 160, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-TabPanel__content"] {
+    background: transparent;
+    border: none;
+    padding: 5px 0; }
+
+/* line 167, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-range__item {
+  margin: 15px; }
+
+/* line 171, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student__avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin-left: 10px; }
+
+/* line 178, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student__trend-icon {
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  float: left; }
+  /* line 185, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student__trend-icon.crs-student__trend-icon__positive {
+    color: #127A1B; }
+    /* line 188, app/stylesheets/components/_conditional_release_stats.scss */
+    .crs-student__trend-icon.crs-student__trend-icon__positive:before {
+      content: '▲'; }
+  /* line 193, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student__trend-icon.crs-student__trend-icon__neutral {
+    color: #556572;
+    font-family: monospace;
+    font-size: 40px;
+    line-height: 25px;
+    text-indent: -3px; }
+    /* line 200, app/stylesheets/components/_conditional_release_stats.scss */
+    .crs-student__trend-icon.crs-student__trend-icon__neutral:before {
+      content: '-'; }
+  /* line 205, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student__trend-icon.crs-student__trend-icon__negative {
+    color: #C23C0D; }
+    /* line 208, app/stylesheets/components/_conditional_release_stats.scss */
+    .crs-student__trend-icon.crs-student__trend-icon__negative:before {
+      content: '▼'; }
+
+/* line 214, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details {
+  width: 20em;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  transition: all .5s;
+  background: #FFFFFF; }
+  /* line 223, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student-details.crs-student-details__hidden {
+    left: -365px;
+    opacity: 0;
+    visibility: hidden; }
+
+/* line 230, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__header {
+  margin-top: 10px;
+  padding: 15px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #C7CDD1; }
+
+/* line 239, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__name {
+  margin: 5px 0px 0px; }
+
+/* line 243, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student__range-item {
+  margin: 15px 5px; }
+
+/* line 247, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__profile-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 1px solid #C7CDD1;
+  background-color: #FFFFFF;
+  padding: 17px 10px; }
+
+/* line 257, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__profile-image {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%; }
+
+/* line 263, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__profile-inner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FFFFFF; }
+
+/* line 270, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid #C7CDD1;
+  padding: 10px; }
+
+/* line 278, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-date {
+  opacity: .6; }
+
+/* line 282, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-number {
+  margin: 2px 0px;
+  font-weight: bolder;
+  font-size: 25px; }
+
+/* line 288, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-title {
+  font-weight: normal; }
+
+/* line 292, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown__link {
+  text-decoration: none;
+  font-weight: normal;
+  color: var(--ic-link-color); }
+  /* line 297, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-breakdown__link:focus, .crs-breakdown__link:hover {
+    color: var(--ic-link-color-darkened-10);
+    text-decoration: underline; }
+
+/* line 304, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-back-button {
+  background: #FFFFFF;
+  border: none; }
+
+/* line 309, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-student-details__assignment-icon {
+  background: #394B58;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 32px;
+  border-radius: 50%;
+  color: #FFFFFF;
+  float: right;
+  margin-right: 5px; }
+  /* line 320, app/stylesheets/components/_conditional_release_stats.scss */
+  i.crs-student-details__assignment-icon:before {
+    font-size: 14px; }
+
+/* line 325, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-icon-assignment {
+  background: #B8309E; }
+
+/* line 329, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-icon-quiz {
+  background: #D01A19; }
+
+/* line 333, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-icon-discussion {
+  background: #C23C0D; }
+
+/* line 337, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__assignment-name {
+  flex: 0.9; }
+
+/* line 341, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__assignment {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #C7CDD1; }
+
+/* line 349, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__assignment-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 10px;
+  font-weight: bold; }
+
+/* line 357, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__loading {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  justify-content: center; }
+
+/* line 364, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-icon-email {
+  padding-left: 5px; }

@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Guadalcanal"]={zones:{"Pacific/Guadalcanal":["z",{wallclock:-18067104e5,format:"+11",abbrev:"+11",offset:396e5,posix:-1806748788e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:38388e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Guadalcanal-09e52b9a47.js.map

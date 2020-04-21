@@ -1,0 +1,1 @@
+table{border-collapse:collapse;width:100%}th{text-align:right;padding:8px}td{text-align:right;padding:8px}td .flagged_as_possible_spam{font-weight:bold}td .marked_as_spam,td .marked_as_safe{font-style:italic}tr{vertical-align:top}tr:nth-child(even){background-color:#f2f2f2}

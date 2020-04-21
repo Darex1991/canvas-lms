@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Antarctica/Syowa"]={zones:{"Antarctica/Syowa":["z",{wallclock:-407808e6,format:"+03",abbrev:"+03",offset:108e5,posix:-407808e6,save:0},{wallclock:-17976931348623157e292,format:"-00",abbrev:"-00",offset:0,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Antarctica/Syowa-d70b589b71.js.map

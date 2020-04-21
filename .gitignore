@@ -30,24 +30,18 @@ docker-compose.override.yml
 mkmf.log
 /node_modules
 npm-debug.log
-/public/dist/
-/public/doc/api/
-/public/javascripts/translations/
 /tmp/
 /vendor/bundle
 yarn-error.log
-
+/public/dist/webpack-dev
 # generated plugin stuff
 /app/coffeescripts/plugins/
 /app/stylesheets/plugins/
 /app/views/jst/plugins/
-/public/javascripts/plugins/
-/public/plugins/
 /spec/coffeescripts/plugins/
 /spec/plugins/
 
 # generated client app stuff
-/public/javascripts/client_apps/
 
 # canvas-gems
 /gems/*/coverage

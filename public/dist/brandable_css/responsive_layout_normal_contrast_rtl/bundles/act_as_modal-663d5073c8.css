@@ -1,0 +1,312 @@
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* line 3, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__body {
+  display: flex;
+  align-items: center;
+  flex-direction: column; }
+
+/* line 9, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 180px; }
+
+/* line 16, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__svgContainer {
+  position: relative;
+  height: 144px;
+  width: 96px; }
+
+/* line 22, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__svg {
+  position: absolute;
+  height: 100%;
+  width: 100%; }
+
+/* line 28, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask {
+  filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.75));
+  animation: pandaMasquerade 3s infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: ease-in-out; }
+
+@keyframes pandaMasquerade {
+  0% {
+    transform: rotate(0deg) translate3d(0px, 0px, 0px); }
+  33% {
+    transform: rotate(0deg) translate3d(0px, 0px, 0px); }
+  66% {
+    transform: rotate(-20deg) translate3d(-100px, 0px, 0px); }
+  100% {
+    transform: rotate(-20deg) translate3d(-100px, 0px, 0px); } }
+
+/* line 42, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-1 {
+  fill: #faa441; }
+
+/* line 46, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-1,
+.ActAs__mask-2 {
+  stroke: #8d642c; }
+
+/* line 51, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-1,
+.ActAs__mask-3,
+.ActAs__mask-10 {
+  stroke-width: 2px; }
+
+/* line 57, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-2,
+.ActAs__mask-4,
+.ActAs__mask-7,
+.ActAs__mask-10 {
+  fill: none; }
+
+/* line 64, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-2 {
+  opacity: .7; }
+
+/* line 68, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-3,
+.ActAs__mask-6 {
+  fill: #fff; }
+
+/* line 73, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-3,
+.ActAs__mask-10 {
+  stroke: #822b00; }
+
+/* line 78, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-4 {
+  stroke: #b1703f;
+  stroke-width: 10px; }
+
+/* line 83, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-4,
+.ActAs__mask-7 {
+  stroke-linecap: round; }
+
+/* line 88, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-5 {
+  fill: #b1703f; }
+
+/* line 92, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-7 {
+  stroke: #86939d;
+  stroke-width: 5px; }
+
+/* line 97, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-8 {
+  fill: #822b00; }
+
+/* line 101, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__mask-9 {
+  fill: #999; }
+
+/* line 105, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__panda-1,
+.ActAs__panda-6 {
+  fill: #fff; }
+
+/* line 110, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__panda-1,
+.ActAs__panda-2 {
+  stroke: #32434f;
+  stroke-width: 2px; }
+
+/* line 116, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__panda-2,
+.ActAs__panda-5 {
+  fill: #3f5463; }
+
+/* line 121, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__panda-3 {
+  fill: #32434f; }
+
+/* line 125, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__panda-4 {
+  fill: none;
+  stroke: #86939d;
+  stroke-linecap: round;
+  stroke-width: 5px; }
+
+/* line 132, app/stylesheets/bundles/act_as_modal.scss */
+.ActAs__panda-7 {
+  fill: #999; }

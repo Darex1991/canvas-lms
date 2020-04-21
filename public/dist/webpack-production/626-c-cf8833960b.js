@@ -1,0 +1,9 @@
+(window.canvasWebpackJsonp=window.canvasWebpackJsonp||[]).push([[626],{"1kqq":function(t,a,e){"use strict"
+e.r(a),e.d(a,"renderCSPSelectionBox",(function(){return g}))
+var s=e("An8g"),i=e("x1Tw"),n=e("i8i4"),d=e.n(n),o=e("q1tI"),c=e("upx+"),r=(e("17x9"),e("pE3M")),l=e("VTJ5"),h=e("5Shj"),p=e("dqQ7")
+class b extends o.Component{constructor(...t){super(...t),this.state={disabled:!1,loading:!0,failedToLoad:!1},this.handleChange=t=>{const a=this.state.disabled,e=t.currentTarget.checked
+this.setState({disabled:e},()=>{this.props.apiLibrary.put("/api/v1/courses/".concat(this.props.courseId,"/csp_settings"),{status:e?"disabled":"enabled"}).then(t=>{this.setState({disabled:!t.data.enabled})}).catch(()=>{this.setState({disabled:a},Object(p.b)(c.a.t("Saving the CSP status failed, please try again.")))})})}}componentDidMount(){this.props.apiLibrary.get("/api/v1/courses/".concat(this.props.courseId,"/csp_settings")).then(t=>{this.setState({disabled:!t.data.enabled,loading:!1})}).catch(()=>{this.setState({failedToLoad:!0,loading:!1})})}render(){if(!this.state.loading&&this.state.failedToLoad)return Object(s.a)("div",{},void 0,c.a.t("Failed to load CSP information, try refreshing the page."))
+const t=Object(s.a)(r.a,{label:c.a.t("Disable Content Security Policy"),checked:this.state.disabled,onChange:this.handleChange,disabled:!this.props.canManage})
+return Object(s.a)("div",{},void 0,this.state.loading?Object(s.a)(l.a,{renderTitle:c.a.t("Loading"),size:"x-small"}):this.props.canManage?t:Object(s.a)(h.a,{variant:"inverse",tip:c.a.t("Only account administrators can change this setting."),placement:"start"},void 0,t))}}function g(t){d.a.render(Object(s.a)(b,{courseId:ENV.COURSE_ID,canManage:ENV.PERMISSIONS.manage_account_settings,apiLibrary:i.a}),t)}b.defaultProps={canManage:!1}}}])
+
+//# sourceMappingURL=626-c-cf8833960b.js.map

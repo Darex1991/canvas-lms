@@ -1,0 +1,1043 @@
+@charset "UTF-8";
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* line 28, app/stylesheets/components/_token_input.scss */
+.flex {
+  display: flex; }
+
+/* line 29, app/stylesheets/components/_token_input.scss */
+.inline-flex {
+  display: inline-flex; }
+
+/* line 31, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput {
+  display: inline-block; }
+
+/* line 35, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-list {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 999999;
+  border: 1px solid #C7CDD1;
+  background: #FFFFFF;
+  padding: 5px 0px;
+  font-size: 14px;
+  font-size: 0.875rem;
+  width: 100%;
+  box-sizing: border-box; }
+
+/* line 49, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-is-open .ic-tokeninput-list {
+  display: block; }
+
+/* line 53, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-option:focus {
+  outline: 0;
+  color: white;
+  background: #4095bf; }
+
+/* line 59, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-input {
+  padding-right: 20px;
+  width: 100%;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* line 67, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-button {
+  display: inline-block;
+  position: absolute;
+  cursor: default;
+  outline: none;
+  top: 2px;
+  right: 6px;
+  font-size: 16px;
+  font-size: 1rem;
+  cursor: default; }
+
+/* line 78, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-button:active {
+  color: #4095BF; }
+
+/* line 82, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-option, .ic-tokeninput-header {
+  display: block;
+  padding: 2px 16px;
+  cursor: default; }
+
+/* line 88, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-header {
+  font-weight: bold; }
+
+/* line 92, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-header:focus {
+  outline: 0;
+  color: white;
+  background: #ddd; }
+
+/* line 98, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-selected:before {
+  content: '✓';
+  position: absolute;
+  left: 4px; }
+
+/* line 104, app/stylesheets/components/_token_input.scss */
+.token-input-wrapper {
+  width: 204px;
+  min-height: 50px;
+  float: left; }
+
+/* line 110, app/stylesheets/components/_token_input.scss */
+.ic-tokens {
+  margin-left: 5px;
+  flex-wrap: wrap;
+  z-index: 1;
+  list-style: none;
+  padding: 6px;
+  border: 1px solid #C7CDD1;
+  background-color: #FFFFFF;
+  border-radius: 3px;
+  cursor: text;
+  position: relative;
+  will-change: transform;
+  flex: 1 75%;
+  margin: 0; }
+
+/* line 126, app/stylesheets/components/_token_input.scss */
+.ic-token {
+  background-color: #EBEDEE;
+  border: none;
+  color: #2D3B45;
+  border-radius: 3px;
+  padding: 0;
+  margin: 2px;
+  font-size: 14px;
+  font-size: 0.875rem;
+  display: inline-flex; }
+
+/* line 136, app/stylesheets/components/_token_input.scss */
+.ic-token-label {
+  padding: 3px 15px; }
+
+/* line 139, app/stylesheets/components/_token_input.scss */
+.ic-token-delete-button {
+  font-size: 14px;
+  font-size: 0.875rem;
+  padding: 3px 15px;
+  cursor: pointer;
+  order: 2; }
+
+/* line 146, app/stylesheets/components/_token_input.scss */
+.ic-token-delete-button:hover {
+  background-color: #dde1e2; }
+
+/* line 150, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput {
+  display: inline-flex; }
+
+/* line 154, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-input {
+  border: 0 none;
+  outline: 0; }
+
+/* line 159, app/stylesheets/components/_token_input.scss */
+.ic-tokeninput-button {
+  display: none; }
+
+/* line 166, app/stylesheets/components/_token_input.scss */
+.token_input {
+  position: relative;
+  min-height: 0;
+  height: 38px;
+  box-sizing: border-box;
+  background: #FFFFFF;
+  border: 1px solid #C7CDD1;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  cursor: text;
+  overflow: hidden;
+  vertical-align: middle;
+  padding: 2px;
+  transition: border linear 0.2s, box-shadow linear 0.2s; }
+  /* line 181, app/stylesheets/components/_token_input.scss */
+  .token_input a.browser {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    cursor: pointer;
+    text-align: right; }
+  /* line 189, app/stylesheets/components/_token_input.scss */
+  .token_input > span {
+    float: left;
+    color: #556572;
+    padding: 4px; }
+  /* line 195, app/stylesheets/components/_token_input.scss */
+  .token_input > div {
+    overflow: auto;
+    max-height: 90px; }
+  /* line 200, app/stylesheets/components/_token_input.scss */
+  .token_input.browsable > div {
+    padding-right: 20px; }
+  /* line 204, app/stylesheets/components/_token_input.scss */
+  .token_input ul {
+    list-style: none;
+    margin: 0;
+    padding: 0; }
+  /* line 210, app/stylesheets/components/_token_input.scss */
+  .token_input li {
+    white-space: nowrap;
+    float: left;
+    color: #2D3B45;
+    background-color: #FFFFFF;
+    border: 1px solid #C7CDD1;
+    border-radius: 4px;
+    cursor: default;
+    position: relative;
+    line-height: 1.1em; }
+    /* line 20, app/stylesheets/base/mixins/_bubbles.scss */
+    .token_input li div {
+      padding: 8px;
+      display: inline-block;
+      overflow: hidden;
+      vertical-align: middle; }
+    /* line 26, app/stylesheets/base/mixins/_bubbles.scss */
+    .token_input li span {
+      color: #2D3B45;
+      vertical-align: middle;
+      display: inline-block; }
+    /* line 31, app/stylesheets/base/mixins/_bubbles.scss */
+    .token_input li a, .token_input li button {
+      color: #2D3B45;
+      padding-right: 8px;
+      cursor: pointer;
+      background-color: transparent;
+      border: 1px solid transparent; }
+      /* line 37, app/stylesheets/base/mixins/_bubbles.scss */
+      .token_input li a:hover, .token_input li button:hover {
+        border: 1px solid #2D3B45; }
+    /* line 50, app/stylesheets/base/mixins/_bubbles.scss */
+    .token_input li.cannot_remove div, .token_input li.cannot_remove:hover div {
+      padding-right: 8px; }
+  /* line 215, app/stylesheets/components/_token_input.scss */
+  .token_input li.selected {
+    background-color: #5b89f3;
+    border-color: #5b89f3;
+    color: #fff; }
+    /* line 219, app/stylesheets/components/_token_input.scss */
+    .token_input li.selected a {
+      background-position: -10px center; }
+  /* line 225, app/stylesheets/components/_token_input.scss */
+  .token_input li.details div {
+    padding: 0 11px; }
+  /* line 228, app/stylesheets/components/_token_input.scss */
+  .token_input li.details span {
+    padding: 0 15px 0 4px; }
+  /* line 233, app/stylesheets/components/_token_input.scss */
+  .token_input input {
+    box-shadow: none;
+    float: left;
+    border: 0;
+    outline: none;
+    padding: 8px;
+    margin: 1px 0;
+    line-height: 1.1em; }
+
+/* line 245, app/stylesheets/components/_token_input.scss */
+.token_input.browse a.browser {
+  background-position: 0 -36px; }
+
+/* line 250, app/stylesheets/components/_token_input.scss */
+.token_input.active {
+  box-shadow: 0 0 3px 2px #68B4DF; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/components/_token_selector.scss */
+.autocomplete_menu {
+  position: absolute;
+  z-index: 2000;
+  overflow: hidden;
+  margin-left: -12px;
+  padding: 0 12px 12px;
+  display: block; }
+  /* line 26, app/stylesheets/components/_token_selector.scss */
+  .autocomplete_menu > div {
+    background: #FFFFFF;
+    border: 1px solid #C7CDD1;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    overflow: hidden;
+    width: 390px; }
+    /* line 34, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu > div > div {
+      position: relative; }
+      /* line 37, app/stylesheets/components/_token_selector.scss */
+      .autocomplete_menu > div > div > div {
+        float: left;
+        width: 390px; }
+  /* line 43, app/stylesheets/components/_token_selector.scss */
+  .autocomplete_menu ul.heading {
+    margin: 0;
+    overflow: visible; }
+  /* line 47, app/stylesheets/components/_token_selector.scss */
+  .autocomplete_menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px;
+    overflow: auto; }
+    /* line 52, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li, .autocomplete_menu ul li.active.no-results {
+      background: #FFFFFF;
+      position: relative;
+      overflow: hidden;
+      border-top: 1px solid #FFFFFF;
+      border-bottom: 1px dashed #A5AFB5;
+      padding: 5px; }
+    /* line 60, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.active.no-results {
+      border-bottom: none; }
+    /* line 63, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.first {
+      border-top: none; }
+    /* line 66, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.last {
+      border-bottom: none; }
+    /* line 69, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.expanded {
+      cursor: default;
+      background: #fff;
+      position: relative;
+      z-index: 1;
+      box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.1); }
+    /* line 76, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.message {
+      line-height: 32px;
+      text-align: center;
+      border-bottom: none; }
+    /* line 81, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.active, .autocomplete_menu ul li:focus {
+      background: var(--ic-brand-primary);
+      outline: none; }
+    /* line 85, app/stylesheets/components/_token_selector.scss */
+    .autocomplete_menu ul li.active.expanded {
+      background: #FFFFFF; }
+
+/* line 23, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu ul {
+  max-height: 218px;
+  position: relative; }
+
+/* line 27, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li, .autocomplete_menu li.active.expanded {
+  cursor: pointer; }
+  /* line 29, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li a.toggle, .autocomplete_menu li a.expand, .autocomplete_menu li.active.expanded a.toggle, .autocomplete_menu li.active.expanded a.expand {
+    position: relative;
+    padding: 1px;
+    background: transparent; }
+  /* line 34, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li i, .autocomplete_menu li.active.expanded i {
+    display: block;
+    width: 30px;
+    height: 30px; }
+  /* line 39, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li a.expand, .autocomplete_menu li.active.expanded a.expand {
+    float: right; }
+    /* line 41, app/stylesheets/components/_context_search.scss */
+    .autocomplete_menu li a.expand i, .autocomplete_menu li.active.expanded a.expand i {
+      background: transparent url(/dist/images/messages/expand-context-3ff4e71b40.png) no-repeat 10px -23px; }
+  /* line 45, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li a.toggle, .autocomplete_menu li.active.expanded a.toggle {
+    display: none;
+    float: left;
+    margin: 0 14px 0 6px; }
+    /* line 49, app/stylesheets/components/_context_search.scss */
+    .autocomplete_menu li a.toggle i, .autocomplete_menu li.active.expanded a.toggle i {
+      width: 16px;
+      height: 16px;
+      margin: 7px; }
+  /* line 55, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li .avatar, .autocomplete_menu li.active.expanded .avatar {
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-right: 4px;
+    margin-top: -2px; }
+  /* line 62, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li .avatar-box, .autocomplete_menu li.active.expanded .avatar-box {
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-right: 4px;
+    background: transparent url(/dist/images/messages/avatar-sprites-8984d52638.png) 0 0 no-repeat; }
+  /* line 69, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li span.name, .autocomplete_menu li span.details, .autocomplete_menu li.active.expanded span.name, .autocomplete_menu li.active.expanded span.details {
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    line-height: 16px; }
+  /* line 75, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li b, .autocomplete_menu li.active.expanded b {
+    color: #000;
+    text-shadow: none; }
+  /* line 79, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li span.details, .autocomplete_menu li span.context_info, .autocomplete_menu li.active.expanded span.details, .autocomplete_menu li.active.expanded span.context_info {
+    color: #2571bd;
+    font-weight: bold;
+    font-size: 0.8em; }
+  /* line 84, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li span.details, .autocomplete_menu li.active.expanded span.details {
+    display: block; }
+  /* line 87, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li span.context_info, .autocomplete_menu li.active.expanded span.context_info {
+    padding-left: 6px; }
+
+/* line 91, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.toggleable a.toggle i {
+  background: transparent url(/dist/images/messages/checkbox-sprite-87c167a2eb.png) no-repeat 0 0; }
+
+/* line 94, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.context .avatar-box, .autocomplete_menu li.context.active.expanded .avatar-box {
+  background-position: 0 -64px; }
+
+/* line 97, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.user.active .avatar-box {
+  background-position: 0 -32px; }
+
+/* line 100, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.context.active .avatar-box {
+  background-position: 0 -96px; }
+
+/* line 105, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active a.expand i {
+  background-position: 10px 10px; }
+
+/* line 109, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active a.expand:hover {
+  padding: 0;
+  border: 1px solid #2da5f0;
+  background: #2da5f0 url(/dist/images/messages/finder-active-883f8a257e.png) repeat-x 0 0; }
+
+/* line 114, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active b {
+  color: #fff;
+  text-shadow: 0px 1px 1px #0587bb; }
+
+/* line 118, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active span {
+  color: #e1edf0; }
+
+/* line 121, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active a.toggle i {
+  background-position: 0 -48px; }
+
+/* line 124, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active .user.avatar-box {
+  background-position: 0 -32px; }
+
+/* line 127, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active .context.avatar-box {
+  background-position: 0 -96px; }
+
+/* line 131, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.toggleable.on a.toggle i {
+  background-position: 0 -32px; }
+
+/* line 134, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.toggleable.on.active a.toggle i {
+  background-position: 0 -80px; }
+
+/* line 137, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.toggleable.on.active a.toggle:hover i {
+  background-position: 0 -64px; }
+
+/* line 140, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.expanded, .autocomplete_menu li.active.expanded {
+  cursor: default; }
+  /* line 143, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li.expanded a.expand i, .autocomplete_menu li.active.expanded a.expand i {
+    background-position: 10px -55px; }
+  /* line 147, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu li.expanded a.toggle, .autocomplete_menu li.active.expanded a.toggle {
+    display: none !important; }
+
+/* line 152, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu li.active.expanded a.expand:hover {
+  cursor: pointer;
+  background: #fff;
+  border-color: #e4ebef; }
+
+/* line 159, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu div.with-toggles a.toggle {
+  display: block; }
+
+/* line 162, app/stylesheets/components/_context_search.scss */
+.autocomplete_menu div.with-toggles li.expanded, .autocomplete_menu div.with-toggles li.active.expanded {
+  padding-left: 11px; }
+  /* line 164, app/stylesheets/components/_context_search.scss */
+  .autocomplete_menu div.with-toggles li.expanded .avatar-box, .autocomplete_menu div.with-toggles li.active.expanded .avatar-box {
+    margin: 0 14px 0 0; }
+
+/* line 22, app/stylesheets/bundles/grading_period_sets.scss */
+.ItemGroup__header {
+  background-color: #FFFFFF;
+  border: 1px solid #C7CDD1;
+  min-height: 30px;
+  padding: 12px;
+  position: relative; }
+
+/* line 30, app/stylesheets/bundles/grading_period_sets.scss */
+.ItemGroup__header__toggle {
+  display: inline-block;
+  flex: 0 0 auto;
+  margin: auto;
+  text-decoration: none; }
+
+/* line 37, app/stylesheets/bundles/grading_period_sets.scss */
+.ItemGroup__header__details {
+  display: flex;
+  flex: 1 1 auto; }
+
+/* line 42, app/stylesheets/bundles/grading_period_sets.scss */
+.ItemGroup__header__title {
+  display: inline-block;
+  flex: 1 1 auto;
+  font-weight: bold;
+  line-height: 20px;
+  margin: auto;
+  text-decoration: none; }
+
+/* line 51, app/stylesheets/bundles/grading_period_sets.scss */
+.ItemGroup__header__admin {
+  align-self: center;
+  float: right;
+  display: inline-block;
+  flex: 0 0 auto; }
+
+/* line 58, app/stylesheets/bundles/grading_period_sets.scss */
+.header-bar.no-line {
+  border: none; }
+
+/* line 62, app/stylesheets/bundles/grading_period_sets.scss */
+.ic-Form-actions.below-line {
+  border: none;
+  border-top: 1px solid #C7CDD1;
+  padding: 20px 0 0 0;
+  background: none; }
+
+/* line 69, app/stylesheets/bundles/grading_period_sets.scss */
+.ic-Input {
+  min-width: 0; }
+
+/* line 75, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodSetForm {
+  background: #f7f7f7;
+  border: 1px solid #C7CDD1;
+  margin-bottom: 24px; }
+
+/* line 83, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodSet--expanded,
+.GradingPeriodSet--collapsed {
+  border-radius: 3px;
+  margin-bottom: 24px; }
+
+/* line 90, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodSet--expanded .ItemGroup__header {
+  border-radius: 3px 3px 0 0; }
+
+/* line 96, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodSet--collapsed .ItemGroup__header {
+  border-radius: 3px; }
+
+/* line 101, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodSet__title {
+  display: inline;
+  font-weight: bold;
+  font-size: 16px;
+  font-size: 1rem; }
+
+/* line 107, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodSet__toggle {
+  color: #2D3B45; }
+
+/* line 113, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList {
+  border-left: 1px solid #C7CDD1;
+  border-right: 1px solid #C7CDD1; }
+
+/* line 120, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__period,
+.GradingPeriodList__period--editing {
+  border-bottom: 1px solid #C7CDD1; }
+  /* line 124, app/stylesheets/bundles/grading_period_sets.scss */
+  .GradingPeriodList__period::last-child,
+  .GradingPeriodList__period--editing::last-child {
+    border-bottom: none; }
+
+/* line 129, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__period {
+  border-bottom: 1px solid #C7CDD1;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin: 0;
+  padding: 14px; }
+
+/* line 139, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__period__attributes {
+  display: flex;
+  flex: 1 1 auto;
+  margin: 0; }
+
+/* line 145, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__period__attribute {
+  line-height: 20px; }
+
+/* line 149, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__period__actions {
+  display: flex;
+  flex: 0 0 auto; }
+
+/* line 156, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__new-period {
+  border-bottom-style: dashed;
+  border-color: #C7CDD1;
+  border-left-style: dashed;
+  border-right-style: dashed;
+  border-top-style: none; }
+
+/* line 164, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__new-period__add-button {
+  line-height: 20px;
+  margin: 10px 0;
+  padding: 2px 0; }
+  /* line 169, app/stylesheets/bundles/grading_period_sets.scss */
+  .GradingPeriodList__new-period__add-button:hover {
+    text-decoration: none; }
+
+/* line 174, app/stylesheets/bundles/grading_period_sets.scss */
+.GradingPeriodList__new-period--editing {
+  border-left: 1px solid #C7CDD1;
+  border-right: 1px solid #C7CDD1;
+  border-bottom: 1px solid #C7CDD1; }

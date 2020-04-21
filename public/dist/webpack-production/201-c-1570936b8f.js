@@ -1,0 +1,4 @@
+(window.canvasWebpackJsonp=window.canvasWebpackJsonp||[]).push([[201],{"A+lG":function(e,s,a){"use strict"
+a("TqRt")(a("BAch")).default.addLocale({sq:{announcements_a4b8ed4a:{message:"Lajmërime"},assignments_1e02582c:{message:"Detyrat"},course_syllabus_5de1b0af:{message:"Planpogrami i Kursit"},discussions_a5f96392:{message:"Diskutimet"},files_c300e900:{message:"Skedarët"},files_index_af7c662b:{message:"Indeksi i skedarëve"},grades_a61eba0a:{message:"Notat"},loading_25990131:{message:"Duke u ngarkuar..."},pages_e5414c2c:{message:"Faqet"},people_b4ebb13c:{message:"Njerëz"},quizzes_7e598f57:{message:"Kuizet"},search_280d00bd:{message:"Kërko"},upload_8b403d05:{message:"Ngarko"}}})}}])
+
+//# sourceMappingURL=201-c-1570936b8f.js.map

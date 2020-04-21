@@ -1,0 +1,2981 @@
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* line 21, app/stylesheets/pages/calendar/_calendar2.scss */
+.wrap-calendar-event-titles .fc-day-grid-event .fc-content {
+  white-space: normal; }
+
+/* line 25, app/stylesheets/pages/calendar/_calendar2.scss */
+.fc-rtl .fc-toolbar {
+  flex-direction: row-reverse; }
+
+/* line 29, app/stylesheets/pages/calendar/_calendar2.scss */
+.skip-to-calendar {
+  padding: 4px 8px;
+  background: var(--ic-link-color);
+  background-clip: border-box;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 1px dashed rgba(255, 255, 255, 0.8); }
+  /* line 48, app/stylesheets/base/_ic_mixins.scss */
+  .skip-to-calendar:focus {
+    color: #fff; }
+  /* line 52, app/stylesheets/base/_ic_mixins.scss */
+  .skip-to-calendar:focus {
+    text-decoration: underline; }
+
+/*!
+ * FullCalendar v2.4.0 Stylesheet
+ * Docs & License: http://fullcalendar.io/
+ * (c) 2015 Adam Shaw
+ */
+/* line 8, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc {
+  direction: ltr;
+  text-align: left; }
+
+/* line 13, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-rtl {
+  text-align: right; }
+
+/* line 17, node_modules/fullcalendar/dist/fullcalendar.css */
+body .fc {
+  /* extra precedence to overcome jqui */
+  font-size: 1em; }
+
+/* Colors
+--------------------------------------------------------------------------------------------------*/
+/* line 25, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed th,
+.fc-unthemed td,
+.fc-unthemed thead,
+.fc-unthemed tbody,
+.fc-unthemed .fc-divider,
+.fc-unthemed .fc-row,
+.fc-unthemed .fc-popover {
+  border-color: #ddd; }
+
+/* line 35, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed .fc-popover {
+  background-color: #fff; }
+
+/* line 39, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed .fc-divider,
+.fc-unthemed .fc-popover .fc-header {
+  background: #eee; }
+
+/* line 44, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed .fc-popover .fc-header .fc-close {
+  color: #666; }
+
+/* line 48, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed .fc-today {
+  background: #fcf8e3; }
+
+/* line 52, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-highlight {
+  /* when user is selecting cells */
+  background: #bce8f1;
+  opacity: .3;
+  filter: alpha(opacity=30);
+  /* for IE */ }
+
+/* line 58, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-bgevent {
+  /* default look for background events */
+  background: #8fdf82;
+  opacity: .3;
+  filter: alpha(opacity=30);
+  /* for IE */ }
+
+/* line 64, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-nonbusiness {
+  /* default look for non-business-hours areas */
+  /* will inherit .fc-bgevent's styles */
+  background: #d7d7d7; }
+
+/* Icons (inline elements with styled text that mock arrow icons)
+--------------------------------------------------------------------------------------------------*/
+/* line 73, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  line-height: 1em;
+  font-size: 1em;
+  text-align: center;
+  overflow: hidden;
+  font-family: "Courier New", Courier, monospace;
+  /* don't allow browser text-selection */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none; }
+
+/*
+Acceptable font-family overrides for individual icons:
+	"Arial", sans-serif
+	"Times New Roman", serif
+
+NOTE: use percentage font sizes or else old IE chokes
+*/
+/* line 100, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon:after {
+  position: relative;
+  margin: 0 -1em;
+  /* ensures character will be centered, regardless of width */ }
+
+/* line 105, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-left-single-arrow:after {
+  content: "\02039";
+  font-weight: bold;
+  font-size: 200%;
+  top: -7%;
+  left: 3%; }
+
+/* line 113, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-right-single-arrow:after {
+  content: "\0203A";
+  font-weight: bold;
+  font-size: 200%;
+  top: -7%;
+  left: -3%; }
+
+/* line 121, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-left-double-arrow:after {
+  content: "\000AB";
+  font-size: 160%;
+  top: -7%; }
+
+/* line 127, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-right-double-arrow:after {
+  content: "\000BB";
+  font-size: 160%;
+  top: -7%; }
+
+/* line 133, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-left-triangle:after {
+  content: "\25C4";
+  font-size: 125%;
+  top: 3%;
+  left: -2%; }
+
+/* line 140, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-right-triangle:after {
+  content: "\25BA";
+  font-size: 125%;
+  top: 3%;
+  left: 2%; }
+
+/* line 147, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-down-triangle:after {
+  content: "\25BC";
+  font-size: 125%;
+  top: 2%; }
+
+/* line 153, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-icon-x:after {
+  content: "\000D7";
+  font-size: 200%;
+  top: 6%; }
+
+/* Buttons (styled <button> tags, normalized to work cross-browser)
+--------------------------------------------------------------------------------------------------*/
+/* line 163, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc button {
+  /* force height to include the border and padding */
+  box-sizing: border-box;
+  /* dimensions */
+  margin: 0;
+  height: 2.1em;
+  padding: 0 .6em;
+  /* text & cursor */
+  font-size: 1em;
+  /* normalize */
+  white-space: nowrap;
+  cursor: pointer; }
+
+/* Firefox has an annoying inner border */
+/* line 181, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc button::-moz-focus-inner {
+  margin: 0;
+  padding: 0; }
+
+/* line 183, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-default {
+  /* non-theme */
+  border: 1px solid; }
+
+/* line 187, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-default.fc-corner-left {
+  /* non-theme */
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px; }
+
+/* line 192, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-default.fc-corner-right {
+  /* non-theme */
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px; }
+
+/* icons in buttons */
+/* line 199, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc button .fc-icon {
+  /* non-theme */
+  position: relative;
+  top: -0.05em;
+  /* seems to be a good adjustment across browsers */
+  margin: 0 .2em;
+  vertical-align: middle; }
+
+/*
+  button states
+  borrowed from twitter bootstrap (http://twitter.github.com/bootstrap/)
+*/
+/* line 211, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-default {
+  background-color: #f5f5f5;
+  background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+  background-repeat: repeat-x;
+  border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  color: #333;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05); }
+
+/* line 226, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-hover,
+.fc-state-down,
+.fc-state-active,
+.fc-state-disabled {
+  color: #333333;
+  background-color: #e6e6e6; }
+
+/* line 234, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-hover {
+  color: #333333;
+  text-decoration: none;
+  background-position: 0 -15px;
+  transition: background-position 0.1s linear; }
+
+/* line 244, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-down,
+.fc-state-active {
+  background-color: #cccccc;
+  background-image: none;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); }
+
+/* line 251, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-state-disabled {
+  cursor: default;
+  background-image: none;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  box-shadow: none; }
+
+/* Buttons Groups
+--------------------------------------------------------------------------------------------------*/
+/* line 263, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-button-group {
+  display: inline-block; }
+
+/*
+every button that is not first in a button group should scootch over one pixel and cover the
+previous button's border...
+*/
+/* line 272, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc .fc-button-group > * {
+  /* extra precedence b/c buttons have margin set to zero */
+  float: left;
+  margin: 0 0 0 -1px; }
+
+/* line 277, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc .fc-button-group > :first-child {
+  /* same */
+  margin-left: 0; }
+
+/* Popover
+--------------------------------------------------------------------------------------------------*/
+/* line 285, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-popover {
+  position: absolute;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); }
+
+/* line 290, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-popover .fc-header {
+  /* TODO: be more consistent with fc-head/fc-body */
+  padding: 2px 4px; }
+
+/* line 294, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-popover .fc-header .fc-title {
+  margin: 0 2px; }
+
+/* line 298, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-popover .fc-header .fc-close {
+  cursor: pointer; }
+
+/* line 302, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-popover .fc-header .fc-title,
+.fc-rtl .fc-popover .fc-header .fc-close {
+  float: left; }
+
+/* line 307, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-rtl .fc-popover .fc-header .fc-title,
+.fc-ltr .fc-popover .fc-header .fc-close {
+  float: right; }
+
+/* unthemed */
+/* line 314, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed .fc-popover {
+  border-width: 1px;
+  border-style: solid; }
+
+/* line 319, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-unthemed .fc-popover .fc-header .fc-close {
+  font-size: .9em;
+  margin-top: 2px; }
+
+/* jqui themed */
+/* line 326, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-popover > .ui-widget-header + .ui-widget-content {
+  border-top: 0;
+  /* where they meet, let the header have the border */ }
+
+/* Misc Reusable Components
+--------------------------------------------------------------------------------------------------*/
+/* line 334, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-divider {
+  border-style: solid;
+  border-width: 1px; }
+
+/* line 339, node_modules/fullcalendar/dist/fullcalendar.css */
+hr.fc-divider {
+  height: 0;
+  margin: 0;
+  padding: 0 0 2px;
+  /* height is unreliable across browsers, so use padding */
+  border-width: 1px 0; }
+
+/* line 346, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-clear {
+  clear: both; }
+
+/* line 350, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-bg,
+.fc-bgevent-skeleton,
+.fc-highlight-skeleton,
+.fc-helper-skeleton {
+  /* these element should always cling to top-left/right corners */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; }
+
+/* line 361, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-bg {
+  bottom: 0;
+  /* strech bg to bottom edge */ }
+
+/* line 365, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-bg table {
+  height: 100%;
+  /* strech bg to bottom edge */ }
+
+/* Tables
+--------------------------------------------------------------------------------------------------*/
+/* line 373, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 1em;
+  /* normalize cross-browser */ }
+
+/* line 381, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc th {
+  text-align: center; }
+
+/* line 385, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc th,
+.fc td {
+  border-style: solid;
+  border-width: 1px;
+  padding: 0;
+  vertical-align: top; }
+
+/* line 393, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc td.fc-today {
+  border-style: double;
+  /* overcome neighboring borders */ }
+
+/* Fake Table Rows
+--------------------------------------------------------------------------------------------------*/
+/* line 401, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc .fc-row {
+  /* extra precedence to overcome themes w/ .ui-widget-content forcing a 1px border */
+  /* no visible border by default. but make available if need be (scrollbar width compensation) */
+  border-style: solid;
+  border-width: 0; }
+
+/* line 407, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row table {
+  /* don't put left/right border on anything within a fake row.
+	   the outer tbody will worry about this */
+  border-left: 0 hidden transparent;
+  border-right: 0 hidden transparent;
+  /* no bottom borders on rows */
+  border-bottom: 0 hidden transparent; }
+
+/* line 417, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row:first-child table {
+  border-top: 0 hidden transparent;
+  /* no top border on first row */ }
+
+/* Day Row (used within the header and the DayGrid)
+--------------------------------------------------------------------------------------------------*/
+/* line 425, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row {
+  position: relative; }
+
+/* line 429, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-bg {
+  z-index: 1; }
+
+/* highlighting cells & background event skeleton */
+/* line 435, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-bgevent-skeleton,
+.fc-row .fc-highlight-skeleton {
+  bottom: 0;
+  /* stretch skeleton to bottom of row */ }
+
+/* line 440, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-bgevent-skeleton table,
+.fc-row .fc-highlight-skeleton table {
+  height: 100%;
+  /* stretch skeleton to bottom of row */ }
+
+/* line 445, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-highlight-skeleton td,
+.fc-row .fc-bgevent-skeleton td {
+  border-color: transparent; }
+
+/* line 450, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-bgevent-skeleton {
+  z-index: 2; }
+
+/* line 455, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-highlight-skeleton {
+  z-index: 3; }
+
+/*
+row content (which contains day/week numbers and events) as well as "helper" (which contains
+temporary rendered events).
+*/
+/* line 464, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-content-skeleton {
+  position: relative;
+  z-index: 4;
+  padding-bottom: 2px;
+  /* matches the space above the events */ }
+
+/* line 470, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-helper-skeleton {
+  z-index: 5; }
+
+/* line 474, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-content-skeleton td,
+.fc-row .fc-helper-skeleton td {
+  /* see-through to the background below */
+  background: none;
+  /* in case <td>s are globally styled */
+  border-color: transparent;
+  /* don't put a border between events and/or the day number */
+  border-bottom: 0; }
+
+/* line 484, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row .fc-content-skeleton tbody td,
+.fc-row .fc-helper-skeleton tbody td {
+  /* don't put a border between event cells */
+  border-top: 0; }
+
+/* Scrolling Container
+--------------------------------------------------------------------------------------------------*/
+/* line 494, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-scroller {
+  /* this class goes on elements for guaranteed vertical scrollbars */
+  overflow-y: scroll;
+  overflow-x: hidden; }
+
+/* line 499, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-scroller > * {
+  /* we expect an immediate inner element */
+  position: relative;
+  /* re-scope all positions */
+  width: 100%;
+  /* hack to force re-sizing this inner element when scrollbars appear/disappear */
+  overflow: hidden;
+  /* don't let negative margins or absolute positioning create further scroll */ }
+
+/* Global Event Styles
+--------------------------------------------------------------------------------------------------*/
+/* line 509, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-event {
+  position: relative;
+  /* for resize handle and other inner positioning */
+  display: block;
+  /* make the <a> tag block */
+  font-size: .85em;
+  line-height: 1.3;
+  border-radius: 3px;
+  border: 1px solid #3a87ad;
+  /* default BORDER color */
+  background-color: #3a87ad;
+  /* default BACKGROUND color */
+  font-weight: normal;
+  /* undo jqui's ui-widget-header bold */ }
+
+/* overpower some of bootstrap's and jqui's styles on <a> tags */
+/* line 521, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-event,
+.fc-event:hover,
+.ui-widget .fc-event {
+  color: #fff;
+  /* default TEXT color */
+  text-decoration: none;
+  /* if <a> has an href */ }
+
+/* line 528, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-event[href],
+.fc-event.fc-draggable {
+  cursor: pointer;
+  /* give events with links and draggable events a hand mouse pointer */ }
+
+/* line 533, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-not-allowed,
+.fc-not-allowed .fc-event {
+  /* to override an event's custom cursor */
+  cursor: not-allowed; }
+
+/* line 538, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-event .fc-bg {
+  /* the generic .fc-bg already does position */
+  z-index: 1;
+  background: #fff;
+  opacity: .25;
+  filter: alpha(opacity=25);
+  /* for IE */ }
+
+/* line 545, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-event .fc-content {
+  position: relative;
+  z-index: 2; }
+
+/* line 550, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-event .fc-resizer {
+  position: absolute;
+  z-index: 3; }
+
+/* Horizontal Events
+--------------------------------------------------------------------------------------------------*/
+/* events that are continuing to/from another week. kill rounded corners and butt up against edge */
+/* line 561, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-h-event.fc-not-start,
+.fc-rtl .fc-h-event.fc-not-end {
+  margin-left: 0;
+  border-left-width: 0;
+  padding-left: 1px;
+  /* replace the border with padding */
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0; }
+
+/* line 570, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-h-event.fc-not-end,
+.fc-rtl .fc-h-event.fc-not-start {
+  margin-right: 0;
+  border-right-width: 0;
+  padding-right: 1px;
+  /* replace the border with padding */
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0; }
+
+/* resizer */
+/* line 581, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-h-event .fc-resizer {
+  /* positioned it to overcome the event's borders */
+  top: -1px;
+  bottom: -1px;
+  left: -1px;
+  right: -1px;
+  width: 5px; }
+
+/* left resizer  */
+/* line 590, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-h-event .fc-start-resizer,
+.fc-ltr .fc-h-event .fc-start-resizer:before,
+.fc-ltr .fc-h-event .fc-start-resizer:after,
+.fc-rtl .fc-h-event .fc-end-resizer,
+.fc-rtl .fc-h-event .fc-end-resizer:before,
+.fc-rtl .fc-h-event .fc-end-resizer:after {
+  right: auto;
+  /* ignore the right and only use the left */
+  cursor: w-resize; }
+
+/* right resizer */
+/* line 601, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-h-event .fc-end-resizer,
+.fc-ltr .fc-h-event .fc-end-resizer:before,
+.fc-ltr .fc-h-event .fc-end-resizer:after,
+.fc-rtl .fc-h-event .fc-start-resizer,
+.fc-rtl .fc-h-event .fc-start-resizer:before,
+.fc-rtl .fc-h-event .fc-start-resizer:after {
+  left: auto;
+  /* ignore the left and only use the right */
+  cursor: e-resize; }
+
+/* DayGrid events
+----------------------------------------------------------------------------------------------------
+We use the full "fc-day-grid-event" class instead of using descendants because the event won't
+be a descendant of the grid when it is being dragged.
+*/
+/* line 618, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-day-grid-event {
+  margin: 1px 2px 0;
+  /* spacing between events and edges */
+  padding: 0 1px; }
+
+/* line 624, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-day-grid-event .fc-content {
+  /* force events to be one-line tall */
+  white-space: nowrap;
+  overflow: hidden; }
+
+/* line 629, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-day-grid-event .fc-time {
+  font-weight: bold; }
+
+/* line 633, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-day-grid-event .fc-resizer {
+  /* enlarge the default hit area */
+  left: -3px;
+  right: -3px;
+  width: 7px; }
+
+/* Event Limiting
+--------------------------------------------------------------------------------------------------*/
+/* "more" link that represents hidden events */
+/* line 645, node_modules/fullcalendar/dist/fullcalendar.css */
+a.fc-more {
+  margin: 1px 3px;
+  font-size: .85em;
+  cursor: pointer;
+  text-decoration: none; }
+
+/* line 652, node_modules/fullcalendar/dist/fullcalendar.css */
+a.fc-more:hover {
+  text-decoration: underline; }
+
+/* line 656, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-limited {
+  /* rows and cells that are hidden because of a "more" link */
+  display: none; }
+
+/* popover that appears when "more" link is clicked */
+/* line 662, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-day-grid .fc-row {
+  z-index: 1;
+  /* make the "more" popover one higher than this */ }
+
+/* line 666, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-more-popover {
+  z-index: 2;
+  width: 220px; }
+
+/* line 671, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-more-popover .fc-event-container {
+  padding: 10px; }
+
+/* Toolbar
+--------------------------------------------------------------------------------------------------*/
+/* line 678, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar {
+  text-align: center;
+  margin-bottom: 1em; }
+
+/* line 683, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar .fc-left {
+  float: left; }
+
+/* line 687, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar .fc-right {
+  float: right; }
+
+/* line 691, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar .fc-center {
+  display: inline-block; }
+
+/* the things within each left/right/center section */
+/* line 696, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc .fc-toolbar > * > * {
+  /* extra precedence to override button border margins */
+  float: left;
+  margin-left: .75em; }
+
+/* the first thing within each left/center/right section */
+/* line 702, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc .fc-toolbar > * > :first-child {
+  /* extra precedence to override button border margins */
+  margin-left: 0; }
+
+/* title text */
+/* line 708, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar h2 {
+  margin: 0; }
+
+/* button layering (for border precedence) */
+/* line 714, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar button {
+  position: relative; }
+
+/* line 718, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar .fc-state-hover,
+.fc-toolbar .ui-state-hover {
+  z-index: 2; }
+
+/* line 723, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar .fc-state-down {
+  z-index: 3; }
+
+/* line 727, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar .fc-state-active,
+.fc-toolbar .ui-state-active {
+  z-index: 4; }
+
+/* line 732, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-toolbar button:focus {
+  z-index: 5; }
+
+/* View Structure
+--------------------------------------------------------------------------------------------------*/
+/* undo twitter bootstrap's box-sizing rules. normalizes positioning techniques */
+/* don't do this for the toolbar because we'll want bootstrap to style those buttons as some pt */
+/* line 742, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-view-container *,
+.fc-view-container *:before,
+.fc-view-container *:after {
+  box-sizing: content-box; }
+
+/* line 750, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-view,
+.fc-view > table {
+  /* so dragged elements can be above the view's main element */
+  position: relative;
+  z-index: 1; }
+
+/* BasicView
+--------------------------------------------------------------------------------------------------*/
+/* day row structure */
+/* line 761, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-basicWeek-view .fc-content-skeleton,
+.fc-basicDay-view .fc-content-skeleton {
+  /* we are sure there are no day numbers in these views, so... */
+  padding-top: 1px;
+  /* add a pixel to make sure there are 2px padding above events */
+  padding-bottom: 1em;
+  /* ensure a space at bottom of cell for user selecting/clicking */ }
+
+/* line 768, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-basic-view .fc-body .fc-row {
+  min-height: 4em;
+  /* ensure that all rows are at least this tall */ }
+
+/* a "rigid" row will take up a constant amount of height because content-skeleton is absolute */
+/* line 774, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row.fc-rigid {
+  overflow: hidden; }
+
+/* line 778, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-row.fc-rigid .fc-content-skeleton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; }
+
+/* week and day number styling */
+/* line 787, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-basic-view .fc-week-number,
+.fc-basic-view .fc-day-number {
+  padding: 0 2px; }
+
+/* line 792, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-basic-view td.fc-week-number span,
+.fc-basic-view td.fc-day-number {
+  padding-top: 2px;
+  padding-bottom: 2px; }
+
+/* line 798, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-basic-view .fc-week-number {
+  text-align: center; }
+
+/* line 802, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-basic-view .fc-week-number span {
+  /* work around the way we do column resizing and ensure a minimum width */
+  display: inline-block;
+  min-width: 1.25em; }
+
+/* line 808, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-basic-view .fc-day-number {
+  text-align: right; }
+
+/* line 812, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-rtl .fc-basic-view .fc-day-number {
+  text-align: left; }
+
+/* line 816, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-day-number.fc-other-month {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+  /* for IE */
+  /* opacity with small font can sometimes look too faded
+	   might want to set the 'color' property instead
+	   making day-numbers bold also fixes the problem */ }
+
+/* AgendaView all-day area
+--------------------------------------------------------------------------------------------------*/
+/* line 827, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-agenda-view .fc-day-grid {
+  position: relative;
+  z-index: 2;
+  /* so the "more.." popover will be over the time grid */ }
+
+/* line 832, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-agenda-view .fc-day-grid .fc-row {
+  min-height: 3em;
+  /* all-day section will never get shorter than this */ }
+
+/* line 836, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-agenda-view .fc-day-grid .fc-row .fc-content-skeleton {
+  padding-top: 1px;
+  /* add a pixel to make sure there are 2px padding above events */
+  padding-bottom: 1em;
+  /* give space underneath events for clicking/selecting days */ }
+
+/* TimeGrid axis running down the side (for both the all-day area and the slot area)
+--------------------------------------------------------------------------------------------------*/
+/* line 845, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc .fc-axis {
+  /* .fc to overcome default cell styles */
+  vertical-align: middle;
+  padding: 0 4px;
+  white-space: nowrap; }
+
+/* line 851, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-axis {
+  text-align: right; }
+
+/* line 855, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-rtl .fc-axis {
+  text-align: left; }
+
+/* line 859, node_modules/fullcalendar/dist/fullcalendar.css */
+.ui-widget td.fc-axis {
+  font-weight: normal;
+  /* overcome jqui theme making it bold */ }
+
+/* TimeGrid Structure
+--------------------------------------------------------------------------------------------------*/
+/* line 867, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-container,
+.fc-time-grid {
+  /* so slats/bg/content/etc positions get scoped within here */
+  position: relative;
+  z-index: 1; }
+
+/* line 873, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid {
+  min-height: 100%;
+  /* so if height setting is 'auto', .fc-bg stretches to fill height */ }
+
+/* line 877, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid table {
+  /* don't put outer borders on slats/bg/content/etc */
+  border: 0 hidden transparent; }
+
+/* line 881, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid > .fc-bg {
+  z-index: 1; }
+
+/* line 885, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-slats,
+.fc-time-grid > hr {
+  /* the <hr> AgendaView injects when grid is shorter than scroller */
+  position: relative;
+  z-index: 2; }
+
+/* line 891, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-bgevent-skeleton,
+.fc-time-grid .fc-content-skeleton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0; }
+
+/* line 899, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-bgevent-skeleton {
+  z-index: 3; }
+
+/* line 903, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-highlight-skeleton {
+  z-index: 4; }
+
+/* line 907, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-content-skeleton {
+  z-index: 5; }
+
+/* line 911, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-helper-skeleton {
+  z-index: 6; }
+
+/* TimeGrid Slats (lines that run horizontally)
+--------------------------------------------------------------------------------------------------*/
+/* line 919, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-slats td {
+  height: 1.5em;
+  border-bottom: 0;
+  /* each cell is responsible for its top border */ }
+
+/* line 924, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-slats .fc-minor td {
+  border-top-style: dotted; }
+
+/* line 928, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-slats .ui-widget-content {
+  /* for jqui theme */
+  background: none;
+  /* see through to fc-bg */ }
+
+/* TimeGrid Highlighting Slots
+--------------------------------------------------------------------------------------------------*/
+/* line 936, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-highlight-container {
+  /* a div within a cell within the fc-highlight-skeleton */
+  position: relative;
+  /* scopes the left/right of the fc-highlight to be in the column */ }
+
+/* line 940, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  /* top and bottom will be in by JS */ }
+
+/* TimeGrid Event Containment
+--------------------------------------------------------------------------------------------------*/
+/* line 951, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-event-container,
+.fc-time-grid .fc-bgevent-container {
+  /* a div within a cell within the fc-bgevent-skeleton */
+  position: relative; }
+
+/* line 956, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-ltr .fc-time-grid .fc-event-container {
+  /* space on the sides of events for LTR (default) */
+  margin: 0 2.5% 0 2px; }
+
+/* line 960, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-rtl .fc-time-grid .fc-event-container {
+  /* space on the sides of events for RTL */
+  margin: 0 2px 0 2.5%; }
+
+/* line 964, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-event,
+.fc-time-grid .fc-bgevent {
+  position: absolute;
+  z-index: 1;
+  /* scope inner z-index's */ }
+
+/* line 970, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid .fc-bgevent {
+  /* background events always span full width */
+  left: 0;
+  right: 0; }
+
+/* Generic Vertical Event
+--------------------------------------------------------------------------------------------------*/
+/* line 980, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-v-event.fc-not-start {
+  /* events that are continuing from another day */
+  /* replace space made by the top border with padding */
+  border-top-width: 0;
+  padding-top: 1px;
+  /* remove top rounded corners */
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; }
+
+/* line 990, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-v-event.fc-not-end {
+  /* replace space made by the top border with padding */
+  border-bottom-width: 0;
+  padding-bottom: 1px;
+  /* remove bottom rounded corners */
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0; }
+
+/* TimeGrid Event Styling
+----------------------------------------------------------------------------------------------------
+We use the full "fc-time-grid-event" class instead of using descendants because the event won't
+be a descendant of the grid when it is being dragged.
+*/
+/* line 1007, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event {
+  overflow: hidden;
+  /* don't let the bg flow over rounded corners */ }
+
+/* line 1011, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event .fc-time,
+.fc-time-grid-event .fc-title {
+  padding: 0 1px; }
+
+/* line 1016, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event .fc-time {
+  font-size: .85em;
+  white-space: nowrap; }
+
+/* short mode, where time and title are on the same line */
+/* line 1023, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event.fc-short .fc-content {
+  /* don't wrap to second line (now that contents will be inline) */
+  white-space: nowrap; }
+
+/* line 1028, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event.fc-short .fc-time,
+.fc-time-grid-event.fc-short .fc-title {
+  /* put the time and title on the same line */
+  display: inline-block;
+  vertical-align: top; }
+
+/* line 1035, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event.fc-short .fc-time span {
+  display: none;
+  /* don't display the full time text... */ }
+
+/* line 1039, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event.fc-short .fc-time:before {
+  content: attr(data-start);
+  /* ...instead, display only the start time */ }
+
+/* line 1043, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event.fc-short .fc-time:after {
+  content: "\000A0-\000A0";
+  /* seperate with a dash, wrapped in nbsp's */ }
+
+/* line 1047, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event.fc-short .fc-title {
+  font-size: .85em;
+  /* make the title text the same size as the time */
+  padding: 0;
+  /* undo padding from above */ }
+
+/* resizer */
+/* line 1054, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event .fc-resizer {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 8px;
+  overflow: hidden;
+  line-height: 8px;
+  font-size: 11px;
+  font-family: monospace;
+  text-align: center;
+  cursor: s-resize; }
+
+/* line 1067, node_modules/fullcalendar/dist/fullcalendar.css */
+.fc-time-grid-event .fc-resizer:after {
+  content: "="; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* line 23, app/stylesheets/pages/calendar/_mini_calendar.scss */
+.accessibility-warning {
+  padding: 4px 8px;
+  background: var(--ic-link-color);
+  background-clip: border-box;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 1px dashed rgba(255, 255, 255, 0.8);
+  font-size: 16px;
+  font-size: 1rem; }
+  /* line 48, app/stylesheets/base/_ic_mixins.scss */
+  .accessibility-warning:focus {
+    color: #fff; }
+  /* line 52, app/stylesheets/base/_ic_mixins.scss */
+  .accessibility-warning:focus {
+    text-decoration: underline; }
+
+/* line 28, app/stylesheets/pages/calendar/_mini_calendar.scss */
+#minical {
+  color: #666;
+  background-color: #f4f4f4;
+  text-shadow: 0px 1px 1px white; }
+  /* line 32, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-header {
+    background-image: linear-gradient(to bottom, #b6b6b6, #999999);
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #6e6e70;
+    color: white;
+    text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4);
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none; }
+    /* line 39, app/stylesheets/pages/calendar/_mini_calendar.scss */
+    #minical .fc-header h2, #minical .fc-header .h2 {
+      font-size: 16px;
+      font-size: 1rem;
+      line-height: 35px;
+      background-color: transparent;
+      margin: 0;
+      color: #fff;
+      box-shadow: none;
+      border-bottom: none;
+      padding-bottom: 0;
+      font-weight: bold; }
+    /* line 53, app/stylesheets/pages/calendar/_mini_calendar.scss */
+    #minical .fc-header .fc-button {
+      padding: 0px 10px;
+      font-size: 13px;
+      font-size: 0.8125rem;
+      line-height: 35px;
+      background: none;
+      border: none;
+      color: inherit;
+      box-shadow: none; }
+      /* line 61, app/stylesheets/pages/calendar/_mini_calendar.scss */
+      #minical .fc-header .fc-button:hover {
+        color: #2D3B45; }
+  /* line 64, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-widget-header {
+    border: none;
+    border-bottom: 1px solid #bbbbbb;
+    font-size: 10px;
+    font-size: 0.625rem;
+    line-height: 20px; }
+    /* line 69, app/stylesheets/pages/calendar/_mini_calendar.scss */
+    #minical .fc-widget-header.fc-first {
+      border-right: 1px solid #bbbbbb; }
+    /* line 72, app/stylesheets/pages/calendar/_mini_calendar.scss */
+    #minical .fc-widget-header.fc-last {
+      border-left: 1px solid #bbbbbb; }
+  /* line 76, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-toolbar .fc-button .fc-icon:after {
+    margin: 0; }
+  /* line 79, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-day-number {
+    float: none;
+    text-align: center;
+    line-height: 35px; }
+  /* line 84, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-day-content {
+    display: none; }
+  /* line 88, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .event > div {
+    position: relative; }
+  /* line 91, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .event .fc-day-content {
+    display: block;
+    position: absolute;
+    bottom: -1px;
+    left: -1px;
+    border-color: transparent #0081e3 #0081e3 transparent;
+    border-style: solid;
+    border-width: 5px;
+    width: 0;
+    height: 0;
+    padding: 0; }
+  /* line 104, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-widget-content {
+    background-image: linear-gradient(to bottom, #f0f0f0, #dcdddf);
+    position: relative;
+    color: #333;
+    cursor: pointer; }
+  /* line 110, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .slot-available {
+    background: white;
+    color: var(--ic-brand-primary); }
+  /* line 114, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-other-month {
+    color: #556572;
+    opacity: 1;
+    background-image: linear-gradient(to bottom, #f6f6f6, #ebecec); }
+  /* line 120, app/stylesheets/pages/calendar/_mini_calendar.scss */
+  #minical .fc-state-highlight.event .fc-day-content {
+    border-color: transparent #f6f6f6 #f6f6f6 transparent; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* line 21, app/stylesheets/pages/calendar/_sidebar.scss */
+.rs-section {
+  padding: 13px 0;
+  border-bottom: 1px solid #d0d1d2;
+  border-top: 1px solid #f5f5f6;
+  position: relative; }
+  /* line 26, app/stylesheets/pages/calendar/_sidebar.scss */
+  .rs-section:last-child {
+    padding-bottom: 0;
+    border-bottom: none; }
+  /* line 30, app/stylesheets/pages/calendar/_sidebar.scss */
+  .rs-section:first-child {
+    padding-top: 0; }
+
+/* line 35, app/stylesheets/pages/calendar/_sidebar.scss */
+.navigation_title_text {
+  outline-width: 0.125rem;
+  outline-color: transparent;
+  outline-style: solid;
+  text-decoration: underline; }
+  /* line 38, app/stylesheets/pages/calendar/_sidebar.scss */
+  .navigation_title_text:focus {
+    outline-offset: 0;
+    outline-color: var(--ic-link-color); }
+
+/* line 44, app/stylesheets/pages/calendar/_sidebar.scss */
+#undated-events.droppable-hover {
+  background-color: #dde0e4; }
+
+/* line 47, app/stylesheets/pages/calendar/_sidebar.scss */
+#undated-events ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+/* line 52, app/stylesheets/pages/calendar/_sidebar.scss */
+#undated-events .event {
+  padding: 0px 4px 1px;
+  cursor: move;
+  border-radius: 3px;
+  margin: 2px 0;
+  border: 1px solid; }
+
+/* line 59, app/stylesheets/pages/calendar/_sidebar.scss */
+#undated-events .spin_holder {
+  display: none;
+  float: right;
+  width: 22px;
+  height: 20px;
+  position: relative; }
+
+/* line 66, app/stylesheets/pages/calendar/_sidebar.scss */
+#undated-events .undated_event_title {
+  color: rgba(0, 0, 0, 0.75);
+  font-size: 11px;
+  font-size: 0.6875rem; }
+
+/* line 72, app/stylesheets/pages/calendar/_sidebar.scss */
+.ui-kyle-menu li {
+  min-width: 95px; }
+
+/* line 76, app/stylesheets/pages/calendar/_sidebar.scss */
+#calendar-feed-box-lower {
+  text-align: center; }
+  /* line 78, app/stylesheets/pages/calendar/_sidebar.scss */
+  #calendar-feed-box-lower input {
+    width: 98%; }
+
+/* line 83, app/stylesheets/pages/calendar/_sidebar.scss */
+#context-list-holder {
+  padding: 0; }
+
+/* line 87, app/stylesheets/pages/calendar/_sidebar.scss */
+#context-list {
+  margin: 0;
+  padding: 10px 0;
+  max-height: 215px;
+  overflow-y: auto;
+  overflow-x: hidden; }
+  /* line 93, app/stylesheets/pages/calendar/_sidebar.scss */
+  #context-list .context_list_context {
+    overflow: inherit;
+    list-style: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+    padding: 3px 0;
+    cursor: pointer;
+    line-height: 22px;
+    position: relative; }
+    /* line 103, app/stylesheets/pages/calendar/_sidebar.scss */
+    #context-list .context_list_context:hover {
+      background: #FFFFFF; }
+  /* line 105, app/stylesheets/pages/calendar/_sidebar.scss */
+  #context-list .context-list-toggle-box {
+    outline-width: 0.125rem;
+    outline-color: transparent;
+    outline-style: solid;
+    width: 11px;
+    height: 11px;
+    margin: 5px 15px 0 11px;
+    float: right;
+    border: 1px solid; }
+    /* line 107, app/stylesheets/pages/calendar/_sidebar.scss */
+    #context-list .context-list-toggle-box:focus {
+      outline-offset: 0;
+      outline-color: var(--ic-link-color);
+      box-shadow: inset 0 0 0 1px white; }
+  /* line 117, app/stylesheets/pages/calendar/_sidebar.scss */
+  #context-list .not-checked {
+    color: #888; }
+    /* line 119, app/stylesheets/pages/calendar/_sidebar.scss */
+    #context-list .not-checked .context-list-toggle-box {
+      border-color: #bbbbbb !important;
+      background-color: #e6e7e9 !important; }
+  /* line 124, app/stylesheets/pages/calendar/_sidebar.scss */
+  #context-list .context-list-add {
+    position: absolute;
+    left: 5px; }
+  /* line 128, app/stylesheets/pages/calendar/_sidebar.scss */
+  #context-list .ContextList__MoreBtn {
+    float: left; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* line 21, app/stylesheets/pages/calendar/_scheduler.scss */
+.scheduler-content {
+  padding: 1em;
+  background-color: #fff;
+  border: 1px solid #C7CDD1;
+  margin-right: 0px; }
+  /* line 26, app/stylesheets/pages/calendar/_scheduler.scss */
+  .scheduler-content h3, .scheduler-content .h3 {
+    margin-top: 0px; }
+
+/* line 31, app/stylesheets/pages/calendar/_scheduler.scss */
+.scheduler-wrapper {
+  /* extra padding stops final dropdown from getting cut off */
+  padding-bottom: 25px; }
+
+/* line 37, app/stylesheets/pages/calendar/_scheduler.scss */
+.showing-single .appointment-group-item {
+  display: none; }
+
+/* line 40, app/stylesheets/pages/calendar/_scheduler.scss */
+.showing-single .appointment-group-item.active {
+  display: flex; }
+
+/* line 43, app/stylesheets/pages/calendar/_scheduler.scss */
+.showing-single .appointment-group-item {
+  border-top: none; }
+
+/* line 48, app/stylesheets/pages/calendar/_scheduler.scss */
+#scheduler-loading {
+  position: relative;
+  min-height: 400px; }
+
+/* line 53, app/stylesheets/pages/calendar/_scheduler.scss */
+#appointment-group-list {
+  list-style: none; }
+
+/* line 57, app/stylesheets/pages/calendar/_scheduler.scss */
+.appointment-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-top: 1px solid #ccc;
+  min-height: 68px;
+  padding: 6px 0 26px;
+  clear: both; }
+  /* line 65, app/stylesheets/pages/calendar/_scheduler.scss */
+  .appointment-group-item h3, .appointment-group-item .h3 {
+    margin-bottom: 0; }
+  /* line 68, app/stylesheets/pages/calendar/_scheduler.scss */
+  .appointment-group-item .alert {
+    float: left;
+    width: auto;
+    padding: 4px 10px;
+    margin-left: 5px; }
+    /* line 73, app/stylesheets/pages/calendar/_scheduler.scss */
+    .appointment-group-item .alert a {
+      text-decoration: underline; }
+  /* line 77, app/stylesheets/pages/calendar/_scheduler.scss */
+  .appointment-group-item:first-child {
+    border-top: none; }
+
+/* line 82, app/stylesheets/pages/calendar/_scheduler.scss */
+.unpublished-ag {
+  background-color: #f2f2f2; }
+
+/* line 86, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-context {
+  margin-bottom: 10px;
+  color: #666; }
+
+/* line 91, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-context a {
+  color: #666; }
+
+/* line 95, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-x-of-x-signed-up {
+  font-size: 11px;
+  font-size: 0.6875rem; }
+
+/* line 99, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list-body-wrapper {
+  overflow: auto;
+  max-height: 150px;
+  overflow-x: hidden;
+  margin-bottom: 10px;
+  padding-top: 10px; }
+
+/* line 107, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list-header, .time-block-list-body-wrapper {
+  width: 100%;
+  border-bottom: 1px solid #DDD;
+  padding-bottom: 10px; }
+
+/* line 114, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list-header td {
+  text-align: center;
+  font-weight: bold; }
+
+/* line 120, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list-body {
+  width: 100%; }
+
+/* line 125, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list td {
+  vertical-align: top; }
+
+/* line 128, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .time-range-column {
+  width: 130px; }
+
+/* line 133, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .date-column {
+  width: 200px; }
+
+/* line 136, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .start-time-column {
+  width: 95px;
+  text-align: center; }
+
+/* line 140, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .separator-column {
+  width: 6px;
+  text-align: center;
+  line-height: 28px; }
+
+/* line 145, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .end-time-column {
+  width: 95px;
+  text-align: center; }
+
+/* line 149, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .date_field {
+  width: 120px; }
+
+/* line 152, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .time_field {
+  text-align: left;
+  width: 65px; }
+
+/* line 156, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .error {
+  border: 1px solid #EE5F5B;
+  padding: 2px;
+  box-shadow: 0 0 4px #f8b9b7; }
+
+/* line 161, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .invalid_datetime, .time-block-list .error {
+  color: #B94A48; }
+
+/* line 164, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .datetime_suggest {
+  display: none; }
+
+/* line 167, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list .ui-datepicker-trigger {
+  display: inline; }
+
+/* line 171, app/stylesheets/pages/calendar/_scheduler.scss */
+.time-block-list tr.focused .datetime_suggest {
+  display: block;
+  min-height: 15px; }
+
+/* line 179, app/stylesheets/pages/calendar/_scheduler.scss */
+#edit_appointment_form td {
+  vertical-align: top; }
+
+/* line 182, app/stylesheets/pages/calendar/_scheduler.scss */
+#edit_appointment_form .context_id, #edit_appointment_form .group_select select {
+  width: 150px; }
+
+/* line 185, app/stylesheets/pages/calendar/_scheduler.scss */
+#edit_appointment_form .section_select ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+/* line 190, app/stylesheets/pages/calendar/_scheduler.scss */
+#edit_appointment_form .section_select li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+/* line 195, app/stylesheets/pages/calendar/_scheduler.scss */
+#edit_appointment_form .right-column-wrapper {
+  width: 400px; }
+
+/* line 200, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag_contexts_selector {
+  width: 225px; }
+
+/* line 204, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-menu-container {
+  position: relative; }
+
+/* line 208, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag_contexts_menu {
+  position: absolute;
+  width: 223px;
+  background: white;
+  border: 1px solid #b6b6b6;
+  margin-top: -3px;
+  padding-bottom: 5px; }
+
+/* line 217, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-contexts {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  max-height: 150px;
+  overflow-y: auto; }
+  /* line 24, app/stylesheets/base/mixins/_misc.scss */
+  .ag-contexts li {
+    margin: 0;
+    padding: 0; }
+  /* line 221, app/stylesheets/pages/calendar/_scheduler.scss */
+  .ag-contexts label {
+    margin-bottom: 0;
+    width: 170px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; }
+
+/* line 230, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag_sections {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  padding-right: 35px; }
+  /* line 24, app/stylesheets/base/mixins/_misc.scss */
+  .ag_sections li {
+    margin: 0;
+    padding: 0; }
+  /* line 234, app/stylesheets/pages/calendar/_scheduler.scss */
+  .ag_sections li label {
+    width: 150px; }
+
+/* line 240, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag_sections_toggle {
+  display: block;
+  width: 16px;
+  height: 16px;
+  float: right;
+  background-image: url(/dist/images/jqueryui/icon_sprite-30c4d78a47.png);
+  background-position: -16px -80px;
+  border: none;
+  background-color: transparent; }
+
+/* line 251, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-sections-expanded {
+  background-position: 0px -64px; }
+
+/* line 255, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag_contexts_done {
+  float: left;
+  margin: 5px 0 0 5px; }
+
+/* line 260, app/stylesheets/pages/calendar/_scheduler.scss */
+.delete-block-link {
+  display: block;
+  float: left;
+  color: black;
+  line-height: 28px; }
+
+/* line 267, app/stylesheets/pages/calendar/_scheduler.scss */
+.left-column-wrapper {
+  width: 250px;
+  float: right; }
+
+/* line 272, app/stylesheets/pages/calendar/_scheduler.scss */
+.right-column-wrapper {
+  width: 325px;
+  float: right; }
+
+/* line 277, app/stylesheets/pages/calendar/_scheduler.scss */
+.details-wrapper {
+  clear: both; }
+
+/* line 282, app/stylesheets/pages/calendar/_scheduler.scss */
+.splitter input[type="number"], .splitter .split-link.btn {
+  vertical-align: baseline; }
+
+/* line 285, app/stylesheets/pages/calendar/_scheduler.scss */
+.splitter .split-link {
+  margin-left: 3px; }
+
+/* line 290, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-options {
+  margin: 0;
+  padding: 0; }
+  /* line 293, app/stylesheets/pages/calendar/_scheduler.scss */
+  .ag-options input[type="checkbox"] {
+    vertical-align: 1px; }
+  /* line 296, app/stylesheets/pages/calendar/_scheduler.scss */
+  .ag-options input[type="checkbox"] + label, .ag-options input[type="number"] {
+    vertical-align: baseline; }
+
+/* line 301, app/stylesheets/pages/calendar/_scheduler.scss */
+.ag-options li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 0.5em; }
+
+/* line 307, app/stylesheets/pages/calendar/_scheduler.scss */
+.context_id {
+  max-width: 200px; }
+
+/* line 311, app/stylesheets/pages/calendar/_scheduler.scss */
+.select-calendar-container {
+  margin: 0 0 1.5em; }
+
+/* line 315, app/stylesheets/pages/calendar/_scheduler.scss */
+.group-signup {
+  margin: 0 0 1.5em; }
+
+/* line 319, app/stylesheets/pages/calendar/_scheduler.scss */
+#message_participants_form {
+  padding: 10px; }
+  /* line 321, app/stylesheets/pages/calendar/_scheduler.scss */
+  #message_participants_form textarea {
+    width: 98%;
+    height: 100px; }
+  /* line 325, app/stylesheets/pages/calendar/_scheduler.scss */
+  #message_participants_form label {
+    font-weight: bold; }
+  /* line 328, app/stylesheets/pages/calendar/_scheduler.scss */
+  #message_participants_form .error {
+    font-weight: bold;
+    color: #a00; }
+  /* line 332, app/stylesheets/pages/calendar/_scheduler.scss */
+  #message_participants_form ul {
+    font-size: 0.8em;
+    list-style: none;
+    padding: 5px 0;
+    margin: 0;
+    min-height: 60px;
+    max-height: 100px;
+    overflow: auto; }
+    /* line 340, app/stylesheets/pages/calendar/_scheduler.scss */
+    #message_participants_form ul li {
+      overflow: hidden;
+      white-space: nowrap;
+      float: right;
+      margin: 1px 4px 1px 2px;
+      padding: 0 11px 0 14px;
+      color: #000;
+      background-color: #dee7fa;
+      border: 1px solid #a5bcf0;
+      border-radius: 10px;
+      cursor: default; }
+      /* line 351, app/stylesheets/pages/calendar/_scheduler.scss */
+      #message_participants_form ul li.status {
+        text-align: center;
+        float: none;
+        padding: 0;
+        margin: 0;
+        height: 50px;
+        position: relative;
+        background: transparent;
+        border: 0;
+        border-radius: 0; }
+
+/* line 366, app/stylesheets/pages/calendar/_scheduler.scss */
+.scheduler-event-details-footer {
+  display: none; }
+
+/*
+ * Copyright (C) 2013 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 7, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group {
+  position: relative;
+  display: inline-block;
+  font-size: 0;
+  vertical-align: middle;
+  white-space: nowrap; }
+
+/* line 16, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group + .btn-group {
+  margin-right: 5px; }
+
+/* line 21, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-toolbar {
+  font-size: 0;
+  margin-top: 10px;
+  margin-bottom: 10px; }
+  /* line 25, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+  .btn-toolbar .btn + .btn,
+  .btn-toolbar .btn-group + .btn,
+  .btn-toolbar .btn + .btn-group {
+    margin-right: 5px; }
+
+/* line 33, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn {
+  position: relative;
+  border-radius: 0; }
+
+/* line 37, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn + .btn {
+  margin-right: -1px; }
+
+/* line 40, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn,
+.btn-group > .dropdown-menu {
+  font-size: 14px;
+  font-size: 0.875rem; }
+
+/* line 46, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn-mini {
+  font-size: 11px;
+  font-size: 0.6875rem; }
+
+/* line 49, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn-small {
+  font-size: 12px;
+  font-size: 0.75rem; }
+
+/* line 52, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn-large {
+  font-size: 16px;
+  font-size: 1rem; }
+
+/* line 57, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn:first-child {
+  margin-right: 0;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px; }
+
+/* line 63, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn:last-child,
+.btn-group > .dropdown-toggle {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px; }
+
+/* line 69, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn.large:first-child {
+  margin-right: 0;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px; }
+
+/* line 74, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn.large:last-child,
+.btn-group > .large.dropdown-toggle {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px; }
+
+/* line 81, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn:hover,
+.btn-group > .btn:focus,
+.btn-group > .btn:active,
+.btn-group > .btn.active {
+  z-index: 2; }
+
+/* line 89, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group .dropdown-toggle:active,
+.btn-group.open .dropdown-toggle {
+  outline: 0; }
+
+/* line 100, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn + .dropdown-toggle {
+  padding-right: 8px;
+  padding-left: 8px;
+  box-shadow: inset 1px 0 0 rgba(255, 255, 255, 0.125), inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  *padding-top: 5px;
+  *padding-bottom: 5px; }
+
+/* line 107, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn-mini + .dropdown-toggle {
+  padding-right: 5px;
+  padding-left: 5px;
+  *padding-top: 2px;
+  *padding-bottom: 2px; }
+
+/* line 113, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn-small + .dropdown-toggle {
+  *padding-top: 5px;
+  *padding-bottom: 4px; }
+
+/* line 117, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > .btn-large + .dropdown-toggle {
+  padding-right: 12px;
+  padding-left: 12px;
+  *padding-top: 7px;
+  *padding-bottom: 7px; }
+
+/* line 125, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group > [class*="btn"].active:focus {
+  box-shadow: inset 0 0 0 2px #FFFFFF; }
+
+/* line 132, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .dropdown-toggle {
+  background-image: none;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05); }
+
+/* line 138, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .btn-primary.dropdown-toggle {
+  background-color: var(--ic-link-color); }
+
+/* line 141, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .btn-warning.dropdown-toggle {
+  background-color: #ad6704; }
+
+/* line 144, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .btn-danger.dropdown-toggle {
+  background-color: #740c09; }
+
+/* line 147, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .btn-success.dropdown-toggle {
+  background-color: #2d792d; }
+
+/* line 150, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .btn-info.dropdown-toggle {
+  background-color: #1e7b96; }
+
+/* line 153, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-group.open .btn-inverse.dropdown-toggle {
+  background-color: #222; }
+
+/* line 160, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn .caret {
+  margin-top: 8px;
+  margin-right: 0; }
+
+/* line 165, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-mini .caret,
+.btn-small .caret,
+.btn-large .caret {
+  margin-top: 6px; }
+
+/* line 170, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-large .caret {
+  border-right-width: 5px;
+  border-left-width: 5px;
+  border-top-width: 5px; }
+
+/* line 176, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.dropup .btn-large .caret {
+  border-bottom-width: 5px; }
+
+/* line 189, app/stylesheets/vendor/bootstrap/_button-groups.scss */
+.btn-primary .caret,
+.btn-warning .caret,
+.btn-danger .caret,
+.btn-info .caret,
+.btn-success .caret,
+.btn-inverse .caret {
+  border-top-color: #fff;
+  border-bottom-color: #fff; }
+
+/* line 24, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#calendar_header .header-table {
+  display: table;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 12px; }
+
+/* line 31, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#calendar_header .header-table-row {
+  display: table-row; }
+
+/* line 35, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#calendar_header .header-table-cell {
+  display: table-cell;
+  vertical-align: middle; }
+
+/* line 40, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#calendar_header .header-table-left {
+  width: auto; }
+
+/* line 44, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#calendar_header .header-table-middle {
+  text-align: center; }
+
+/* line 48, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#calendar_header .header-table-right {
+  text-align: left;
+  width: 60%; }
+
+/* line 54, app/stylesheets/pages/calendar/_calendarHeader.scss */
+.calendar_navigator, .scheduler_navigator {
+  display: inline-block; }
+  /* line 57, app/stylesheets/pages/calendar/_calendarHeader.scss */
+  .calendar_navigator .datetime_suggest, .calendar_navigator .input-append, .scheduler_navigator .datetime_suggest, .scheduler_navigator .input-append {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 0; }
+  /* line 63, app/stylesheets/pages/calendar/_calendarHeader.scss */
+  .calendar_navigator .input-append input, .calendar_navigator .input-append button, .scheduler_navigator .input-append input, .scheduler_navigator .input-append button {
+    vertical-align: middle; }
+
+/* line 68, app/stylesheets/pages/calendar/_calendarHeader.scss */
+.scheduler_navigator {
+  margin-bottom: 12px; }
+  /* line 70, app/stylesheets/pages/calendar/_calendarHeader.scss */
+  .scheduler_navigator .navigation_buttons {
+    bottom: auto; }
+
+/* line 73, app/stylesheets/pages/calendar/_calendarHeader.scss */
+.navigation_buttons {
+  position: relative;
+  bottom: 3px; }
+
+/* line 78, app/stylesheets/pages/calendar/_calendarHeader.scss */
+.navigation_title, .appointment_group_title {
+  display: inline;
+  line-height: 38px;
+  padding-right: 5px;
+  white-space: nowrap;
+  font-size: 18px;
+  font-size: 1.125rem; }
+
+/* line 86, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#refresh_calendar_link {
+  background-image: url("/dist/images/ajax-loader-black-on-white-static-31268752a5.gif");
+  background-position: 50% 50%;
+  display: block;
+  float: left;
+  height: 16px;
+  margin-right: 3px;
+  position: relative;
+  top: 8px;
+  width: 16px; }
+  /* line 96, app/stylesheets/pages/calendar/_calendarHeader.scss */
+  #refresh_calendar_link.loading {
+    background-image: url("/dist/images/ajax-loader-black-on-white-3b4fe5b450.gif"); }
+
+/* line 101, app/stylesheets/pages/calendar/_calendarHeader.scss */
+#create_new_event_link {
+  color: #444444;
+  margin-right: 5px; }
+
+/* line 106, app/stylesheets/pages/calendar/_calendarHeader.scss */
+.whats-new {
+  font-size: 11px;
+  font-size: 0.6875rem;
+  line-height: 32px;
+  margin-left: 0px; }
+
+/* line 112, app/stylesheets/pages/calendar/_calendarHeader.scss */
+.counter-badge {
+  border-radius: 8px;
+  background-color: #3cb5fb;
+  color: white;
+  text-shadow: 1px 0px 1px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 1px 0px 1px rgba(0, 0, 0, 0.3);
+  padding: 1px 6px; }

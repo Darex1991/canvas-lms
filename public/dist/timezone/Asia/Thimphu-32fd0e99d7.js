@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Asia/Thimphu"]={zones:{"Asia/Thimphu":["z",{wallclock:5600448e5,format:"+06",abbrev:"+06",offset:216e5,posix:560025e6,save:0},{wallclock:-70632e7,format:"+0530",abbrev:"+0530",offset:198e5,posix:-706341516e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:21516e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Asia/Thimphu-32fd0e99d7.js.map
