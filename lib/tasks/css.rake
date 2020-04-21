@@ -22,6 +22,6 @@ namespace :css do
     # end
     # BrandableCSS.save_default_files!
     raise "error running brandable_css" unless system('yarn run build:css')
-    puts "--> Finished: 'css:compile' in #{time}"
+    puts "--> Finished: 'css:compile'"
   end
 end
