@@ -117,8 +117,8 @@ namespace :db do
       while !Rails.env.test? do
 
         while true do
-          email = 'dpienczykowski@selleo.com'
-          email_confirm = 'dpienczykowski@selleo.com'
+          email = 'd.pienczykowski@selleo.com'
+          email_confirm = 'd.pienczykowski@selleo.com'
           break if email == email_confirm
         end
 
