@@ -20,17 +20,17 @@ namespace :canvas do
   task :compile_assets do |t, args|
 
     # opt out
-    npm_install = ENV["COMPILE_ASSETS_NPM_INSTALL"] != "0"
+    # npm_install = ENV["COMPILE_ASSETS_NPM_INSTALL"] != "0"
     compile_css = ENV["COMPILE_ASSETS_CSS"] != "0"
     build_styleguide = ENV["COMPILE_ASSETS_STYLEGUIDE"] != "0"
     build_webpack = ENV["COMPILE_ASSETS_BUILD_JS"] != "0"
     build_api_docs = ENV["COMPILE_ASSETS_API_DOCS"] != "0"
 
-    if npm_install
-      log_time('Making sure node_modules are up to date') {
-        Rake::Task['js:yarn_install'].invoke
-      }
-    end
+    # if npm_install
+    #   log_time('Making sure node_modules are up to date') {
+    #     Rake::Task['js:yarn_install'].invoke
+    #   }
+    # end
 
     raise "Error running gulp rev" unless system('yarn run gulp rev')
 
@@ -85,14 +85,14 @@ namespace :canvas do
     end
 
     times = nil
-    real_time = Benchmark.realtime do
-      times = Parallel.map(tasks, :in_processes => parallel_processes) do |name, lamduh|
-        log_time(name) { lamduh.call }
-      end
+    # real_time = Benchmark.realtime do
+    times = Parallel.map(tasks, :in_processes => parallel_processes) do |name, lamduh|
+      log_time(name) { lamduh.call }
     end
-    combined_time = times.reduce(:+)
+    # end
+    # combined_time = times.reduce(:+)
     puts "Finished compiling assets in"
-    puts "Finished compiling assets in #{real_time}. parallelism saved #{combined_time - real_time} (#{real_time.to_f / combined_time.to_f * 100.0}%)"
+    # puts "Finished compiling assets in #{real_time}. parallelism saved #{combined_time - real_time} (#{real_time.to_f / combined_time.to_f * 100.0}%)"
   end
 
   desc "Just compile css and js for development"
