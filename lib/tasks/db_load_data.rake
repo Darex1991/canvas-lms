@@ -117,14 +117,14 @@ namespace :db do
       while !Rails.env.test? do
 
         while true do
-          email = ask("What email address will the site administrator account use? > ") { |q| q.echo = true }
-          email_confirm = ask("Please confirm > ") { |q| q.echo = true }
+          email = 'dpienczykowski@selleo.com'
+          email_confirm = 'dpienczykowski@selleo.com'
           break if email == email_confirm
         end
 
         while true do
-          password = ask("What password will the site administrator use? > ") { |q| q.echo = "*" }
-          password_confirm = ask("Please confirm > ") { |q| q.echo = "*" }
+          password = 'password'
+          password_confirm = 'password'
           break if password == password_confirm
         end
 
@@ -181,7 +181,7 @@ namespace :db do
       require 'highline/import'
 
       if !Rails.env.test?
-        name = ask("What do you want users to see as the account name? This should probably be the name of your organization. > ") { |q| q.echo = true }
+        name = 'dpienczykowski'
 
         a = Account.default.reload
         a.name = name
