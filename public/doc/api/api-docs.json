@@ -19,10 +19,6 @@
       "description": "Accounts"
     },
     {
-      "path": "/accounts_(lti).json",
-      "description": "Accounts (LTI)"
-    },
-    {
       "path": "/admins.json",
       "description": "Admins"
     },

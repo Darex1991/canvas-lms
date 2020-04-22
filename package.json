@@ -285,7 +285,6 @@
   "repository": "instructure/canvas-lms",
   "scripts": {
     "start": "",
-    "heroku-postbuild": "bundle exec rake canvas:compile_assets",
     "test": "yarn test:packages && if [[ \"$COVERAGE\" ]]; then yarn test:jest:coverage --runInBand; else yarn test:jest --runInBand; fi && if [[ \"$COVERAGE\" ]]; then yarn test:karma; else yarn test:karma:concurrently; fi",
     "test:coverage": "script/generate_js_coverage",
     "test:watch": "concurrently --names \"jest,karma\" \"jest --watch .\" \"yarn test:karma:watch\"",
@@ -314,8 +313,8 @@
     "postinstall": "yarn build:packages && ./script/install_hooks",
     "webpack:analyze": "echo 'if you get any errors here, make sure you have ran `rake canvas:compile_assets` first' && NODE_ENV=production SKIP_SOURCEMAPS=1 node --max_old_space_size=8096 $(yarn bin)/webpack --json > stats-prod.json && NODE_OPTIONS=\"--max_old_space_size=8192\" npx webpack-bundle-analyzer stats-prod.json public/dist/webpack-production",
     "webpack": "gulp rev 1> /dev/null & NODE_OPTIONS=\"--max_old_space_size=8192\" webpack --progress --color --watch",
-    "webpack-development": "gulp rev 1> /dev/null & NODE_OPTIONS=\"--max_old_space_size=8192\" webpack --color && yarn lint:browser-code",
-    "webpack-production": "NODE_ENV=production gulp rev && NODE_ENV=production NODE_OPTIONS=\"--max_old_space_size=12192\" webpack --color && yarn lint:browser-code",
+    "webpack-development": "gulp rev 1> /dev/null & NODE_OPTIONS=\"--max_old_space_size=8192\" webpack --color",
+    "webpack-production": "NODE_ENV=production gulp rev && NODE_ENV=production NODE_OPTIONS=\"--max_old_space_size=12192\" webpack --color",
     "workspace-run": "r() { wsrun --fast-exit --exclude-missing --collect-logs --report -c $@; exit $?; } && r",
     "workspace-run-serial": "r() { wsrun --fast-exit --exclude-missing --collect-logs --report --serial -c $@; exit $?; } && r",
     "jspec": "./spec/jspec.sh",

@@ -13,14 +13,14 @@ namespace :css do
     require 'config/initializers/revved_asset_urls'
     require 'lib/brandable_css'
     puts "--> Starting: 'css:compile'"
-    # time = Benchmark.realtime do
-      # if (BrandConfig.table_exists? rescue false)
-      #   Rake::Task['brand_configs:write'].invoke
-      # else
-      #   puts "--> no DB connection, skipping generation of brand_config files"
-      # end
-    # end
-    # BrandableCSS.save_default_files!
+    time = Benchmark.realtime do
+      if (BrandConfig.table_exists? rescue false)
+        Rake::Task['brand_configs:write'].invoke
+      else
+        puts "--> no DB connection, skipping generation of brand_config files"
+      end
+    end
+    BrandableCSS.save_default_files!
     raise "error running brandable_css" unless system('yarn run build:css')
     puts "--> Finished: 'css:compile'"
   end

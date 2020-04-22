@@ -61,9 +61,6 @@ $(function() {
     <a class="" href="accounts.html">Accounts</a>
   
     
-    <a class="" href="accounts_(lti).html">Accounts (LTI)</a>
-  
-    
     <a class="" href="admins.html">Admins</a>
   
     
@@ -389,7 +386,6 @@ $(function() {
     <li><h4>Plagiarism Detection Platform</h4>
       <a href="file.plagiarism_platform.html" class="">Overview</a>
       
-        
         
         
         
@@ -1573,7 +1569,7 @@ permissions)</p>
 
   Returns a list of 
 
-<a href='accounts_(lti).html#Account'>Accounts</a>
+<a href='accounts.html#Account'>Accounts</a>
 
 </div>
 
@@ -1614,7 +1610,7 @@ returns “id”, “name”, “workflow_state”, “root_account_id” and
 
   Returns a list of 
 
-<a href='accounts_(lti).html#Account'>Accounts</a>
+<a href='accounts.html#Account'>Accounts</a>
 
 </div>
 
@@ -1653,7 +1649,7 @@ sis_account_id.</p>
 
   Returns a 
 
-<a href='accounts_(lti).html#Account'>Account</a>
+<a href='accounts.html#Account'>Account</a>
 
 </div>
 
@@ -1826,7 +1822,7 @@ account will be returned. Defaults to false.</p>
 
   Returns a list of 
 
-<a href='accounts_(lti).html#Account'>Accounts</a>
+<a href='accounts.html#Account'>Accounts</a>
 
 </div>
 
@@ -2671,7 +2667,7 @@ matching the keys</p>
 
   Returns a 
 
-<a href='accounts_(lti).html#Account'>Account</a>
+<a href='accounts.html#Account'>Account</a>
 
 </div>
 
@@ -2865,7 +2861,7 @@ Canvas at that account.</p>
 
   Returns a 
 
-<a href='accounts_(lti).html#Account'>Account</a>
+<a href='accounts.html#Account'>Account</a>
 
 </div>
 
@@ -2904,45 +2900,7 @@ delete a root_account</p>
 
   Returns a 
 
-<a href='accounts_(lti).html#Account'>Account</a>
-
-</div>
-
-
-  <div class="method_details ">
-  <h2 class='api_method_name' name='method.lti/account_lookup.show' data-subtopic='Accounts (LTI)'>
-    <a name='method.lti/account_lookup.show' href='#method.lti/account_lookup.show'>
-      Get account
-    </a>
-    
-      <span class='defined-in'><a href="https://github.com/instructure/canvas-lms/blob/master/app/controllers/lti/account_lookup_controller.rb">Lti::AccountLookupController#show</a></span>
-    
-  </h2>
-
-  
-
-  
-  
-
-
-  
-  <h3 class='endpoint'>
-    GET /api/lti/accounts/:account_id
-  </h3>
-  <div>
-    <strong>Scope: </strong>
-    <code class="scope">url:GET|/api/lti/accounts/:account_id</code>
-  </div>
-
-
-<p>Retrieve information on an individual account, given by local or global ID.</p>
-
-
-
-
-  Returns a 
-
-<a href='accounts_(lti).html#Account'>Account</a>
+<a href='accounts.html#Account'>Account</a>
 
 </div>
 
@@ -4949,17 +4907,16 @@ The returned groups are sorted by their position field.</p>
 
       <td class="param-desc">
         
-<p>Associations to include with the group. “discussion_topic”, “all_dates”,
-“can_edit”, “assignment_visibility” &amp; “submission” are only valid if
-“assignments” is also included. The “assignment_visibility” option
-additionally requires that the Differentiated Assignments course feature be
-turned on. If “observed_users” is passed along with “assignments” and
-“submission”, submissions for observed users will also be included as an
-array.</p>
+<p>Associations to include with the group. “discussion_topic”, “all_dates”
+“assignment_visibility” &amp; “submission” are only valid if “assignments”
+is also included. The “assignment_visibility” option additionally requires
+that the Differentiated Assignments course feature be turned on. If
+“observed_users” is passed along with “assignments” and “submission”,
+submissions for observed users will also be included as an array.</p>
 
         
         <p class="param-values">
-          <span class="allowed">Allowed values:</span> <code class=enum>assignments</code>, <code class=enum>discussion_topic</code>, <code class=enum>all_dates</code>, <code class=enum>assignment_visibility</code>, <code class=enum>overrides</code>, <code class=enum>submission</code>, <code class=enum>observed_users</code>, <code class=enum>can_edit</code>
+          <span class="allowed">Allowed values:</span> <code class=enum>assignments</code>, <code class=enum>discussion_topic</code>, <code class=enum>all_dates</code>, <code class=enum>assignment_visibility</code>, <code class=enum>overrides</code>, <code class=enum>submission</code>, <code class=enum>observed_users</code>
         </p>
         
       </td>
@@ -5546,36 +5503,14 @@ assignment group.</p>
 
       <td class="param-desc">
         
-<p>Optional information to include with each assignment:</p>
-<dl class="rdoc-list note-list"><dt>submission
-<dd>
-<p>The current user&#39;s current <code>Submission</code></p>
-</dd><dt>assignment_visibility
-<dd>
-<p>An array of ids of students who can see the assignment</p>
-</dd><dt>all_dates
-<dd>
-<p>An array of <code>AssignmentDate</code> structures, one for each override,
-and also a <code>base</code> if the assignment has an “Everyone” /
-“Everyone Else” date</p>
-</dd><dt>overrides
-<dd>
-<p>An array of <code>AssignmentOverride</code> structures</p>
-</dd><dt>observed_users
-<dd>
-<p>An array of submissions for observed users</p>
-</dd><dt>can_edit
-<dd>
-<p>an extra Boolean value will be included with each <code>Assignment</code>
-(and <code>AssignmentDate</code> if <code>all_dates</code> is supplied) to
-indicate whether the caller can edit the assignment or date. Moderated
-grading and closed grading periods may restrict a user&#39;s ability to
-edit an assignment.</p>
-</dd></dl>
+<p>Associations to include with the assignment. The “assignment_visibility”
+option requires that the Differentiated Assignments course feature be
+turned on. If “observed_users” is passed, submissions for observed users
+will also be included as an array.</p>
 
         
         <p class="param-values">
-          <span class="allowed">Allowed values:</span> <code class=enum>submission</code>, <code class=enum>assignment_visibility</code>, <code class=enum>all_dates</code>, <code class=enum>overrides</code>, <code class=enum>observed_users</code>, <code class=enum>can_edit</code>
+          <span class="allowed">Allowed values:</span> <code class=enum>submission</code>, <code class=enum>assignment_visibility</code>, <code class=enum>all_dates</code>, <code class=enum>overrides</code>, <code class=enum>observed_users</code>
         </p>
         
       </td>
@@ -5816,7 +5751,7 @@ will also be included.</p>
 
         
         <p class="param-values">
-          <span class="allowed">Allowed values:</span> <code class=enum>submission</code>, <code class=enum>assignment_visibility</code>, <code class=enum>overrides</code>, <code class=enum>observed_users</code>, <code class=enum>can_edit</code>
+          <span class="allowed">Allowed values:</span> <code class=enum>submission</code>, <code class=enum>assignment_visibility</code>, <code class=enum>overrides</code>, <code class=enum>observed_users</code>
         </p>
         
       </td>
@@ -65613,7 +65548,7 @@ content.</p>
   });
 </script>
 <div id="footer">
-  &copy; Instructure, Inc. Generated on Fri Apr 17 12:05:20 2020<br>
+  &copy; Instructure, Inc. Generated on Wed Apr 22 09:53:02 2020<br>
   This documentation is generated directly from the Canvas LMS source code, available <a href="https://github.com/instructure/canvas-lms">on Github</a>.
 </div>
 

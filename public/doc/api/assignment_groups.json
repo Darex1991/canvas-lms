@@ -1,7 +1,7 @@
 {
   "apiVersion": "1.0",
   "swaggerVersion": "1.2",
-  "basePath": "http://localhost:3000/api",
+  "basePath": "http://canvas.example.com/api",
   "resourcePath": "/assignment_groups",
   "produces": [
     "application/json"
@@ -29,7 +29,7 @@
             {
               "paramType": "query",
               "name": "include",
-              "description": "Associations to include with the group. \"discussion_topic\", \"all_dates\", \"can_edit\",\n\"assignment_visibility\" & \"submission\" are only valid if \"assignments\" is also included.\nThe \"assignment_visibility\" option additionally requires that the Differentiated Assignments course feature be turned on.\nIf \"observed_users\" is passed along with \"assignments\" and \"submission\", submissions for observed users will also be included as an array.",
+              "description": "Associations to include with the group. \"discussion_topic\", \"all_dates\"\n\"assignment_visibility\" & \"submission\" are only valid if \"assignments\" is also included.\nThe \"assignment_visibility\" option additionally requires that the Differentiated Assignments course feature be turned on.\nIf \"observed_users\" is passed along with \"assignments\" and \"submission\", submissions for observed users will also be included as an array.",
               "type": "array",
               "format": null,
               "required": false,
@@ -41,8 +41,7 @@
                 "assignment_visibility",
                 "overrides",
                 "submission",
-                "observed_users",
-                "can_edit"
+                "observed_users"
               ],
               "items": {
                 "type": "string"

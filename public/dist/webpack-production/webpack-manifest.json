@@ -1,6 +1,6 @@
 {
   "main": [
-    "main-e-a68b79f6b5.js"
+    "main-e-1eb20a2e93.js"
   ],
   "moment/locale/af": [
     "moment/locale/af-c-a6596bb721.js"
@@ -402,24 +402,24 @@
     "10-c-b098a65434.js",
     "11-c-0e6be02c03.js",
     "12-c-32f35a5c2f.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "21-c-41b7cd954b.js",
     "23-c-0fa3d72400.js",
     "25-c-aebf1c234d.js",
     "29-c-5c8c27ba37.js",
     "34-c-7440bdd63a.js",
     "44-c-ea00ec5154.js",
-    "49-c-4998d3c5b5.js",
+    "49-c-5f742ef693.js",
     "55-c-c2b7d2c5a2.js",
     "62-c-229200ac02.js",
     "75-c-e3da822e2b.js",
     "86-c-27b46b9944.js",
     "115-c-2cebdcc53a.js",
-    "92-c-b978067ed9.js",
-    "111-c-e622116145.js",
-    "106-c-b49ced9b83.js",
+    "91-c-e261fd600f.js",
+    "110-c-744cec9d88.js",
+    "105-c-c49652d993.js",
     "121-c-7b55d32fa0.js",
-    "grade_summary-c-c3211cd380.js"
+    "grade_summary-c-b443d11d1f.js"
   ],
   "legacy/assignments_peer_reviews": [
     "0-c-69adc03ea7.js",
@@ -427,8 +427,8 @@
   ],
   "legacy/context_media_object_inline": [
     "0-c-69adc03ea7.js",
-    "17-c-8246a558f2.js",
-    "49-c-4998d3c5b5.js",
+    "17-c-f81f9b6c76.js",
+    "49-c-5f742ef693.js",
     "legacy/context_media_object_inline-c-9689c8a66c.js"
   ],
   "legacy/context_roster_usage": [
@@ -451,9 +451,9 @@
     "14-c-fae883abe3.js",
     "28-c-e8c70752ad.js",
     "56-c-763ca85a00.js",
-    "107-c-52a9ea1927.js",
-    "104-c-9b953ac8c0.js",
-    "legacy/context_roster_user-c-87368eaf88.js"
+    "106-c-c5ae9b7e4d.js",
+    "103-c-a2936037d8.js",
+    "legacy/context_roster_user-c-c1b0755ad4.js"
   ],
   "legacy/context_undelete_item": [
     "0-c-69adc03ea7.js",
@@ -480,8 +480,8 @@
     "58-c-56a0d195d1.js",
     "65-c-dc759a00ea.js",
     "77-c-a9264549d7.js",
-    "119-c-7f22658ec8.js",
-    "legacy/courses_show-c-ce52b79bf3.js"
+    "119-c-465bdd123e.js",
+    "legacy/courses_show-c-50b6e9b395.js"
   ],
   "legacy/eportfolios_wizard_box": [
     "0-c-69adc03ea7.js",
@@ -499,8 +499,8 @@
   "legacy/external_tools_tool_show": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "69-c-5ef8c6d548.js",
-    "legacy/external_tools_tool_show-c-f6bc7b8e6b.js"
+    "69-c-e5e87007b7.js",
+    "legacy/external_tools_tool_show-c-fea69c9312.js"
   ],
   "legacy/inlined_preview": [
     "0-c-69adc03ea7.js",
@@ -511,18 +511,18 @@
   ],
   "legacy/rubrics_index": [
     "0-c-69adc03ea7.js",
-    "152-c-28ee109c05.js",
+    "153-c-d3fd4de7be.js",
     "legacy/rubrics_index-c-960e6f398d.js"
   ],
   "legacy/rubrics_show": [
     "0-c-69adc03ea7.js",
-    "152-c-28ee109c05.js",
+    "153-c-d3fd4de7be.js",
     "legacy/rubrics_show-c-cd1a41a14e.js"
   ],
   "legacy/submissions_show_preview_media": [
     "0-c-69adc03ea7.js",
-    "17-c-8246a558f2.js",
-    "49-c-4998d3c5b5.js",
+    "17-c-f81f9b6c76.js",
+    "49-c-5f742ef693.js",
     "legacy/submissions_show_preview_media-c-9319174205.js"
   ],
   "legacy/submissions_show_preview_text": [
@@ -559,8 +559,8 @@
     "43-c-87c8ce5435.js",
     "56-c-763ca85a00.js",
     "68-c-f43fbb3a7c.js",
-    "107-c-52a9ea1927.js",
-    "account_admin_tools-c-c793414f52.js"
+    "106-c-c5ae9b7e4d.js",
+    "account_admin_tools-c-7ee9077048.js"
   ],
   "account_course_user_search": [
     "2-c-cce4d2d9c4.js",
@@ -587,12 +587,12 @@
     "30-c-0c482572a9.js",
     "40-c-fd24a72ef0.js",
     "41-c-aee6783f5b.js",
-    "52-c-ac8e97dadd.js",
+    "52-c-780a21dc1e.js",
     "58-c-56a0d195d1.js",
     "59-c-04e3f3ed54.js",
     "78-c-c6570b8947.js",
-    "97-c-a240354d0e.js",
-    "account_course_user_search-c-00f7cd7eb3.js"
+    "96-c-716463d00b.js",
+    "account_course_user_search-c-e69ae3cd1f.js"
   ],
   "account_grading_standards": [
     "0-c-69adc03ea7.js",
@@ -605,7 +605,7 @@
     "23-c-0fa3d72400.js",
     "61-c-35aebf9001.js",
     "86-c-27b46b9944.js",
-    "101-c-beb2788b1c.js",
+    "100-c-4811b1a8d6.js",
     "143-c-f99c4211fe.js",
     "account_grading_standards-c-49b08cdb3c.js"
   ],
@@ -622,22 +622,22 @@
     "7-c-eee1aded79.js",
     "9-c-b2403f362d.js",
     "12-c-32f35a5c2f.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "23-c-0fa3d72400.js",
     "26-c-e3e27b914e.js",
     "34-c-7440bdd63a.js",
     "50-c-1b9c14cabe.js",
-    "93-c-8bec7ef1ee.js",
-    "113-c-75ebf3556d.js",
-    "135-c-743a5a9d8e.js",
-    "account_settings-c-ab509c9542.js"
+    "92-c-8fb2269f97.js",
+    "112-c-9e37ac9a4f.js",
+    "135-c-d5adc08573.js",
+    "account_settings-c-76ddd7e820.js"
   ],
   "account_show": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
     "68-c-f43fbb3a7c.js",
-    "account_show-c-5f02b20c00.js"
+    "account_show-c-94026de985.js"
   ],
   "account_statistics": [
     "0-c-69adc03ea7.js",
@@ -651,7 +651,7 @@
   ],
   "add_course_or_user": [
     "0-c-69adc03ea7.js",
-    "113-c-75ebf3556d.js",
+    "112-c-9e37ac9a4f.js",
     "add_course_or_user-c-a3bc51337b.js"
   ],
   "alerts": [
@@ -690,8 +690,8 @@
     "60-c-cbae5d6a32.js",
     "78-c-c6570b8947.js",
     "82-c-d8dc194141.js",
-    "91-c-b13e9359c8.js",
-    "announcements_index_v2-c-9ac226e9fc.js"
+    "90-c-7e0fde150a.js",
+    "announcements_index_v2-c-eae619b5a9.js"
   ],
   "announcements_on_home_page": [
     "2-c-cce4d2d9c4.js",
@@ -708,8 +708,8 @@
     "26-c-e3e27b914e.js",
     "33-c-04d01c28d7.js",
     "82-c-d8dc194141.js",
-    "91-c-b13e9359c8.js",
-    "announcements_on_home_page-c-305aefdde9.js"
+    "90-c-7e0fde150a.js",
+    "announcements_on_home_page-c-6836b30cba.js"
   ],
   "assignment_edit": [
     "0-c-69adc03ea7.js",
@@ -722,26 +722,26 @@
     "7-c-eee1aded79.js",
     "12-c-32f35a5c2f.js",
     "15-c-6fe730520f.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "23-c-0fa3d72400.js",
     "24-c-58529195f3.js",
-    "31-c-11d8259c06.js",
+    "31-c-f1e0b42d7a.js",
     "33-c-04d01c28d7.js",
-    "42-c-1c99cbf505.js",
-    "45-c-938ab9c4cc.js",
+    "42-c-872f4ee23e.js",
+    "45-c-db66b5ba82.js",
     "50-c-1b9c14cabe.js",
     "54-c-95c1da223f.js",
     "72-c-83fc34fdda.js",
-    "85-c-e65704e3e8.js",
+    "85-c-624e101044.js",
     "83-c-f50de6c93d.js",
-    "80-c-9cbf6ba8d5.js",
+    "80-c-7bd111fd09.js",
     "81-c-0f3eb6097e.js",
-    "101-c-beb2788b1c.js",
+    "100-c-4811b1a8d6.js",
     "132-c-8f1b59e021.js",
-    "139-c-85788ffbc0.js",
-    "146-c-a2257a41db.js",
-    "assignment_edit-c-805b959e75.js"
+    "139-c-8bc79d0ab2.js",
+    "146-c-c192db2c44.js",
+    "assignment_edit-c-6a180ce79c.js"
   ],
   "assignment_grade_summary": [
     "2-c-cce4d2d9c4.js",
@@ -769,9 +769,9 @@
     "38-c-150fc0dedb.js",
     "57-c-1235c4d66e.js",
     "66-c-437a67e61d.js",
-    "73-c-53195d7493.js",
+    "73-c-28ea296c22.js",
     "78-c-c6570b8947.js",
-    "assignment_grade_summary-c-caf8aa3751.js"
+    "assignment_grade_summary-c-2fa33be9c8.js"
   ],
   "assignment_index": [
     "0-c-69adc03ea7.js",
@@ -787,20 +787,21 @@
     "16-c-6a4669110d.js",
     "18-c-1851e2e99e.js",
     "21-c-41b7cd954b.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "33-c-04d01c28d7.js",
     "37-c-0a44f2e4bd.js",
-    "45-c-938ab9c4cc.js",
+    "45-c-db66b5ba82.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
     "53-c-4b31487cf6.js",
     "58-c-56a0d195d1.js",
-    "71-c-fe7a3c5a32.js",
+    "71-c-702df3acce.js",
     "83-c-f50de6c93d.js",
-    "79-c-3290c8fecc.js",
+    "79-c-a844ef543b.js",
     "84-c-0255a3b466.js",
+    "114-c-3cc395bd98.js",
     "128-c-0249686b54.js",
-    "assignment_index-c-06dc25cb2d.js"
+    "assignment_index-c-e1521e5b52.js"
   ],
   "assignment_show": [
     "0-c-69adc03ea7.js",
@@ -821,18 +822,18 @@
     "19-c-adc1d71d40.js",
     "21-c-41b7cd954b.js",
     "24-c-58529195f3.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "29-c-5c8c27ba37.js",
     "33-c-04d01c28d7.js",
     "36-c-06d08a3b1e.js",
-    "42-c-1c99cbf505.js",
+    "42-c-872f4ee23e.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
     "54-c-95c1da223f.js",
     "72-c-83fc34fdda.js",
-    "71-c-fe7a3c5a32.js",
-    "85-c-e65704e3e8.js",
-    "assignment_show-c-ea9a6eb2ea.js"
+    "71-c-702df3acce.js",
+    "85-c-624e101044.js",
+    "assignment_show-c-ca31f0da2f.js"
   ],
   "assignments_2_show_student": [
     "2-c-cce4d2d9c4.js",
@@ -849,7 +850,7 @@
     "16-c-6a4669110d.js",
     "18-c-1851e2e99e.js",
     "25-c-aebf1c234d.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "29-c-5c8c27ba37.js",
     "36-c-06d08a3b1e.js",
     "34-c-7440bdd63a.js",
@@ -857,9 +858,9 @@
     "43-c-87c8ce5435.js",
     "46-c-970adffeda.js",
     "62-c-229200ac02.js",
-    "110-c-98d47ef514.js",
-    "111-c-e622116145.js",
-    "assignments_2_show_student-c-fca21d265b.js"
+    "109-c-cd1f5dbdf6.js",
+    "110-c-744cec9d88.js",
+    "assignments_2_show_student-c-06826d477d.js"
   ],
   "assignments_2_show_teacher": [
     "0-c-69adc03ea7.js",
@@ -878,20 +879,20 @@
     "14-c-fae883abe3.js",
     "15-c-6fe730520f.js",
     "16-c-6a4669110d.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "18-c-1851e2e99e.js",
-    "20-c-8cc3db6cd7.js",
+    "20-c-34a145dfde.js",
     "22-c-34fb0daf4e.js",
     "25-c-aebf1c234d.js",
     "24-c-58529195f3.js",
     "26-c-e3e27b914e.js",
     "27-c-955dd1f7d2.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "29-c-5c8c27ba37.js",
     "28-c-e8c70752ad.js",
     "36-c-06d08a3b1e.js",
     "34-c-7440bdd63a.js",
-    "assignments_2_show_teacher-c-227bb2c763.js"
+    "assignments_2_show_teacher-c-f883a6249b.js"
   ],
   "authentication_providers": [
     "15-c-6fe730520f.js",
@@ -915,7 +916,7 @@
     "29-c-5c8c27ba37.js",
     "36-c-06d08a3b1e.js",
     "34-c-7440bdd63a.js",
-    "42-c-1c99cbf505.js",
+    "42-c-872f4ee23e.js",
     "59-c-04e3f3ed54.js",
     "61-c-35aebf9001.js",
     "120-c-b02f85c531.js",
@@ -940,7 +941,7 @@
     "59-c-04e3f3ed54.js",
     "61-c-35aebf9001.js",
     "120-c-b02f85c531.js",
-    "blueprint_course_master-c-d8807bdab0.js"
+    "blueprint_course_master-c-341a3d60e8.js"
   ],
   "brand_configs_index": [
     "2-c-cce4d2d9c4.js",
@@ -972,10 +973,10 @@
     "22-c-34fb0daf4e.js",
     "27-c-955dd1f7d2.js",
     "34-c-7440bdd63a.js",
-    "98-c-50cd2aecd6.js",
-    "124-c-c5eb6e2d5a.js",
+    "97-c-b911a668f8.js",
+    "124-c-a8d799f475.js",
     "132-c-8f1b59e021.js",
-    "calendar_appointment_group_edit-c-3bf0c365f8.js"
+    "calendar_appointment_group_edit-c-755ccee384.js"
   ],
   "calendar2": [
     "0-c-69adc03ea7.js",
@@ -992,26 +993,26 @@
     "23-c-0fa3d72400.js",
     "35-c-43b12af646.js",
     "53-c-4b31487cf6.js",
-    "67-c-bfa50b88aa.js",
-    "112-c-3121d25b64.js",
-    "124-c-c5eb6e2d5a.js",
-    "calendar2-c-727dee1ce5.js"
+    "67-c-990c9f198b.js",
+    "111-c-41ddc42336.js",
+    "124-c-a8d799f475.js",
+    "calendar2-c-454841d2ab.js"
   ],
   "change_password": [
-    "52-c-ac8e97dadd.js",
+    "52-c-780a21dc1e.js",
     "change_password-c-0ab9651a83.js"
   ],
   "choose_mastery_path": [
     "1-c-43b0fbf02b.js",
     "19-c-adc1d71d40.js",
-    "choose_mastery_path-c-d19822be8f.js"
+    "choose_mastery_path-c-c75f6fc901.js"
   ],
   "collaborations": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
     "50-c-1b9c14cabe.js",
-    "153-c-bb36ee8da2.js",
-    "collaborations-c-91561f19de.js"
+    "154-c-2e83cc8717.js",
+    "collaborations-c-d9fa4df658.js"
   ],
   "conferences": [
     "0-c-69adc03ea7.js",
@@ -1019,9 +1020,9 @@
     "4-c-6e04017a27.js",
     "9-c-b2403f362d.js",
     "44-c-ea00ec5154.js",
-    "95-c-71962bbdd2.js",
-    "111-c-e622116145.js",
-    "conferences-c-6eaa316e15.js"
+    "94-c-f638c52176.js",
+    "110-c-744cec9d88.js",
+    "conferences-c-f4b7ffadee.js"
   ],
   "confetti": [
     "2-c-cce4d2d9c4.js",
@@ -1032,7 +1033,7 @@
     "confetti-c-1e2e060176.js"
   ],
   "confirm_email": [
-    "90-c-44d2fa1418.js",
+    "89-c-29398f1caa.js",
     "confirm_email-c-fc3bfcdb10.js"
   ],
   "content_exports": [
@@ -1042,10 +1043,10 @@
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
     "3-c-67961ae1de.js",
-    "31-c-11d8259c06.js",
-    "45-c-938ab9c4cc.js",
+    "31-c-f1e0b42d7a.js",
+    "45-c-db66b5ba82.js",
     "68-c-f43fbb3a7c.js",
-    "133-c-bc844b496f.js",
+    "133-c-f7c2fd4b0a.js",
     "148-c-badef24b68.js",
     "content_migration-c-19224b2646.js"
   ],
@@ -1070,16 +1071,16 @@
     "18-c-1851e2e99e.js",
     "21-c-41b7cd954b.js",
     "26-c-e3e27b914e.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "47-c-fc68e8a451.js",
     "78-c-c6570b8947.js",
-    "93-c-8bec7ef1ee.js",
-    "content_shares-c-e0c75c0d2d.js"
+    "92-c-8fb2269f97.js",
+    "content_shares-c-e843aa3594.js"
   ],
   "context_module_progressions": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "context_module_progressions-c-92caa9deab.js"
+    "context_module_progressions-c-449f0d3dbd.js"
   ],
   "context_modules": [
     "0-c-69adc03ea7.js",
@@ -1097,16 +1098,16 @@
     "18-c-1851e2e99e.js",
     "24-c-58529195f3.js",
     "27-c-955dd1f7d2.js",
-    "32-c-151e5bfc9c.js",
-    "31-c-11d8259c06.js",
+    "32-c-8167c606ab.js",
+    "31-c-f1e0b42d7a.js",
     "35-c-43b12af646.js",
     "37-c-0a44f2e4bd.js",
     "48-c-23cfe64ff2.js",
-    "79-c-3290c8fecc.js",
+    "79-c-a844ef543b.js",
     "84-c-0255a3b466.js",
-    "103-c-21e8295c3e.js",
+    "102-c-b819bdd310.js",
     "126-c-a2dab57cf9.js",
-    "context_modules-c-7906a55c06.js"
+    "context_modules-c-f331c29368.js"
   ],
   "conversations_new": [
     "0-c-69adc03ea7.js",
@@ -1115,15 +1116,15 @@
     "15-c-6fe730520f.js",
     "22-c-34fb0daf4e.js",
     "50-c-1b9c14cabe.js",
-    "conversations_new-c-3ad56d91bd.js"
+    "conversations_new-c-bac1d65ac2.js"
   ],
   "copy_course": [
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
     "3-c-67961ae1de.js",
-    "31-c-11d8259c06.js",
-    "133-c-bc844b496f.js",
-    "copy_course-c-409de8a5f4.js"
+    "31-c-f1e0b42d7a.js",
+    "133-c-f7c2fd4b0a.js",
+    "copy_course-c-d5d89b6e6b.js"
   ],
   "course_grading_standards": [
     "0-c-69adc03ea7.js",
@@ -1135,7 +1136,7 @@
     "2-c-cce4d2d9c4.js",
     "5-c-d544771a9c.js",
     "25-c-aebf1c234d.js",
-    "course_link_validator-c-8e5faaf5d2.js"
+    "course_link_validator-c-90442803a3.js"
   ],
   "course_list": [
     "course_list-c-82c0b895ba.js"
@@ -1149,11 +1150,12 @@
     "13-c-60c7461e9f.js",
     "16-c-6a4669110d.js",
     "18-c-1851e2e99e.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "39-c-5336252c63.js",
     "43-c-87c8ce5435.js",
     "61-c-35aebf9001.js",
-    "course_notification_settings_show-c-10d3844d85.js"
+    "114-c-3cc395bd98.js",
+    "course_notification_settings_show-c-e29ce28b8d.js"
   ],
   "course_settings": [
     "0-c-69adc03ea7.js",
@@ -1179,25 +1181,26 @@
     "25-c-aebf1c234d.js",
     "26-c-e3e27b914e.js",
     "27-c-955dd1f7d2.js",
-    "31-c-11d8259c06.js",
+    "31-c-f1e0b42d7a.js",
     "37-c-0a44f2e4bd.js",
     "40-c-fd24a72ef0.js",
-    "42-c-1c99cbf505.js",
+    "42-c-872f4ee23e.js",
     "46-c-970adffeda.js",
     "68-c-f43fbb3a7c.js",
-    "course_settings-c-0d81a51813.js"
+    "course_settings-c-5a16f15681.js"
   ],
   "course_statistics": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
     "23-c-0fa3d72400.js",
-    "course_statistics-c-53bbf0c5ca.js"
+    "course_statistics-c-a3aec1dfd9.js"
   ],
   "course_wizard": [
-    "course_wizard-c-aaf64f3d7f.js"
+    "course_wizard-c-f72ac2bd22.js"
   ],
   "course": [
-    "course-c-967a2ac753.js"
+    "114-c-3cc395bd98.js",
+    "course-c-e7d0c7231b.js"
   ],
   "dashboard_card": [
     "2-c-cce4d2d9c4.js",
@@ -1214,8 +1217,8 @@
     "35-c-43b12af646.js",
     "46-c-970adffeda.js",
     "53-c-4b31487cf6.js",
-    "67-c-bfa50b88aa.js",
-    "110-c-98d47ef514.js",
+    "67-c-990c9f198b.js",
+    "109-c-cd1f5dbdf6.js",
     "117-c-3578368725.js",
     "dashboard_card-c-6ede380ba5.js"
   ],
@@ -1240,13 +1243,13 @@
     "46-c-970adffeda.js",
     "53-c-4b31487cf6.js",
     "56-c-763ca85a00.js",
-    "67-c-bfa50b88aa.js",
+    "67-c-990c9f198b.js",
     "65-c-dc759a00ea.js",
     "77-c-a9264549d7.js",
-    "110-c-98d47ef514.js",
-    "119-c-7f22658ec8.js",
+    "109-c-cd1f5dbdf6.js",
+    "119-c-465bdd123e.js",
     "117-c-3578368725.js",
-    "dashboard-c-ef633b32c5.js"
+    "dashboard-c-2fdb67858b.js"
   ],
   "deep_linking_response": [
     "25-c-aebf1c234d.js",
@@ -1282,12 +1285,12 @@
     "59-c-04e3f3ed54.js",
     "61-c-35aebf9001.js",
     "60-c-cbae5d6a32.js",
-    "developer_keys_react-c-fa8025dd12.js"
+    "developer_keys_react-c-ec2fae8b92.js"
   ],
   "developer_keys": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "developer_keys-c-1242ea8ca8.js"
+    "developer_keys-c-ee94d2ab68.js"
   ],
   "discussion_topics_edit": [
     "0-c-69adc03ea7.js",
@@ -1302,24 +1305,24 @@
     "9-c-b2403f362d.js",
     "11-c-0e6be02c03.js",
     "12-c-32f35a5c2f.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "23-c-0fa3d72400.js",
     "24-c-58529195f3.js",
     "28-c-e8c70752ad.js",
     "33-c-04d01c28d7.js",
-    "42-c-1c99cbf505.js",
+    "42-c-872f4ee23e.js",
     "38-c-150fc0dedb.js",
-    "45-c-938ab9c4cc.js",
+    "45-c-db66b5ba82.js",
     "50-c-1b9c14cabe.js",
     "54-c-95c1da223f.js",
     "72-c-83fc34fdda.js",
-    "85-c-e65704e3e8.js",
+    "85-c-624e101044.js",
     "82-c-d8dc194141.js",
     "83-c-f50de6c93d.js",
-    "80-c-9cbf6ba8d5.js",
+    "80-c-7bd111fd09.js",
     "81-c-0f3eb6097e.js",
-    "discussion_topics_edit-c-ab948b3586.js"
+    "discussion_topics_edit-c-8161382ef5.js"
   ],
   "discussion_topics_index_v2": [
     "2-c-cce4d2d9c4.js",
@@ -1345,13 +1348,13 @@
     "24-c-58529195f3.js",
     "26-c-e3e27b914e.js",
     "27-c-955dd1f7d2.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "29-c-5c8c27ba37.js",
     "33-c-04d01c28d7.js",
     "36-c-06d08a3b1e.js",
     "34-c-7440bdd63a.js",
     "47-c-fc68e8a451.js",
-    "discussion_topics_index_v2-c-39e7a05414.js"
+    "discussion_topics_index_v2-c-7a5f025cfd.js"
   ],
   "discussion": [
     "0-c-69adc03ea7.js",
@@ -1368,19 +1371,19 @@
     "12-c-32f35a5c2f.js",
     "14-c-fae883abe3.js",
     "16-c-6a4669110d.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "18-c-1851e2e99e.js",
-    "20-c-8cc3db6cd7.js",
+    "20-c-34a145dfde.js",
     "21-c-41b7cd954b.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "33-c-04d01c28d7.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
     "72-c-83fc34fdda.js",
-    "71-c-fe7a3c5a32.js",
+    "71-c-702df3acce.js",
     "82-c-d8dc194141.js",
-    "145-c-61d6bc1cd6.js",
-    "discussion-c-aa97049c97.js"
+    "145-c-183352165f.js",
+    "discussion-c-54715ff9a4.js"
   ],
   "edit_calendar_event": [
     "0-c-69adc03ea7.js",
@@ -1390,11 +1393,11 @@
     "4-c-6e04017a27.js",
     "9-c-b2403f362d.js",
     "11-c-0e6be02c03.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
-    "80-c-9cbf6ba8d5.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
+    "80-c-7bd111fd09.js",
     "86-c-27b46b9944.js",
-    "edit_calendar_event-c-cebf075907.js"
+    "edit_calendar_event-c-8b3d8949d8.js"
   ],
   "edit_rubric": [
     "0-c-69adc03ea7.js",
@@ -1409,21 +1412,21 @@
     "13-c-60c7461e9f.js",
     "14-c-fae883abe3.js",
     "16-c-6a4669110d.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "26-c-e3e27b914e.js",
     "35-c-43b12af646.js",
     "40-c-fd24a72ef0.js",
     "46-c-970adffeda.js",
     "53-c-4b31487cf6.js",
     "55-c-c2b7d2c5a2.js",
-    "67-c-bfa50b88aa.js",
-    "63-c-f281466dcb.js",
-    "70-c-12b03e260a.js",
+    "67-c-990c9f198b.js",
+    "63-c-5e69951260.js",
+    "70-c-d37a0b17a5.js",
     "75-c-e3da822e2b.js",
     "74-c-fcad4cf1a4.js",
-    "99-c-eed6a86009.js",
-    "edit_rubric-c-04dcb8e824.js"
+    "98-c-078835c835.js",
+    "edit_rubric-c-749f6e93ce.js"
   ],
   "eportfolio": [
     "0-c-69adc03ea7.js",
@@ -1432,11 +1435,11 @@
     "13-c-60c7461e9f.js",
     "14-c-fae883abe3.js",
     "15-c-6fe730520f.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "37-c-0a44f2e4bd.js",
-    "142-c-da05ca703c.js",
-    "eportfolio-c-181debf01e.js"
+    "142-c-72add7eb8b.js",
+    "eportfolio-c-ec89793189.js"
   ],
   "epub_exports": [
     "epub_exports-c-8a573f8550.js"
@@ -1450,7 +1453,7 @@
     "14-c-fae883abe3.js",
     "35-c-43b12af646.js",
     "59-c-04e3f3ed54.js",
-    "external_apps-c-663613ccae.js"
+    "external_apps-c-ec4dc290e6.js"
   ],
   "external_tool_redirect": [
     "external_tool_redirect-c-bce5c0f53e.js"
@@ -1464,8 +1467,8 @@
   ],
   "file_preview": [
     "0-c-69adc03ea7.js",
-    "17-c-8246a558f2.js",
-    "49-c-4998d3c5b5.js",
+    "17-c-f81f9b6c76.js",
+    "49-c-5f742ef693.js",
     "file_preview-c-abde085e26.js"
   ],
   "file_show": [
@@ -1493,13 +1496,13 @@
     "38-c-150fc0dedb.js",
     "56-c-763ca85a00.js",
     "62-c-229200ac02.js",
-    "107-c-52a9ea1927.js",
+    "106-c-c5ae9b7e4d.js",
     "gradebook_history-c-6b1c84af47.js"
   ],
   "gradebook_uploads": [
     "37-c-0a44f2e4bd.js",
     "62-c-229200ac02.js",
-    "105-c-8bf8a13ae3.js",
+    "104-c-04ce3c4477.js",
     "gradebook_uploads-c-edfefae434.js"
   ],
   "gradebook": [
@@ -1532,7 +1535,7 @@
     "39-c-5336252c63.js",
     "43-c-87c8ce5435.js",
     "41-c-aee6783f5b.js",
-    "gradebook-c-1ed708869d.js"
+    "gradebook-c-01c7969651.js"
   ],
   "graphiql": [
     "1-c-43b0fbf02b.js",
@@ -1546,12 +1549,12 @@
   "jobs": [
     "0-c-69adc03ea7.js",
     "37-c-0a44f2e4bd.js",
-    "105-c-8bf8a13ae3.js",
+    "104-c-04ce3c4477.js",
     "jobs-c-4c5a5205e6.js"
   ],
   "ldap_settings_test": [
     "0-c-69adc03ea7.js",
-    "113-c-75ebf3556d.js",
+    "112-c-9e37ac9a4f.js",
     "ldap_settings_test-c-51ffbe38f6.js"
   ],
   "learning_outcomes": [
@@ -1566,14 +1569,14 @@
     "11-c-0e6be02c03.js",
     "13-c-60c7461e9f.js",
     "14-c-fae883abe3.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "28-c-e8c70752ad.js",
     "40-c-fd24a72ef0.js",
     "55-c-c2b7d2c5a2.js",
-    "63-c-f281466dcb.js",
-    "70-c-12b03e260a.js",
-    "learning_outcomes-c-c2940829f6.js"
+    "63-c-5e69951260.js",
+    "70-c-d37a0b17a5.js",
+    "learning_outcomes-c-2f72662f4c.js"
   ],
   "license_help": [
     "0-c-69adc03ea7.js",
@@ -1589,9 +1592,9 @@
   "login": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "52-c-ac8e97dadd.js",
-    "102-c-91eee1207c.js",
-    "login-c-cd6ff4da91.js"
+    "52-c-780a21dc1e.js",
+    "101-c-51a122f1d6.js",
+    "login-c-d47ed1e087.js"
   ],
   "manage_avatars": [
     "0-c-69adc03ea7.js",
@@ -1618,23 +1621,23 @@
     "23-c-0fa3d72400.js",
     "39-c-5336252c63.js",
     "43-c-87c8ce5435.js",
-    "45-c-938ab9c4cc.js",
+    "45-c-db66b5ba82.js",
     "50-c-1b9c14cabe.js",
     "57-c-1235c4d66e.js",
     "66-c-437a67e61d.js",
-    "73-c-53195d7493.js",
+    "73-c-28ea296c22.js",
     "81-c-0f3eb6097e.js",
     "84-c-0255a3b466.js",
-    "146-c-a2257a41db.js",
-    "195-c-05838471a5.js",
-    "manage_groups2-c-526b70f276.js"
+    "146-c-c192db2c44.js",
+    "196-c-6c4436ba19.js",
+    "manage_groups2-c-d75fc924a6.js"
   ],
   "media_player_iframe_content": [
     "4-c-6e04017a27.js",
     "6-c-179ba7c927.js",
     "7-c-eee1aded79.js",
     "12-c-32f35a5c2f.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "76-c-55945b5ebb.js",
     "127-c-6c436f0c8f.js",
     "media_player_iframe_content-c-c5aa905691.js"
@@ -1643,13 +1646,13 @@
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
     "23-c-0fa3d72400.js",
-    "messages-c-c3b06f7c77.js"
+    "messages-c-1ce2729996.js"
   ],
   "mobile_login": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "52-c-ac8e97dadd.js",
-    "102-c-91eee1207c.js",
+    "52-c-780a21dc1e.js",
+    "101-c-51a122f1d6.js",
     "mobile_login-c-1604f59d29.js"
   ],
   "moderate_quiz": [
@@ -1664,16 +1667,16 @@
     "7-c-eee1aded79.js",
     "12-c-32f35a5c2f.js",
     "15-c-6fe730520f.js",
-    "69-c-5ef8c6d548.js",
-    "85-c-e65704e3e8.js",
-    "module_sequence_footer-c-1cc7916e59.js"
+    "69-c-e5e87007b7.js",
+    "85-c-624e101044.js",
+    "module_sequence_footer-c-84540bdf7b.js"
   ],
   "nav_tourpoints": [
     "nav_tourpoints-c-5943964b8c.js"
   ],
   "navigation_header": [],
   "not_found_index": [
-    "92-c-b978067ed9.js",
+    "91-c-e261fd600f.js",
     "129-c-8b413180e1.js",
     "not_found_index-c-5c07aa02f4.js"
   ],
@@ -1686,8 +1689,8 @@
     "8-c-4b72deded3.js",
     "12-c-32f35a5c2f.js",
     "58-c-56a0d195d1.js",
-    "90-c-44d2fa1418.js",
-    "notification_preferences-c-5f5eaaa59d.js"
+    "89-c-29398f1caa.js",
+    "notification_preferences-c-add3fc5216.js"
   ],
   "oauth2_confirm": [
     "oauth2_confirm-c-33a2099b31.js"
@@ -1704,13 +1707,13 @@
     "65-c-dc759a00ea.js",
     "60-c-cbae5d6a32.js",
     "75-c-e3da822e2b.js",
-    "96-c-8bcab19832.js",
+    "95-c-221b157220.js",
     "outcome_alignments-c-58f9659e25.js"
   ],
   "page_views": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "page_views-c-17cd4dc100.js"
+    "page_views-c-dc485cd98f.js"
   ],
   "permissions_index": [
     "2-c-cce4d2d9c4.js",
@@ -1739,7 +1742,7 @@
     "61-c-35aebf9001.js",
     "60-c-cbae5d6a32.js",
     "74-c-fcad4cf1a4.js",
-    "permissions_index-c-04db477929.js"
+    "permissions_index-c-71e677b28d.js"
   ],
   "plugins": [
     "0-c-69adc03ea7.js",
@@ -1760,25 +1763,25 @@
     "18-c-1851e2e99e.js",
     "24-c-58529195f3.js",
     "27-c-955dd1f7d2.js",
-    "32-c-151e5bfc9c.js",
-    "31-c-11d8259c06.js",
+    "32-c-8167c606ab.js",
+    "31-c-f1e0b42d7a.js",
     "35-c-43b12af646.js",
     "37-c-0a44f2e4bd.js",
     "48-c-23cfe64ff2.js",
-    "79-c-3290c8fecc.js",
+    "79-c-a844ef543b.js",
     "84-c-0255a3b466.js",
-    "103-c-21e8295c3e.js",
+    "102-c-b819bdd310.js",
     "126-c-a2dab57cf9.js",
-    "prerequisites_lookup-c-7753323cd6.js"
+    "prerequisites_lookup-c-a21535a957.js"
   ],
   "profile_show": [
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
     "3-c-67961ae1de.js",
-    "31-c-11d8259c06.js",
-    "90-c-44d2fa1418.js",
+    "31-c-f1e0b42d7a.js",
+    "89-c-29398f1caa.js",
     "141-c-1f2ace0253.js",
-    "profile_show-c-30edf2d901.js"
+    "profile_show-c-4068a590ff.js"
   ],
   "profile": [
     "0-c-69adc03ea7.js",
@@ -1788,12 +1791,12 @@
     "5-c-d544771a9c.js",
     "14-c-fae883abe3.js",
     "23-c-0fa3d72400.js",
-    "31-c-11d8259c06.js",
+    "31-c-f1e0b42d7a.js",
     "37-c-0a44f2e4bd.js",
-    "52-c-ac8e97dadd.js",
-    "90-c-44d2fa1418.js",
-    "104-c-9b953ac8c0.js",
-    "135-c-743a5a9d8e.js",
+    "52-c-780a21dc1e.js",
+    "89-c-29398f1caa.js",
+    "103-c-a2936037d8.js",
+    "135-c-d5adc08573.js",
     "141-c-1f2ace0253.js",
     "profile-c-1c25df8ca1.js"
   ],
@@ -1812,12 +1815,12 @@
     "5-c-d544771a9c.js",
     "13-c-60c7461e9f.js",
     "14-c-fae883abe3.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "55-c-c2b7d2c5a2.js",
-    "63-c-f281466dcb.js",
-    "70-c-12b03e260a.js",
-    "question_bank-c-1ab26f06ec.js"
+    "63-c-5e69951260.js",
+    "70-c-d37a0b17a5.js",
+    "question_bank-c-d125b6a89f.js"
   ],
   "question_banks": [
     "0-c-69adc03ea7.js",
@@ -1825,7 +1828,7 @@
   ],
   "quiz_history": [
     "0-c-69adc03ea7.js",
-    "154-c-312922ead7.js",
+    "155-c-c08ddb6324.js",
     "quiz_history-c-7eff96c2fc.js"
   ],
   "quiz_show": [
@@ -1848,17 +1851,17 @@
     "19-c-adc1d71d40.js",
     "21-c-41b7cd954b.js",
     "24-c-58529195f3.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "29-c-5c8c27ba37.js",
     "33-c-04d01c28d7.js",
     "36-c-06d08a3b1e.js",
-    "42-c-1c99cbf505.js",
-    "45-c-938ab9c4cc.js",
+    "42-c-872f4ee23e.js",
+    "45-c-db66b5ba82.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
     "54-c-95c1da223f.js",
-    "69-c-5ef8c6d548.js",
-    "quiz_show-c-a8b93783c3.js"
+    "69-c-e5e87007b7.js",
+    "quiz_show-c-23e2e43a4f.js"
   ],
   "quiz_statistics_cqs": [
     "0-c-69adc03ea7.js",
@@ -1867,7 +1870,7 @@
     "quiz_statistics_cqs-c-61309ab4f5.js"
   ],
   "quiz_submission_events": [
-    "108-c-0564951cfe.js",
+    "107-c-6f63ad7f6c.js",
     "123-c-5dbb93d40f.js",
     "quiz_submission_events-c-b714abb2ea.js"
   ],
@@ -1884,22 +1887,22 @@
     "6-c-179ba7c927.js",
     "7-c-eee1aded79.js",
     "12-c-32f35a5c2f.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "23-c-0fa3d72400.js",
     "24-c-58529195f3.js",
     "33-c-04d01c28d7.js",
     "37-c-0a44f2e4bd.js",
-    "42-c-1c99cbf505.js",
+    "42-c-872f4ee23e.js",
     "54-c-95c1da223f.js",
     "72-c-83fc34fdda.js",
     "83-c-f50de6c93d.js",
-    "80-c-9cbf6ba8d5.js",
-    "101-c-beb2788b1c.js",
-    "139-c-85788ffbc0.js",
-    "145-c-61d6bc1cd6.js",
-    "154-c-312922ead7.js",
-    "quizzes_bundle-c-5ef3d993a1.js"
+    "80-c-7bd111fd09.js",
+    "100-c-4811b1a8d6.js",
+    "139-c-8bc79d0ab2.js",
+    "145-c-183352165f.js",
+    "155-c-c08ddb6324.js",
+    "quizzes_bundle-c-522047cb99.js"
   ],
   "quizzes_index": [
     "0-c-69adc03ea7.js",
@@ -1914,21 +1917,21 @@
     "16-c-6a4669110d.js",
     "18-c-1851e2e99e.js",
     "21-c-41b7cd954b.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "33-c-04d01c28d7.js",
     "44-c-ea00ec5154.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
-    "71-c-fe7a3c5a32.js",
-    "79-c-3290c8fecc.js",
+    "71-c-702df3acce.js",
+    "79-c-a844ef543b.js",
     "128-c-0249686b54.js",
-    "quizzes_index-c-02586940ba.js"
+    "quizzes_index-c-2fa2021cdf.js"
   ],
   "react_collaborations": [
     "1-c-43b0fbf02b.js",
     "59-c-04e3f3ed54.js",
-    "114-c-5fd48f3109.js",
-    "153-c-bb36ee8da2.js",
+    "113-c-ee8d7282fe.js",
+    "154-c-2e83cc8717.js",
     "react_collaborations-c-5644f43c91.js"
   ],
   "react_files": [
@@ -1944,16 +1947,16 @@
     "14-c-fae883abe3.js",
     "16-c-6a4669110d.js",
     "18-c-1851e2e99e.js",
-    "32-c-151e5bfc9c.js",
-    "31-c-11d8259c06.js",
+    "32-c-8167c606ab.js",
+    "31-c-f1e0b42d7a.js",
     "35-c-43b12af646.js",
     "53-c-4b31487cf6.js",
     "59-c-04e3f3ed54.js",
-    "63-c-f281466dcb.js",
-    "87-c-e5c9ac6aa6.js",
-    "103-c-21e8295c3e.js",
+    "63-c-5e69951260.js",
+    "87-c-9de4d1fc17.js",
+    "102-c-b819bdd310.js",
     "137-c-4c7615d6b7.js",
-    "react_files-c-67445c24c0.js"
+    "react_files-c-639146a9f1.js"
   ],
   "react_groups": [
     "35-c-43b12af646.js",
@@ -1965,14 +1968,14 @@
   ],
   "registration_confirmation": [
     "0-c-69adc03ea7.js",
-    "52-c-ac8e97dadd.js",
+    "52-c-780a21dc1e.js",
     "registration_confirmation-c-af5b09230d.js"
   ],
   "registration": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "52-c-ac8e97dadd.js",
-    "102-c-91eee1207c.js",
+    "52-c-780a21dc1e.js",
+    "101-c-51a122f1d6.js",
     "registration-c-7bcb6f33fa.js"
   ],
   "roster": [
@@ -1999,13 +2002,13 @@
     "39-c-5336252c63.js",
     "43-c-87c8ce5435.js",
     "41-c-aee6783f5b.js",
-    "45-c-938ab9c4cc.js",
+    "45-c-db66b5ba82.js",
     "50-c-1b9c14cabe.js",
     "57-c-1235c4d66e.js",
     "58-c-56a0d195d1.js",
     "66-c-437a67e61d.js",
-    "73-c-53195d7493.js",
-    "roster-c-7d797853d9.js"
+    "73-c-28ea296c22.js",
+    "roster-c-b7d6193d16.js"
   ],
   "rubric_assessment": [
     "2-c-cce4d2d9c4.js",
@@ -2021,7 +2024,7 @@
     "28-c-e8c70752ad.js",
     "38-c-150fc0dedb.js",
     "51-c-c7c8f2ec89.js",
-    "64-c-c52633cebe.js",
+    "64-c-3855acf79b.js",
     "rubric_assessment-c-8118a11184.js"
   ],
   "screenreader_gradebook": [
@@ -2050,11 +2053,11 @@
     "57-c-1235c4d66e.js",
     "66-c-437a67e61d.js",
     "62-c-229200ac02.js",
-    "73-c-53195d7493.js",
+    "73-c-28ea296c22.js",
     "86-c-27b46b9944.js",
     "115-c-2cebdcc53a.js",
-    "112-c-3121d25b64.js",
-    "screenreader_gradebook-c-a6f03bd5d2.js"
+    "111-c-41ddc42336.js",
+    "screenreader_gradebook-c-db3db7b303.js"
   ],
   "section": [
     "0-c-69adc03ea7.js",
@@ -2076,26 +2079,26 @@
     "57-c-1235c4d66e.js",
     "66-c-437a67e61d.js",
     "68-c-f43fbb3a7c.js",
-    "73-c-53195d7493.js",
-    "section-c-fba1365fec.js"
+    "73-c-28ea296c22.js",
+    "section-c-e2972502b5.js"
   ],
   "select_content_dialog": [
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
-    "31-c-11d8259c06.js",
-    "select_content_dialog-c-739df2acc6.js"
+    "31-c-f1e0b42d7a.js",
+    "select_content_dialog-c-255f70f012.js"
   ],
   "self_enrollment": [
-    "52-c-ac8e97dadd.js",
+    "52-c-780a21dc1e.js",
     "self_enrollment-c-c36a0fb883.js"
   ],
   "sis_import": [
     "0-c-69adc03ea7.js",
-    "sis_import-c-57de1e4f1d.js"
+    "sis_import-c-c923ec50d3.js"
   ],
   "slickgrid": [
     "37-c-0a44f2e4bd.js",
-    "105-c-8bf8a13ae3.js",
+    "104-c-04ce3c4477.js",
     "slickgrid-c-7e78bd6f03.js"
   ],
   "speed_grader": [
@@ -2115,7 +2118,7 @@
     "14-c-fae883abe3.js",
     "15-c-6fe730520f.js",
     "16-c-6a4669110d.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "18-c-1851e2e99e.js",
     "22-c-34fb0daf4e.js",
     "25-c-aebf1c234d.js",
@@ -2126,26 +2129,26 @@
     "39-c-5336252c63.js",
     "43-c-87c8ce5435.js",
     "38-c-150fc0dedb.js",
-    "49-c-4998d3c5b5.js",
+    "49-c-5f742ef693.js",
     "51-c-c7c8f2ec89.js",
-    "speed_grader-c-9a9142ff98.js"
+    "speed_grader-c-6c0e8bbe92.js"
   ],
   "static_syllabus": [
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
     "3-c-67961ae1de.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
-    "134-c-29b8d188ec.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
+    "134-c-44141eaa53.js",
     "static_syllabus-c-05866506fa.js"
   ],
   "student_group_dialog": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "45-c-938ab9c4cc.js",
+    "45-c-db66b5ba82.js",
     "50-c-1b9c14cabe.js",
     "81-c-0f3eb6097e.js",
-    "195-c-05838471a5.js",
+    "196-c-6c4436ba19.js",
     "student_group_dialog-c-31fa1f15f2.js"
   ],
   "styleguide": [
@@ -2172,18 +2175,18 @@
     "12-c-32f35a5c2f.js",
     "14-c-fae883abe3.js",
     "16-c-6a4669110d.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "18-c-1851e2e99e.js",
     "22-c-34fb0daf4e.js",
     "25-c-aebf1c234d.js",
     "28-c-e8c70752ad.js",
     "34-c-7440bdd63a.js",
     "38-c-150fc0dedb.js",
-    "49-c-4998d3c5b5.js",
+    "49-c-5f742ef693.js",
     "51-c-c7c8f2ec89.js",
     "62-c-229200ac02.js",
-    "64-c-c52633cebe.js",
-    "106-c-b49ced9b83.js",
+    "64-c-3855acf79b.js",
+    "105-c-c49652d993.js",
     "submissions-c-30a748b9a1.js"
   ],
   "submit_assignment": [
@@ -2196,34 +2199,34 @@
     "9-c-b2403f362d.js",
     "10-c-b098a65434.js",
     "11-c-0e6be02c03.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "23-c-0fa3d72400.js",
-    "31-c-11d8259c06.js",
-    "49-c-4998d3c5b5.js",
-    "87-c-e5c9ac6aa6.js",
-    "94-c-a46862c764.js",
-    "142-c-da05ca703c.js",
+    "31-c-f1e0b42d7a.js",
+    "49-c-5f742ef693.js",
+    "87-c-9de4d1fc17.js",
+    "93-c-01202adf79.js",
+    "142-c-72add7eb8b.js",
     "148-c-badef24b68.js",
-    "submit_assignment-c-e06e8436af.js"
+    "submit_assignment-c-b6a8824552.js"
   ],
   "syllabus": [
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
     "3-c-67961ae1de.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
-    "134-c-29b8d188ec.js",
-    "syllabus-c-47494cbda4.js"
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
+    "134-c-44141eaa53.js",
+    "syllabus-c-faee6be5aa.js"
   ],
   "take_quiz": [
     "0-c-69adc03ea7.js",
     "1-c-43b0fbf02b.js",
     "3-c-67961ae1de.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
-    "31-c-11d8259c06.js",
-    "take_quiz-c-d877ce7ae2.js"
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
+    "31-c-f1e0b42d7a.js",
+    "take_quiz-c-a7381daee3.js"
   ],
   "teacher_activity_report": [
     "teacher_activity_report-c-ca580e1002.js"
@@ -2233,9 +2236,9 @@
     "1-c-43b0fbf02b.js",
     "13-c-60c7461e9f.js",
     "14-c-fae883abe3.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
-    "terms_of_service_modal-c-db819c7e3a.js"
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
+    "terms_of_service_modal-c-d2cbfedc92.js"
   ],
   "terms_of_use": [
     "terms_of_use-c-e8f4ab936f.js"
@@ -2265,7 +2268,7 @@
   ],
   "user_logins": [
     "0-c-69adc03ea7.js",
-    "52-c-ac8e97dadd.js",
+    "52-c-780a21dc1e.js",
     "user_logins-c-5727f5539f.js"
   ],
   "user_name": [
@@ -2279,7 +2282,7 @@
   "user_observees": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
-    "user_observees-c-fcedf877d9.js"
+    "user_observees-c-cd97defab2.js"
   ],
   "user": [
     "0-c-69adc03ea7.js",
@@ -2287,7 +2290,7 @@
     "1-c-43b0fbf02b.js",
     "5-c-d544771a9c.js",
     "14-c-fae883abe3.js",
-    "104-c-9b953ac8c0.js",
+    "103-c-a2936037d8.js",
     "user-c-930b845276.js"
   ],
   "visibility_help": [
@@ -2296,7 +2299,7 @@
   ],
   "webzip_export": [
     "1-c-43b0fbf02b.js",
-    "webzip_export-c-eef4923018.js"
+    "webzip_export-c-792aef684c.js"
   ],
   "wiki_page_edit": [
     "0-c-69adc03ea7.js",
@@ -2308,15 +2311,15 @@
     "6-c-179ba7c927.js",
     "7-c-eee1aded79.js",
     "12-c-32f35a5c2f.js",
-    "17-c-8246a558f2.js",
-    "20-c-8cc3db6cd7.js",
+    "17-c-f81f9b6c76.js",
+    "20-c-34a145dfde.js",
     "24-c-58529195f3.js",
     "33-c-04d01c28d7.js",
-    "42-c-1c99cbf505.js",
-    "45-c-938ab9c4cc.js",
+    "42-c-872f4ee23e.js",
+    "45-c-db66b5ba82.js",
     "54-c-95c1da223f.js",
-    "109-c-f93454da0f.js",
-    "140-c-d4557eb44e.js",
+    "108-c-3532866ccb.js",
+    "140-c-28855165dc.js",
     "wiki_page_edit-c-481586ca47.js"
   ],
   "wiki_page_index": [
@@ -2330,26 +2333,26 @@
     "11-c-0e6be02c03.js",
     "13-c-60c7461e9f.js",
     "16-c-6a4669110d.js",
-    "17-c-8246a558f2.js",
+    "17-c-f81f9b6c76.js",
     "18-c-1851e2e99e.js",
-    "20-c-8cc3db6cd7.js",
+    "20-c-34a145dfde.js",
     "21-c-41b7cd954b.js",
-    "32-c-151e5bfc9c.js",
+    "32-c-8167c606ab.js",
     "33-c-04d01c28d7.js",
-    "45-c-938ab9c4cc.js",
+    "45-c-db66b5ba82.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
-    "71-c-fe7a3c5a32.js",
-    "109-c-f93454da0f.js",
-    "140-c-d4557eb44e.js",
-    "wiki_page_index-c-4fb0d30403.js"
+    "71-c-702df3acce.js",
+    "108-c-3532866ccb.js",
+    "140-c-28855165dc.js",
+    "wiki_page_index-c-bb1b43de6d.js"
   ],
   "wiki_page_revisions": [
     "0-c-69adc03ea7.js",
     "3-c-67961ae1de.js",
     "33-c-04d01c28d7.js",
-    "109-c-f93454da0f.js",
-    "wiki_page_revisions-c-b5c0a7e041.js"
+    "108-c-3532866ccb.js",
+    "wiki_page_revisions-c-8a32fd2515.js"
   ],
   "wiki_page_show": [
     "0-c-69adc03ea7.js",
@@ -2371,23 +2374,23 @@
     "21-c-41b7cd954b.js",
     "24-c-58529195f3.js",
     "27-c-955dd1f7d2.js",
-    "32-c-151e5bfc9c.js",
-    "31-c-11d8259c06.js",
+    "32-c-8167c606ab.js",
+    "31-c-f1e0b42d7a.js",
     "33-c-04d01c28d7.js",
     "35-c-43b12af646.js",
     "37-c-0a44f2e4bd.js",
-    "42-c-1c99cbf505.js",
-    "45-c-938ab9c4cc.js",
+    "42-c-872f4ee23e.js",
+    "45-c-db66b5ba82.js",
     "47-c-fc68e8a451.js",
     "48-c-23cfe64ff2.js",
     "54-c-95c1da223f.js",
-    "wiki_page_show-c-6ca4f994e7.js"
+    "wiki_page_show-c-ff5d0c6bd5.js"
   ],
   "mediaCommentRecordAsyncChunk": [
     "3-c-67961ae1de.js",
     "23-c-0fa3d72400.js",
-    "89-c-a8b9b24578.js",
-    "mediaCommentRecordAsyncChunk-c-ebc56123e1.js"
+    "88-c-0b6048c405.js",
+    "mediaCommentRecordAsyncChunk-c-77e1b0d5aa.js"
   ],
   "canvas-rce-async-chunk": [
     "2-c-cce4d2d9c4.js",
@@ -2407,13 +2410,13 @@
     "65-c-dc759a00ea.js",
     "60-c-cbae5d6a32.js",
     "76-c-55945b5ebb.js",
-    "87-c-e5c9ac6aa6.js",
-    "89-c-a8b9b24578.js",
+    "87-c-9de4d1fc17.js",
+    "88-c-0b6048c405.js",
     "77-c-a9264549d7.js",
-    "94-c-a46862c764.js",
-    "100-c-830acd2e80.js",
+    "93-c-01202adf79.js",
+    "99-c-7d92feef0e.js",
     "116-c-72dc27326a.js",
-    "96-c-8bcab19832.js",
+    "95-c-221b157220.js",
     "118-c-423fa6acc4.js",
     "127-c-6c436f0c8f.js",
     "138-c-ae6698e4ee.js",
@@ -2429,11 +2432,11 @@
     "65-c-dc759a00ea.js",
     "60-c-cbae5d6a32.js",
     "77-c-a9264549d7.js",
-    "92-c-b978067ed9.js",
-    "96-c-8bcab19832.js",
+    "91-c-e261fd600f.js",
+    "95-c-221b157220.js",
     "118-c-423fa6acc4.js",
     "121-c-7b55d32fa0.js",
     "129-c-8b413180e1.js",
-    "canvas-rce-old-async-chunk-c-5b4f4c2987.js"
+    "canvas-rce-old-async-chunk-c-c8e7273b20.js"
   ]
 }

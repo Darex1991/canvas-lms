@@ -1,7 +1,7 @@
 {
   "apiVersion": "1.0",
   "swaggerVersion": "1.2",
-  "basePath": "http://localhost:3000/api",
+  "basePath": "http://canvas.example.com/api",
   "resourcePath": "/assignments",
   "produces": [
     "application/json"
@@ -65,7 +65,7 @@
             {
               "paramType": "query",
               "name": "include",
-              "description": "Optional information to include with each assignment:\nsubmission:: The current user's current +Submission+\nassignment_visibility:: An array of ids of students who can see the assignment\nall_dates:: An array of +AssignmentDate+ structures, one for each override, and also a +base+ if the assignment has an \"Everyone\" / \"Everyone Else\" date\noverrides:: An array of +AssignmentOverride+ structures\nobserved_users:: An array of submissions for observed users\ncan_edit:: an extra Boolean value will be included with each +Assignment+ (and +AssignmentDate+ if +all_dates+ is supplied) to indicate whether the caller can edit the assignment or date. Moderated grading and closed grading periods may restrict a user's ability to edit an assignment.",
+              "description": "Associations to include with the assignment. The \"assignment_visibility\" option\nrequires that the Differentiated Assignments course feature be turned on. If\n\"observed_users\" is passed, submissions for observed users will also be included as an array.",
               "type": "array",
               "format": null,
               "required": false,
@@ -75,8 +75,7 @@
                 "assignment_visibility",
                 "all_dates",
                 "overrides",
-                "observed_users",
-                "can_edit"
+                "observed_users"
               ],
               "items": {
                 "type": "string"
@@ -204,7 +203,7 @@
             {
               "paramType": "query",
               "name": "include",
-              "description": "Optional information to include with each assignment:\nsubmission:: The current user's current +Submission+\nassignment_visibility:: An array of ids of students who can see the assignment\nall_dates:: An array of +AssignmentDate+ structures, one for each override, and also a +base+ if the assignment has an \"Everyone\" / \"Everyone Else\" date\noverrides:: An array of +AssignmentOverride+ structures\nobserved_users:: An array of submissions for observed users\ncan_edit:: an extra Boolean value will be included with each +Assignment+ (and +AssignmentDate+ if +all_dates+ is supplied) to indicate whether the caller can edit the assignment or date. Moderated grading and closed grading periods may restrict a user's ability to edit an assignment.",
+              "description": "Associations to include with the assignment. The \"assignment_visibility\" option\nrequires that the Differentiated Assignments course feature be turned on. If\n\"observed_users\" is passed, submissions for observed users will also be included as an array.",
               "type": "array",
               "format": null,
               "required": false,
@@ -214,8 +213,7 @@
                 "assignment_visibility",
                 "all_dates",
                 "overrides",
-                "observed_users",
-                "can_edit"
+                "observed_users"
               ],
               "items": {
                 "type": "string"
@@ -388,8 +386,7 @@
                 "submission",
                 "assignment_visibility",
                 "overrides",
-                "observed_users",
-                "can_edit"
+                "observed_users"
               ],
               "items": {
                 "type": "string"

@@ -1,0 +1,9 @@
+(window.canvasWebpackJsonp=window.canvasWebpackJsonp||[]).push([[629],{MFgh:function(e,l,p){"use strict"
+p.r(l),p.d(l,"default",(function(){return r}))
+var c=p("An8g"),h=p("pQTu"),a=p("m0r6")
+Object(a.a)(JSON.parse('{"ar":{"help_4c4968b1":"تعليمات"},"cy":{"help_4c4968b1":"Help"},"da":{"help_4c4968b1":"Hjælp"},"da-x-k12":{"help_4c4968b1":"Hjælp"},"de":{"help_4c4968b1":"Hilfe"},"el":{"help_4c4968b1":"Βοήθεια"},"en-AU":{"help_4c4968b1":"Help"},"en-CA":{"help_4c4968b1":"Help"},"en-GB":{"help_4c4968b1":"Help"},"es":{"help_4c4968b1":"Ayuda"},"fa":{"help_4c4968b1":"راهنما"},"fi":{"help_4c4968b1":"Ohje"},"fr":{"help_4c4968b1":"Aider"},"fr-CA":{"help_4c4968b1":"Aider"},"he":{"help_4c4968b1":"עזרה"},"ht":{"help_4c4968b1":"Èd"},"hu":{"help_4c4968b1":"Segítség"},"hy":{"help_4c4968b1":"Օգնություն"},"is":{"help_4c4968b1":"Hjálp"},"it":{"help_4c4968b1":"Guida"},"ja":{"help_4c4968b1":"ヘルプ"},"ko":{"help_4c4968b1":"도움말"},"mi":{"help_4c4968b1":"Āwhina"},"nb":{"help_4c4968b1":"Hjelp"},"nb-x-k12":{"help_4c4968b1":"Hjelp"},"nl":{"help_4c4968b1":"Help"},"nn":{"help_4c4968b1":"Hjelp"},"pl":{"help_4c4968b1":"Pomoc"},"pt":{"help_4c4968b1":"Ajuda"},"pt-BR":{"help_4c4968b1":"Ajuda"},"ru":{"help_4c4968b1":"Справка"},"sl":{"help_4c4968b1":"Pomoč"},"sv":{"help_4c4968b1":"Hjälp"},"sv-x-k12":{"help_4c4968b1":"Hjälp"},"tr":{"help_4c4968b1":"Yardım"},"uk":{"help_4c4968b1":"Допомога"},"zh-Hans":{"help_4c4968b1":"帮助"},"zh-Hant":{"help_4c4968b1":"支援"}}'))
+p("jQeR"),p("0sPK")
+var b=h.default.scoped("HelpTray"),_=(p("q1tI"),p("17x9"),p("S4Kx")),n=p("gSD+"),t=p("IzqE"),d=Object(c.a)("hr",{role:"presentation"})
+function r({trayTitle:e,closeTray:l,links:p,hasLoaded:h}){return Object(c.a)(_.a,{as:"div",padding:"medium",id:"help_tray"},void 0,Object(c.a)(n.a,{level:"h3",as:"h2"},void 0,e),d,Object(c.a)(t.a,{links:p,hasLoaded:h,onFormSubmit:l}))}r.defaultProps={get trayTitle(){return b.t("Help")},hasLoaded:!1,links:[]}}}])
+
+//# sourceMappingURL=629-c-9bbef0fb6a.js.map
