@@ -87,9 +87,7 @@
     "redux-saga": "^0.16.0",
     "redux-thunk": "^2.2.0",
     "timezone": "^1.0.18",
-    "velocity-animate": "^1.5.0"
-  },
-  "devDependencies": {
+    "velocity-animate": "^1.5.0",
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
     "@instructure/browserslist-config-canvas-lms": ">=2",
