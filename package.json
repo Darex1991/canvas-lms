@@ -166,7 +166,13 @@
     "coffee-loader": "~0.7.2",
     "gulp-uglify": "^3",
     "core-js-builder": "^3",
-    "css-loader": "^3"
+    "css-loader": "^3",
+    "webpack": "^4",
+    "webpack-cleanup-plugin": "^0.5",
+    "webpack-cli": "^3",
+    "webpack-manifest-plugin": "^2",
+    "webpack-stats-plugin": "^0.2.1",
+    "merge-stream": "^1"
   },
   "devDependencies": {
     "@apollo/react-testing": "^3.0.1",
@@ -247,7 +253,6 @@
     "karma-verbose-reporter": "^0.0.6",
     "karma-webpack": "^3",
     "lint-staged": "^9",
-    "merge-stream": "^1",
     "mockdate": "^2.0.2",
     "moment-timezone-data-webpack-plugin": "^1.0.3",
     "moxios": "^0.4",
@@ -264,11 +269,6 @@
     "stylelint": "^10",
     "through2": "^3",
     "waait": "^1",
-    "webpack": "^4",
-    "webpack-cleanup-plugin": "^0.5",
-    "webpack-cli": "^3",
-    "webpack-manifest-plugin": "^2",
-    "webpack-stats-plugin": "^0.2.1",
     "wsrun": "^5",
     "xsslint": "ryankshaw/xsslint#babel7",
     "yaml-loader": "^0.5"
