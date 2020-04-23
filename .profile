@@ -1,1 +1,1 @@
-chmod 777 -R public/dist/brandable_css
+chmod 777 -R public
