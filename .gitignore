@@ -48,7 +48,8 @@ yarn-error.log
 /gems/*/tmp
 /gems/*/node_modules
 
-# user docker compose overrides
+# user docker comp
+ose overrides
 docker-compose.local.*
 
 # sub-packages
