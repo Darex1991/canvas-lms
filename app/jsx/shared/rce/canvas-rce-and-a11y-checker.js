@@ -15,7 +15,8 @@
  * You should have received a copy of the GNU Affero General Public License along
  * with this program. If not, see <http://www.gnu.org/licenses/>.
  */
-
-export * from 'canvas-rce/lib/async'
+console.log('dupa');
+export * from 'canvas-rce/lib/async';
+console.log(*)
 // eslint-disable-next-line import/first
 import './initA11yChecker'

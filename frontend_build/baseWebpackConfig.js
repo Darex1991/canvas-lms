@@ -184,6 +184,16 @@ module.exports = {
         '../app/jsx/@instructure/ui-themeable/es/themeable-with-newless.js'
       ),
 
+      'canvas-rce/lib/async$': path.resolve(
+        __dirname,
+        '../packages/canvas-rce/lib/async.js'
+      ),
+
+      'canvas-rce/lib/async': path.resolve(
+        __dirname,
+        '../packages/canvas-rce/lib/async.js'
+      ),
+
       'node_modules-version-of-backbone': require.resolve('backbone'),
       'node_modules-version-of-react-modal': require.resolve('react-modal'),
 
