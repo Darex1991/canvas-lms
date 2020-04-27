@@ -40,7 +40,7 @@ environment_configuration(defined?(config) && config) do |config|
 
   # Disable Rails's static asset server
   # In production, Apache or nginx will already do this
-  config.public_file_server.enabled = false
+  config.public_file_server.enabled = true
 
   # Enable serving of images, stylesheets, and javascripts from an asset server
   # config.action_controller.asset_host = "http://assets.example.com"
@@ -66,6 +66,7 @@ environment_configuration(defined?(config) && config) do |config|
   config.active_record.dump_schema_after_migration = false
 
   config.eager_load = true
+  config.serve_static_assets = false
 
   # eval <env>-local.rb if it exists
   Dir[File.dirname(__FILE__) + "/" + File.basename(__FILE__, ".rb") + "-*.rb"].each { |localfile| eval(File.new(localfile).read, nil, localfile, 1) }
