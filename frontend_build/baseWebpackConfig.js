@@ -184,21 +184,10 @@ module.exports = {
         '../app/jsx/@instructure/ui-themeable/es/themeable-with-newless.js'
       ),
 
-      'canvas-rce/lib/async$': path.resolve(
-        __dirname,
-        '../packages/canvas-rce/lib/async.js'
-      ),
-
-      'canvas-rce/lib/async': path.resolve(
-        __dirname,
-        '../packages/canvas-rce/lib/async.js'
-      ),
-
       'node_modules-version-of-backbone': require.resolve('backbone'),
       'node_modules-version-of-react-modal': require.resolve('react-modal'),
 
       backbone: 'Backbone',
-      'canvas-rce': path.resolve(__dirname, '../packages/canvas-rce'),
       timezone$: 'timezone_core',
       jst: path.resolve(__dirname, '../app/views/jst'),
       jqueryui: path.resolve(__dirname, '../public/javascripts/vendor/jqueryui'),
@@ -219,7 +208,6 @@ module.exports = {
     },
 
     modules: [
-      path.resolve(__dirname, '../packages'),
       path.resolve(__dirname, '../public/javascripts'),
       path.resolve(__dirname, '../gems/plugins'),
       'node_modules'
