@@ -633,6 +633,11 @@ GEM
       loofah (~> 2.3)
     rails-observers (0.1.5)
       activemodel (>= 4.0)
+    rails_12factor (0.0.3)
+      rails_serve_static_assets
+      rails_stdout_logging
+    rails_serve_static_assets (0.0.5)
+    rails_stdout_logging (0.0.5)
     railties (5.2.3)
       actionpack (= 5.2.3)
       activesupport (= 5.2.3)
@@ -978,6 +983,7 @@ DEPENDENCIES
   rails-controller-testing (= 1.0.4)
   rails-dom-testing (= 2.0.3)
   rails-observers (= 0.1.5)
+  rails_12factor
   rainbow (= 3.0.0)
   rake (= 13.0.1)
   ratom-nokogiri (= 0.10.8)
@@ -1048,7 +1054,7 @@ DEPENDENCIES
   yard-appendix (= 0.1.8)
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.4.0p0
 
 BUNDLED WITH
    2.1.0
