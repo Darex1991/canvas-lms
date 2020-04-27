@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["America/St_Barthelemy"]={zones:{"America/St_Barthelemy":["z",{wallclock:-18251136e5,format:"AST",abbrev:"AST",offset:-144e5,posix:-1825098836e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-14764e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/America/St_Barthelemy-707a0af186.js.map

@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Wallis"]={zones:{"Pacific/Wallis":["z",{wallclock:-21774528e5,format:"+12",abbrev:"+12",offset:432e5,posix:-217749692e4,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:4412e4,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Wallis-7692a3f1de.js.map

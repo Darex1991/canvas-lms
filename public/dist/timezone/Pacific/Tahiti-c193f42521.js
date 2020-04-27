@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Tahiti"]={zones:{"Pacific/Tahiti":["z",{wallclock:-18067104e5,format:"-10",abbrev:"-10",offset:-36e6,posix:-1806674504e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-35896e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Tahiti-c193f42521.js.map

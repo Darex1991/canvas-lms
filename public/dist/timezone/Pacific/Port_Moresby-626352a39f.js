@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Port_Moresby"]={zones:{"Pacific/Port_Moresby":["z",{wallclock:-23667552e5,format:"+10",abbrev:"+10",offset:36e6,posix:-2366790512e3,save:0},{wallclock:-28401408e5,format:"PMMT",abbrev:"PMMT",offset:35312e3,posix:-284017612e4,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:3532e4,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Port_Moresby-626352a39f.js.map

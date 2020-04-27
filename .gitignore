@@ -16,7 +16,6 @@
 /.yardoc/
 /.ruby-version
 /app/views/info/styleguide.html.erb
-/config/*.yml
 /config/environments/*-local.rb
 /config/locales/generated/
 /config/RAILS6_0
@@ -31,9 +30,7 @@ docker-compose.override.yml
 mkmf.log
 /node_modules
 npm-debug.log
-/public/dist/
-/public/doc/api/
-/public/javascripts/translations/
+/public/dist/webpack-dev
 /tmp/
 /vendor/bundle
 yarn-error.log
@@ -42,13 +39,10 @@ yarn-error.log
 /app/coffeescripts/plugins/
 /app/stylesheets/plugins/
 /app/views/jst/plugins/
-/public/javascripts/plugins/
-/public/plugins/
 /spec/coffeescripts/plugins/
 /spec/plugins/
 
 # generated client app stuff
-/public/javascripts/client_apps/
 
 # canvas-gems
 /gems/*/coverage
@@ -82,4 +76,4 @@ coverage-karma
 
 # generated graphql schema
 schema.graphql
-.idea
+/.idea

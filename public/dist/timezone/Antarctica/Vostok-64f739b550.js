@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Antarctica/Vostok"]={zones:{"Antarctica/Vostok":["z",{wallclock:-3800736e5,format:"+06",abbrev:"+06",offset:216e5,posix:-3800736e5,save:0},{wallclock:-17976931348623157e292,format:"-00",abbrev:"-00",offset:0,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Antarctica/Vostok-64f739b550.js.map

@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Tarawa"]={zones:{"Pacific/Tarawa":["z",{wallclock:-21774528e5,format:"+12",abbrev:"+12",offset:432e5,posix:-2177494324e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:41524e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Tarawa-2bdd279a12.js.map

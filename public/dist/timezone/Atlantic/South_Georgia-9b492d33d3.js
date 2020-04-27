@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Atlantic/South_Georgia"]={zones:{"Atlantic/South_Georgia":["z",{wallclock:-25245216e5,format:"-02",abbrev:"-02",offset:-72e5,posix:-2524512832e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-8768e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Atlantic/South_Georgia-9b492d33d3.js.map

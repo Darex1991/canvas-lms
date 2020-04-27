@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Africa/Bissau"]={zones:{"Africa/Bissau":["z",{wallclock:1577664e5,format:"GMT",abbrev:"GMT",offset:0,posix:15777e7,save:0},{wallclock:-183038414e4,format:"-01",abbrev:"-01",offset:-36e5,posix:-18303804e5,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-374e4,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Africa/Bissau-ea4d547907.js.map

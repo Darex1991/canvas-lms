@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["America/Cayenne"]={zones:{"America/Cayenne":["z",{wallclock:-711072e5,format:"-03",abbrev:"-03",offset:-108e5,posix:-710928e5,save:0},{wallclock:-18462816e5,format:"-04",abbrev:"-04",offset:-144e5,posix:-184626904e4,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-1256e4,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/America/Cayenne-5b3da1c370.js.map

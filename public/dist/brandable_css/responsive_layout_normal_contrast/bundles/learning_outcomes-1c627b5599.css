@@ -1,0 +1,572 @@
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/pages/_rubrics.scss */
+#rubrics ul {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0; }
+
+/* line 24, app/stylesheets/pages/_rubrics.scss */
+#rubrics ul li {
+  padding: 3px 0;
+  margin-bottom: 5px; }
+
+/* line 28, app/stylesheets/pages/_rubrics.scss */
+#rubrics ul li .title {
+  font-size: 1.2em;
+  font-weight: bold;
+  float: left;
+  color: var(--ic-brand-primary); }
+
+/* line 34, app/stylesheets/pages/_rubrics.scss */
+#rubrics ul li .links {
+  float: right;
+  opacity: 0.75;
+  color: var(--ic-brand-primary); }
+
+/* line 39, app/stylesheets/pages/_rubrics.scss */
+#rubrics ul li .details {
+  clear: left;
+  display: block;
+  font-size: 0.7em;
+  margin-left: 20px; }
+
+/* line 22, app/stylesheets/bundles/learning_outcomes.scss */
+.outcomes-browser {
+  min-width: 840px;
+  margin-top: 0px; }
+  /* line 25, app/stylesheets/bundles/learning_outcomes.scss */
+  .outcomes-browser .outcomes-toolbar {
+    margin-top: 0;
+    background-image: none;
+    border: 1px solid #C7CDD1;
+    background-color: #ededed;
+    padding: 6px;
+    box-sizing: border-box;
+    overflow: auto; }
+    /* line 33, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-toolbar .manage_rubrics {
+      float: right; }
+    /* line 36, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-toolbar .popover-menu {
+      float: right; }
+    /* line 39, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-toolbar .search {
+      float: right; }
+    /* line 43, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-toolbar .ui-button i {
+      margin-bottom: -3px; }
+  /* line 48, app/stylesheets/bundles/learning_outcomes.scss */
+  .outcomes-browser .outcomes-main {
+    height: 625px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    border: 1px solid #C7CDD1;
+    border-top: none; }
+    /* line 55, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-main::after {
+      clear: both; }
+  /* line 59, app/stylesheets/bundles/learning_outcomes.scss */
+  .outcomes-browser .outcomes-sidebar {
+    float: left;
+    height: 610px;
+    width: 201px;
+    background-color: #FFFFFF;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 15px;
+    border: none;
+    border-radius: 0px 0px 0px 5px; }
+    /* line 69, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-sidebar .wrapper {
+      width: 201px; }
+  /* line 73, app/stylesheets/bundles/learning_outcomes.scss */
+  .outcomes-browser .outcomes-content {
+    height: 625px;
+    border-left: 1px solid #C7CDD1;
+    overflow-x: auto;
+    overflow-y: auto;
+    position: relative;
+    border: none;
+    border-radius: 0px 0px 5px;
+    background-color: #FFFFFF; }
+    /* line 83, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .learning_outcome label.span3 {
+      margin-left: 0px; }
+    /* line 87, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .wrapper {
+      padding: 15px;
+      padding-top: 10px;
+      width: 600px;
+      min-height: 300px; }
+    /* line 93, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content label {
+      display: block;
+      padding: 5px 0; }
+    /* line 98, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .outcome-calculation-method-form .grid-row {
+      padding: 6px; }
+    /* line 101, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .outcome-calculation-method-form label {
+      display: inline; }
+    /* line 105, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .outcome_information_link i {
+      margin-bottom: -3px; }
+    /* line 108, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .outcome-assessed-info-banner {
+      margin-top: -12px;
+      margin-bottom: 12px; }
+    /* line 112, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content .move_button, .outcomes-browser .outcomes-content .edit_button, .outcomes-browser .outcomes-content .delete_button {
+      margin-left: 1em;
+      margin-bottom: 1em; }
+    /* line 117, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content dl.dl-horizontal dt {
+      width: 140px; }
+    /* line 120, app/stylesheets/bundles/learning_outcomes.scss */
+    .outcomes-browser .outcomes-content dl.dl-horizontal dd {
+      margin-left: 158px; }
+
+/* line 127, app/stylesheets/bundles/learning_outcomes.scss */
+ul.outcome-level {
+  padding: 0;
+  margin: 0;
+  border-right: 1px solid #ddd;
+  float: left;
+  height: 625px;
+  width: 200px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-sizing: border-box; }
+  /* line 137, app/stylesheets/bundles/learning_outcomes.scss */
+  ul.outcome-level.outcome-level-hover, ul.outcome-level.outcome-level-hover li {
+    background: white; }
+  /* line 140, app/stylesheets/bundles/learning_outcomes.scss */
+  ul.outcome-level li {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    list-style: none;
+    width: 200px; }
+    /* line 146, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li:hover, ul.outcome-level li:focus {
+      background-color: #E5F2F8; }
+      /* line 149, app/stylesheets/bundles/learning_outcomes.scss */
+      ul.outcome-level li:hover i[class*=icon-], ul.outcome-level li:focus i[class*=icon-] {
+        background-image: url(/dist/images/blue/canvas-icons-16x16-blue-75e3ba462e.png); }
+    /* line 153, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li a {
+      text-decoration: none;
+      display: block;
+      white-space: nowrap;
+      padding: 6px 12px;
+      color: var(--ic-brand-font-color-dark-lightened-15); }
+      /* line 161, app/stylesheets/bundles/learning_outcomes.scss */
+      ul.outcome-level li a span:hover {
+        text-decoration: underline; }
+    /* line 167, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li.selected a {
+      background-color: #E5F2F8;
+      color: var(--ic-brand-font-color-dark);
+      position: relative; }
+      /* line 171, app/stylesheets/bundles/learning_outcomes.scss */
+      ul.outcome-level li.selected a::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 4px;
+        height: 100%;
+        background: var(--ic-brand-primary); }
+      /* line 181, app/stylesheets/bundles/learning_outcomes.scss */
+      ul.outcome-level li.selected a:hover {
+        background-color: #E5F2F8; }
+    /* line 186, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li.selected.droppable a {
+      background-color: #F5F5F5;
+      color: #bbb; }
+    /* line 193, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li.droppable a {
+      background-color: #E5F2F8; }
+    /* line 197, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li span.loading-more {
+      background-color: #ededed;
+      text-decoration: none;
+      display: block;
+      white-space: nowrap;
+      padding: 6px 12px;
+      color: var(--ic-brand-font-color-dark-lightened-15); }
+    /* line 206, app/stylesheets/bundles/learning_outcomes.scss */
+    ul.outcome-level li[aria-grabbed=true] a, ul.outcome-level li[aria-grabbed=true] i {
+      opacity: 0.75; }
+
+/* line 212, app/stylesheets/bundles/learning_outcomes.scss */
+#import_dialog {
+  padding: 0;
+  margin: 0; }
+  /* line 215, app/stylesheets/bundles/learning_outcomes.scss */
+  #import_dialog .ui-dialog-buttonpane {
+    margin-top: 0; }
+
+/* line 220, app/stylesheets/bundles/learning_outcomes.scss */
+table.criterion {
+  padding: 0;
+  min-width: 600px;
+  margin: 2em 0; }
+
+/* line 226, app/stylesheets/bundles/learning_outcomes.scss */
+table.criterion th {
+  border-top: 1px solid #C7CDD1;
+  border-left: 1px solid #C7CDD1;
+  border-right: 1px solid #C7CDD1;
+  padding: 5px;
+  text-align: center;
+  vertical-align: top; }
+  /* line 233, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion th.total {
+    background-color: #F5F5F5; }
+
+/* line 238, app/stylesheets/bundles/learning_outcomes.scss */
+table.criterion td {
+  border-bottom: 1px solid #C7CDD1;
+  border-left: 1px solid #C7CDD1;
+  border-right: 1px solid #C7CDD1;
+  padding: 5px;
+  text-align: center;
+  vertical-align: top; }
+  /* line 245, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion td.total {
+    background-color: #F5F5F5; }
+
+/* line 250, app/stylesheets/bundles/learning_outcomes.scss */
+.criterion h3, .criterion .h3, .criterion h5, .criterion .h5 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: var(--ic-link-color);
+  font-weight: normal;
+  min-height: 1em;
+  font-size: 1rem; }
+  /* line 257, app/stylesheets/bundles/learning_outcomes.scss */
+  .criterion h3.total, .criterion .h3.total, .criterion h5.total, .criterion .h5.total {
+    font-weight: bold; }
+
+/* line 265, app/stylesheets/bundles/learning_outcomes.scss */
+.rating-wrap {
+  position: relative; }
+
+/* line 269, app/stylesheets/bundles/learning_outcomes.scss */
+table.criterion .edit {
+  display: none;
+  min-width: 180px; }
+  /* line 272, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion .edit .row-fluid {
+    margin-bottom: 8px; }
+  /* line 275, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion .edit .buttons button {
+    margin-left: 4px; }
+  /* line 278, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion .edit .buttons .button-container {
+    float: right; }
+
+/* line 283, app/stylesheets/bundles/learning_outcomes.scss */
+.edit_rating {
+  float: right; }
+
+/* line 287, app/stylesheets/bundles/learning_outcomes.scss */
+.outcome_rating_description {
+  width: 100%; }
+
+/* line 291, app/stylesheets/bundles/learning_outcomes.scss */
+table.criterion .insert {
+  position: absolute;
+  top: -40px;
+  right: -30px;
+  cursor: pointer; }
+  /* line 296, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion .insert a {
+    color: #999;
+    text-decoration: none; }
+  /* line 306, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion .insert:hover a {
+    color: var(--ic-link-color); }
+  /* line 309, app/stylesheets/bundles/learning_outcomes.scss */
+  table.criterion .insert:hover span {
+    border-top-color: var(--ic-link-color); }
+
+/* line 315, app/stylesheets/bundles/learning_outcomes.scss */
+.arrow-icon {
+  width: 0;
+  height: 0;
+  padding: 0;
+  margin: 0 11px;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  border-top-width: 5px;
+  border-top-style: solid;
+  display: block;
+  border-top-color: #999; }
+
+/* line 333, app/stylesheets/bundles/learning_outcomes.scss */
+.outcomes-points-label {
+  font-size: 11px;
+  font-size: 0.6875rem; }
+
+/* line 337, app/stylesheets/bundles/learning_outcomes.scss */
+.outcomes-edit-row {
+  text-align: left; }
+
+/* line 341, app/stylesheets/bundles/learning_outcomes.scss */
+.no-outcomes-warning {
+  margin: 10px 40px; }
+
+/* line 345, app/stylesheets/bundles/learning_outcomes.scss */
+.outcomes_narrow_text_input {
+  width: 20px; }
+
+/* line 349, app/stylesheets/bundles/learning_outcomes.scss */
+.outcomes-calculation-int-italics {
+  font-style: italic; }
+
+/* line 352, app/stylesheets/bundles/learning_outcomes.scss */
+#alignments {
+  margin-left: 0; }
+
+/* line 355, app/stylesheets/bundles/learning_outcomes.scss */
+#alignments .alignment {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  border-bottom: 1px solid #C7CDD1; }
+
+/* line 363, app/stylesheets/bundles/learning_outcomes.scss */
+#alignments .header {
+  flex: 4; }
+
+/* line 366, app/stylesheets/bundles/learning_outcomes.scss */
+#alignments .locked_alignment_link {
+  color: var(--ic-brand-font-color-dark-lightened-15); }
+
+/* line 369, app/stylesheets/bundles/learning_outcomes.scss */
+#alignments .delete_alignment_link {
+  flex: 1; }
+
+/* line 372, app/stylesheets/bundles/learning_outcomes.scss */
+#outcome_results_list {
+  margin-left: 0; }
+
+/* line 375, app/stylesheets/bundles/learning_outcomes.scss */
+#outcome_results_list .outcome_result {
+  list-style: none;
+  padding: 12px 0; }

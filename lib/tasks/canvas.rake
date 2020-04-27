@@ -85,13 +85,14 @@ namespace :canvas do
     end
 
     times = nil
-    real_time = Benchmark.realtime do
-      times = Parallel.map(tasks, :in_processes => parallel_processes) do |name, lamduh|
-        log_time(name) { lamduh.call }
-      end
+    # real_time = Benchmark.realtime do
+    times = Parallel.map(tasks, :in_processes => parallel_processes) do |name, lamduh|
+      log_time(name) { lamduh.call }
     end
-    combined_time = times.reduce(:+)
-    puts "Finished compiling assets in #{real_time}. parallelism saved #{combined_time - real_time} (#{real_time.to_f / combined_time.to_f * 100.0}%)"
+    # end
+    # combined_time = times.reduce(:+)
+    puts "Finished compiling assets in"
+    # puts "Finished compiling assets in #{real_time}. parallelism saved #{combined_time - real_time} (#{real_time.to_f / combined_time.to_f * 100.0}%)"
   end
 
   desc "Just compile css and js for development"

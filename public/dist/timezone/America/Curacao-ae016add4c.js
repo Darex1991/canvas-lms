@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["America/Curacao"]={zones:{"America/Curacao":["z",{wallclock:-1577664e5,format:"AST",abbrev:"AST",offset:-144e5,posix:-1577502e5,save:0},{wallclock:-18267552e5,format:"-0430",abbrev:"-0430",offset:-162e5,posix:-1826738653e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-16547e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/America/Curacao-ae016add4c.js.map

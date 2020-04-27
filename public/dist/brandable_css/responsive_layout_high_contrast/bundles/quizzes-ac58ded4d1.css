@@ -1,0 +1,3344 @@
+@charset "UTF-8";
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 20, app/stylesheets/pages/shared/_menu_tools.scss */
+a.menu_tool_link img.icon, a.menu_tray_tool_link img.icon {
+  max-width: 16px; }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 21, app/stylesheets/pages/shared/_move_dialog.scss */
+.move-select-header {
+  font-size: 16px;
+  font-size: 1rem;
+  color: #222;
+  padding-bottom: 15px;
+  margin-top: 0;
+  line-height: 1.8; }
+
+/* line 29, app/stylesheets/pages/shared/_move_dialog.scss */
+.move_select {
+  margin: 15px 0; }
+
+/* line 34, app/stylesheets/pages/quizzes/_quizzes.scss */
+.accessibility-warning {
+  padding: 4px 8px;
+  background: var(--ic-link-color);
+  background-clip: border-box;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 1px dashed rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  font-size: 0.875rem;
+  position: absolute;
+  left: 0px;
+  top: -16px; }
+  /* line 48, app/stylesheets/base/_ic_mixins.scss */
+  .accessibility-warning:focus {
+    color: #fff; }
+  /* line 52, app/stylesheets/base/_ic_mixins.scss */
+  .accessibility-warning:focus {
+    text-decoration: underline; }
+
+/* line 43, app/stylesheets/pages/quizzes/_quizzes.scss */
+li.quiz {
+  cursor: pointer; }
+  /* line 45, app/stylesheets/pages/quizzes/_quizzes.scss */
+  li.quiz .ellipses, li.quiz i[class^=icon-]:not(.icon-publish):not(.icon-quiz):not(.icon-post-to-sis):not(.icon-lock):not(.icon-blueprint-lock) {
+    color: gray; }
+  /* line 48, app/stylesheets/pages/quizzes/_quizzes.scss */
+  li.quiz .ig-title {
+    flex: 1; }
+    @media only screen and (min-width: 992px) {
+      /* line 48, app/stylesheets/pages/quizzes/_quizzes.scss */
+      li.quiz .ig-title {
+        flex: 0 0 30%; } }
+  /* line 52, app/stylesheets/pages/quizzes/_quizzes.scss */
+  li.quiz .ig-details {
+    flex: 1; }
+  /* line 53, app/stylesheets/pages/quizzes/_quizzes.scss */
+  li.quiz .default-dates .status-description {
+    font-weight: bold; }
+
+/* line 57, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .btn-published.disabled {
+  opacity: 1; }
+
+/* line 60, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .alert {
+  padding-right: 14px; }
+  /* line 62, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show .alert .actions {
+    text-align: right;
+    line-height: 36px; }
+  /* line 67, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show .alert .unpublished_quiz_warning, #quiz_show .alert .unsaved_quiz_warning {
+    display: block; }
+  /* line 70, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show .alert form {
+    margin-bottom: 0px; }
+
+/* line 74, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .admin-links {
+  text-align: left;
+  margin-left: 10px; }
+  /* line 77, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show .admin-links .al-options {
+    min-width: 125px; }
+
+/* line 81, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .description.teacher-version {
+  padding: 15px;
+  overflow-y: auto;
+  height: 200px;
+  border: 1px solid #AAA;
+  border-radius: 4px;
+  resize: vertical; }
+
+/* line 89, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .lock_explanation {
+  text-align: left;
+  margin-top: 20px; }
+
+/* line 93, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .take_quiz_button {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.3em; }
+
+/* line 98, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .preview_quiz_button {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.3em; }
+
+/* line 103, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show #quiz_details {
+  display: none;
+  margin: 0 auto 10px;
+  max-height: 500px;
+  overflow: auto; }
+  /* line 109, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show #quiz_details .submitted_list {
+    float: left;
+    width: 50%; }
+  /* line 113, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show #quiz_details .name {
+    display: block;
+    padding: 4px 12px;
+    border-top: 1px solid white; }
+
+/* line 119, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show .control-group {
+  margin-bottom: 0px; }
+  /* line 121, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show .control-group .control-label {
+    font-weight: bold;
+    width: 33.3%; }
+  /* line 125, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show .control-group .controls {
+    margin-left: 35%; }
+    /* line 127, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_show .control-group .controls .value {
+      display: block;
+      padding-top: 5px; }
+
+/* line 133, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_show ul#quiz_student_details {
+  list-style: none;
+  padding: 0;
+  border-top: 1px solid #BBB;
+  border-bottom: 1px solid #BBB;
+  width: 100%;
+  font-size: 1.1em;
+  padding: 0.5em 0.25em;
+  margin: 0 0 1em; }
+  /* line 142, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_show ul#quiz_student_details li {
+    display: inline-block; }
+    /* line 144, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_show ul#quiz_student_details li .title {
+      font-weight: bold;
+      margin-right: 2px; }
+    /* line 148, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_show ul#quiz_student_details li .value {
+      padding-right: 2.5em; }
+
+/* line 155, app/stylesheets/pages/quizzes/_quizzes.scss */
+.ic-Layout-wrapper {
+  overflow: visible; }
+
+/* line 159, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz-header {
+  border-bottom: 1px solid #a4a4a4;
+  overflow: hidden; }
+  /* line 162, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-header h1, .quiz-header h2 {
+    margin-top: 0;
+    font-weight: bold; }
+
+/* line 168, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quizzes-speedgrader .quizzes-speedgrader-padding {
+  height: 60px; }
+
+/* line 172, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quizzes-speedgrader .grade-by-question-warning {
+  padding: 5px;
+  color: red; }
+
+/* line 177, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz-submission, .question_editing {
+  background: #fff;
+  border: 1px solid #fff;
+  padding: 16px; }
+
+/* line 184, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz-submission .question-not-graded-text {
+  display: none; }
+
+/* line 189, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_editing.brief {
+  min-height: 80px; }
+
+/* line 193, app/stylesheets/pages/quizzes/_quizzes.scss */
+.add_question {
+  border: none; }
+
+/* line 197, app/stylesheets/pages/quizzes/_quizzes.scss */
+.multiple_dropdowns_question .ui-selectmenu {
+  margin: 0.25em 0; }
+
+/* line 202, app/stylesheets/pages/quizzes/_quizzes.scss */
+#submit_quiz_form .button-container .btn, #submit_quiz_form #submit_quiz_button {
+  min-width: 120px; }
+
+/* line 205, app/stylesheets/pages/quizzes/_quizzes.scss */
+#submit_quiz_form .button-container {
+  padding: 0 30px; }
+  /* line 207, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #submit_quiz_form .button-container .previous-question,
+  #submit_quiz_form .button-container .next-question {
+    position: relative; }
+  /* line 212, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #submit_quiz_form .button-container .previous-question i {
+    left: 5px; }
+  /* line 216, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #submit_quiz_form .button-container .next-question {
+    float: right; }
+    /* line 218, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #submit_quiz_form .button-container .next-question i {
+      right: 5px; }
+  /* line 222, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #submit_quiz_form .button-container .next-question:after, #submit_quiz_form .button-container .previous-question:before {
+    color: #666; }
+  /* line 225, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #submit_quiz_form .button-container .next-question:after, #submit_quiz_form .button-container .previous-question:before {
+    color: #fff; }
+
+/* line 231, app/stylesheets/pages/quizzes/_quizzes.scss */
+#sort_questions {
+  max-height: 250px;
+  overflow: auto;
+  margin: 0px 0px 20px;
+  padding-left: 30px;
+  line-height: 1.5em; }
+  /* line 237, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #sort_questions li {
+    cursor: pointer; }
+
+/* line 242, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.assessment_results {
+  clear: both; }
+  /* line 245, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results .question .header {
+    padding: 8px 20px;
+    background-color: #F5F5F5;
+    overflow: auto; }
+    /* line 249, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results .question .header .name {
+      display: inline-block;
+      padding-top: 5px; }
+  /* line 255, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results .question .answers .answer {
+    clear: both;
+    margin: 0 0 8px;
+    position: relative;
+    opacity: 0.7; }
+    /* line 265, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results .question .answers .answer.correct_answer {
+      background: none;
+      opacity: 1; }
+    /* line 269, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results .question .answers .answer.selected_answer {
+      opacity: 1; }
+    /* line 272, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results .question .answers .answer.wrong_answer {
+      border-radius: 6px;
+      border: 2px solid red;
+      padding-bottom: 8px;
+      opacity: 1; }
+      /* line 277, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #questions.assessment_results .question .answers .answer.wrong_answer .ui-selectmenu-status {
+        color: red; }
+    /* line 281, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results .question .answers .answer.full-opacity {
+      opacity: 1; }
+    /* line 284, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results .question .answers .answer.hide_right_arrow, #questions.assessment_results .question .answers .answer.selected_answer.hide_right_arrow {
+      background-image: none; }
+  /* line 291, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results .question.hover .answers .answer.hide_right_arrow, #questions.assessment_results .question.hover .answers .answer.selected_answer.hide_right_arrow {
+    background-image: none; }
+  /* line 298, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results .question.hover .answers .answer.selected_answer.correct_answer {
+    background-image: none; }
+  /* line 301, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results .question.hover .answers .answer.correct_answer {
+    background-image: none; }
+  /* line 304, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results .question.hover .answers .answer.hide_right_arrow, #questions.assessment_results .question.hover .answers .answer.selected_answer.hide_right_arrow {
+    background-image: none; }
+  /* line 311, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results.suppress_correct_answers .question .answers .answer.wrong_answer, #questions.assessment_results.survey_results .question .answers .answer.wrong_answer {
+    border: none;
+    border-top: 1px solid #DDD;
+    border-radius: 0;
+    padding-bottom: 0;
+    opacity: 1; }
+    /* line 317, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessment_results.suppress_correct_answers .question .answers .answer.wrong_answer .ui-selectmenu-status, #questions.assessment_results.survey_results .question .answers .answer.wrong_answer .ui-selectmenu-status {
+      color: inherit; }
+  /* line 323, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessment_results.survey_results .question_points_holder {
+    display: none; }
+
+/* line 331, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.assessing .question_holder .question, #questions.assessment_results .question_holder .question {
+  margin: 0.7em 30px 30px; }
+  /* line 333, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessing .question_holder .question.related, #questions.assessment_results .question_holder .question.related {
+    border-width: 2px; }
+  /* line 336, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessing .question_holder .question .move, #questions.assessment_results .question_holder .question .move {
+    display: none; }
+
+/* line 340, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.assessing .question_holder .complete, #questions.assessment_results .question_holder .complete {
+  background-color: #eeeeee;
+  color: #999999; }
+
+/* line 347, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.assessing {
+  background: #fff;
+  padding: 16px;
+  min-height: 225px; }
+  /* line 351, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.assessing .answer {
+    padding: 5px;
+    margin: 0; }
+    /* line 25, app/stylesheets/base/_ic_mixins.scss */
+    #questions.assessing .answer:before, #questions.assessing .answer:after {
+      display: table;
+      content: "";
+      line-height: 0; }
+    /* line 31, app/stylesheets/base/_ic_mixins.scss */
+    #questions.assessing .answer:after {
+      clear: both; }
+    /* line 355, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.assessing .answer:last-child {
+      border-bottom: 0; }
+
+/* line 362, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.brief .question_holder .display_question {
+  font-size: 0.9em; }
+  /* line 364, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.brief .question_holder .display_question .answer, #questions.brief .question_holder .display_question .question_comment, #questions.brief .question_holder .display_question .quiz_comment {
+    display: none; }
+  /* line 367, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.brief .question_holder .display_question .calculated_question_answers {
+    display: none; }
+
+/* line 371, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.brief .multiple_answer_sets_holder {
+  display: none; }
+
+/* line 374, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.brief .add_question_group_link {
+  display: inline; }
+
+/* line 377, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.brief .after_answers {
+  display: none; }
+
+/* line 383, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .add_question_group_link {
+  display: none; }
+
+/* line 386, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .group_placeholder {
+  border-right: 1px solid #aaa;
+  border-left: 1px solid #aaa; }
+
+/* line 390, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .group_top {
+  border: 1px solid #aaa;
+  padding: 8px 10px 3px;
+  background-color: #eee;
+  clear: both;
+  position: relative; }
+  /* line 396, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top .quiz_group_form {
+    margin: 0; }
+  /* line 400, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.question_bank_top .local_group_links {
+    display: none; }
+  /* line 404, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.ui-sortable-placeholder {
+    border-bottom-width: 1px;
+    border-style: dashed;
+    -moz-border-radius: 5px;
+    border-color: #444;
+    margin-bottom: 20px; }
+  /* line 411, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top .group_edit {
+    display: none; }
+  /* line 414, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top .links {
+    opacity: 0.5; }
+  /* line 417, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top .move {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 7px; }
+    /* line 422, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions .group_top .move .draggable-handle {
+      color: #888;
+      cursor: pointer; }
+  /* line 427, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top .group_display.name {
+    font-weight: bold;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 16px;
+    font-size: 1rem;
+    display: inline; }
+  /* line 434, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top .group_display.hidden {
+    display: none; }
+  /* line 438, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.hover .links {
+    opacity: 1; }
+  /* line 443, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.editing .links {
+    opacity: 1; }
+  /* line 446, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.editing .group_edit {
+    display: inline; }
+  /* line 449, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.editing div.group_edit {
+    display: block; }
+  /* line 452, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.editing .group_display {
+    display: none; }
+  /* line 455, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.editing .move {
+    display: none; }
+  /* line 459, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .group_top.dragging {
+    border-bottom-width: 1px;
+    padding-bottom: 5px;
+    -moz-border-radius: 5px; }
+
+/* line 465, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .group_bottom {
+  border: 1px solid #aaa;
+  border-top-width: 0;
+  margin-bottom: 30px;
+  -moz-border-radius-bottomright: 5px;
+  -moz-border-radius-bottomleft: 5px; }
+
+/* line 473, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .question_holder.ui-sortable-placeholder .question_placeholder {
+  display: block;
+  border: 1px dashed #444;
+  -moz-border-radius: 5px; }
+
+/* line 479, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .assessment_question_bank, #questions .question_holder.group, #questions .insufficient_count_warning {
+  border-left: 1px solid #aaa;
+  border-right: 1px solid #aaa;
+  border-top: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 1em;
+  -moz-border-radius: 0; }
+
+/* line 490, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .insufficient_count_warning i.icon-warning {
+  color: #C23C0D; }
+
+/* line 495, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .question_holder.group {
+  padding-bottom: 10px; }
+  /* line 497, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .question_holder.group .question {
+    margin-bottom: 0; }
+    /* line 499, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions .question_holder.group .question .question_points_holder {
+      display: none; }
+
+/* line 506, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_bank {
+  border-bottom: 1px solid #b6babf;
+  border-top: 1px solid #fff; }
+  /* line 509, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_bank:first-child {
+    border-top: none; }
+  /* line 512, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_bank:last-child {
+    border-bottom: none; }
+  /* line 515, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_bank .move {
+    display: none; }
+
+/* line 522, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder {
+  position: relative; }
+  /* line 525, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_holder > .question .question_comment.empty {
+    display: none; }
+  /* line 528, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_holder > .question .answer_comment_holder.empty {
+    display: none; }
+  /* line 531, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_holder > .question .answer_comment, .question_holder > .question .question_comment_text {
+    white-space: pre-wrap; }
+
+/* line 537, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.assessment_results .question_holder .question {
+  margin: 0.7em auto 30px;
+  min-width: 415px;
+  width: 80%; }
+
+/* line 543, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question {
+  border: 1px solid #AAA;
+  background-color: #fff;
+  position: relative;
+  min-height: 50px;
+  margin: 0.7em auto 30px;
+  _height: 10px; }
+  /* line 550, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question.modified_but_not_saved {
+    border-width: 2px; }
+  /* line 553, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question.selected_single_question {
+    border-color: #31b5ff;
+    border-width: 2px; }
+  /* line 557, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question .move {
+    background: none !important;
+    float: left;
+    margin: 8px 8px 0;
+    width: 16px;
+    height: 16px;
+    padding: 2px; }
+    /* line 564, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .move .draggable-handle {
+      color: #888;
+      cursor: pointer; }
+  /* line 569, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question .header {
+    font-size: 1.2em;
+    font-weight: bold;
+    border-bottom: 1px solid #AAA;
+    background-color: #F5F5F5;
+    padding: 8px 20px;
+    margin: 0; }
+    /* line 576, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .header .question_points_holder {
+      float: right;
+      font-size: 0.9em;
+      font-weight: bold;
+      color: #595959;
+      margin-top: 0.1em; }
+  /* line 584, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question .text {
+    clear: left;
+    padding: 5px 20px 20px; }
+    /* line 587, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .button-container {
+      clear: both; }
+    /* line 590, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .question_text {
+      margin-top: 1.5em;
+      margin-bottom: 1.5em; }
+      /* line 593, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .question_text .answer_select {
+        border: 2px solid #888; }
+      /* line 596, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .question_text .text_after_answers {
+        display: block;
+        margin-top: 10px; }
+      /* line 600, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .question_text .text_before_answers {
+        display: block;
+        margin-bottom: 10px; }
+    /* line 605, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .variable_definitions {
+      width: 100%; }
+    /* line 608, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .calculated_question_answers_header {
+      font-weight: bold; }
+    /* line 611, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .formulas_list div {
+      margin-bottom: 2px; }
+    /* line 614, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .calculated_question_answers_content {
+      margin-left: 20px;
+      margin-bottom: 5px;
+      max-width: 400px;
+      overflow: auto; }
+      /* line 619, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .calculated_question_answers_content table {
+        border-collapse: collapse; }
+      /* line 622, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .calculated_question_answers_content th {
+        text-align: left;
+        font-weight: normal;
+        padding-left: 5px;
+        padding-right: 5px; }
+      /* line 628, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .calculated_question_answers_content td {
+        border-top: 1px solid #ccc;
+        text-align: left; }
+    /* line 633, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .equation_combinations_holder {
+      position: relative;
+      max-height: 100px;
+      overflow: auto; }
+    /* line 638, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .equation_combinations {
+      width: 100%; }
+    /* line 642, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .answers .quiz_response_text {
+      word-wrap: break-word; }
+    /* line 645, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .text .answers .answer {
+      padding: 8px 30px 0; }
+      /* line 647, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_list {
+        margin: 5px;
+        padding-left: 0;
+        font-weight: bold; }
+      /* line 652, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_row {
+        display: flex;
+        align-items: flex-start; }
+      /* line 656, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_input {
+        width: 12px;
+        vertical-align: top;
+        padding-top: 2px; }
+        /* line 660, app/stylesheets/pages/quizzes/_quizzes.scss */
+        .question .text .answers .answer .answer_input input[type="radio"], .question .text .answers .answer .answer_input input[type="checkbox"] {
+          margin-top: 0; }
+      /* line 664, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_label {
+        padding-left: 0.5rem;
+        padding-top: 2px;
+        width: 100%; }
+      /* line 669, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_label > *:first-child, .question .text .answers .answer .answer_label + * {
+        margin-top: 0; }
+      /* line 672, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_label > p:last-child {
+        margin-bottom: 0; }
+      /* line 675, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer .answer_html > p:last-child {
+        margin-bottom: 0; }
+      /* line 679, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer.unspecified_answer .answer_comment_holder {
+        border-color: #abd; }
+        /* line 681, app/stylesheets/pages/quizzes/_quizzes.scss */
+        .question .text .answers .answer.unspecified_answer .answer_comment_holder .comment_top {
+          background-image: url(/dist/images/comment_top_neutral-c6a1e56c91.png); }
+      /* line 685, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer.unspecified_answer .answer_text, .question .text .answers .answer.unspecified_answer .answer_html {
+        font-weight: normal; }
+      /* line 688, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer.unspecified_answer .answer_comment_holder {
+        border-color: #4a4;
+        background-image: linear-gradient(to bottom, #d7e7c9, #c3deac); }
+        /* line 691, app/stylesheets/pages/quizzes/_quizzes.scss */
+        .question .text .answers .answer.unspecified_answer .answer_comment_holder .comment_top {
+          background-image: url(/dist/images/comment_top_correct-ea9034f417.png); }
+      /* line 696, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer.partial_answer {
+        background: url(/dist/images/partial_answer-688f1b1720.png) no-repeat 3px 5px; }
+        /* line 698, app/stylesheets/pages/quizzes/_quizzes.scss */
+        .question .text .answers .answer.partial_answer .answer_text {
+          font-weight: bold; }
+      /* line 702, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .text .answers .answer.negative_answer {
+        background: url(/dist/images/negative_answer-36c4967746.png) no-repeat 3px 5px; }
+        /* line 704, app/stylesheets/pages/quizzes/_quizzes.scss */
+        .question .text .answers .answer.negative_answer .answer_text {
+          font-weight: bold; }
+  /* line 711, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question .question_comment {
+    position: relative;
+    float: left;
+    width: auto;
+    min-width: 50px;
+    border: 2px solid #faa;
+    -moz-border-radius: 5px;
+    padding: 3px 5px;
+    margin: 5px 20px; }
+    /* line 720, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .question_comment .comment_top {
+      position: absolute;
+      display: block;
+      top: -8px;
+      left: 10px;
+      width: 19px;
+      height: 8px;
+      background-image: url(/dist/images/comment_top-e1f4d6264a.png);
+      background-repeat: no-repeat; }
+    /* line 730, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .question_comment.question_neutral_comment {
+      border-color: #abd; }
+      /* line 732, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .question_comment.question_neutral_comment .comment_top {
+        background-image: url(/dist/images/comment_top_neutral-c6a1e56c91.png); }
+    /* line 736, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .question_comment.question_correct_comment {
+      border-color: #4a4; }
+      /* line 738, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .question_comment.question_correct_comment .comment_top {
+        background-image: url(/dist/images/comment_top_correct-ea9034f417.png); }
+  /* line 743, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question .links {
+    float: right;
+    margin: 8px 8px 0 0; }
+    /* line 746, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .links a {
+      position: relative;
+      left: -100000px; }
+      /* line 749, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .question .links a:focus {
+        left: 0; }
+  /* line 754, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question .flag_question {
+    background: url(/dist/images/answers_sprite_hc-44b386cf85.png) -48px top;
+    cursor: pointer;
+    position: absolute;
+    left: -30px;
+    margin-top: 13px;
+    height: 16px;
+    width: 20px; }
+    /* line 766, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .question .flag_question:hover {
+      background-position: -69px -17px; }
+  /* line 771, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question.marked .flag_question, .question.marked:hover .flag_question {
+    background-position: -48px -17px; }
+  /* line 777, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .no-touch .question.hover .move,
+  .touch .question .move {
+    background-color: #fff; }
+    /* line 779, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .no-touch .question.hover .move .move_icon,
+    .touch .question .move .move_icon {
+      display: inline; }
+  /* line 783, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .no-touch .question.hover .links a,
+  .touch .question .links a {
+    left: 0; }
+  /* line 786, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .no-touch .question.hover .flag_question,
+  .touch .question .flag_question {
+    background-color: #fff; }
+    /* line 788, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .no-touch .question.hover .flag_question .flag_icon,
+    .touch .question .flag_question .flag_icon {
+      opacity: 0.2;
+      display: inline; }
+
+/* line 799, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.multiple_choice_question .answer, .question.multiple_answers_question .answer, .question.matching_question .answer, .question.true_false_question .answer {
+  border-top: 1px solid #ddd; }
+
+/* line 806, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.fill_in_multiple_blanks_question .answer_group, .question.multiple_dropdowns_question .answer_group {
+  border-top: 1px solid #ddd; }
+  /* line 808, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question.fill_in_multiple_blanks_question .answer_group:last-child, .question.multiple_dropdowns_question .answer_group:last-child {
+    border-bottom: 0; }
+
+/* line 815, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answer .answer_select {
+  vertical-align: top;
+  padding-top: 0.5em; }
+  /* line 818, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer .answer_select .answer_weight {
+    display: none; }
+
+/* line 822, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answer .answer_match {
+  padding: 0 0 10px; }
+  /* line 824, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer .answer_match .answer_match_left, .answer .answer_match .answer_match_left_html {
+    float: left;
+    width: 45%;
+    font-weight: bold;
+    overflow: auto; }
+  /* line 830, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer .answer_match .answer_match_middle {
+    float: left;
+    width: 10%; }
+  /* line 834, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer .answer_match .answer_match_right {
+    float: left;
+    width: 45%; }
+    /* line 837, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer .answer_match .answer_match_right .answer {
+      border-top: none; }
+      /* line 839, app/stylesheets/pages/quizzes/_quizzes.scss */
+      .answer .answer_match .answer_match_right .answer .correct_answer {
+        padding-left: 5px; }
+        /* line 841, app/stylesheets/pages/quizzes/_quizzes.scss */
+        .answer .answer_match .answer_match_right .answer .correct_answer .answer_text {
+          font-weight: bold; }
+
+/* line 852, app/stylesheets/pages/quizzes/_quizzes.scss */
+.form_answers .answer .answer_match {
+  padding-bottom: 0;
+  padding-top: 10px; }
+
+/* line 859, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_form .question .answer .answer_select .select_answer {
+  display: none; }
+
+/* line 865, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question .answer .answer_select .select_answer_link {
+  display: none; }
+
+/* line 869, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question input[type=text] {
+  max-width: 100%;
+  min-width: 120px; }
+
+/* line 877, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.selectable .answer .answer_select .select_answer {
+  display: block; }
+
+/* line 880, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.selectable .answer .select_answer_link {
+  display: inline; }
+
+/* line 883, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.selectable .answer .answer_select .answer_image {
+  background-repeat: no-repeat;
+  background-position: 3px 5px;
+  cursor: pointer; }
+
+/* line 892, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.selectable .answer.hover .answer_select .answer_image,
+.question.selectable .answer .answer_select .select_answer_link:focus .answer_image {
+  background-image: url(/dist/images/partial_answer-688f1b1720.png); }
+
+/* line 896, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.selectable .answer.partial_answer .answer_select .answer_image {
+  background-image: url(/dist/images/partial_answer-688f1b1720.png); }
+
+/* line 899, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.selectable .answer.negative_answer .answer_select .answer_image {
+  background-image: url(/dist/images/negative_answer-36c4967746.png); }
+
+/* line 908, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question.fill_in_multiple_blanks_question .answer .answer_select .answer_box {
+  display: none; }
+
+/* line 913, app/stylesheets/pages/quizzes/_quizzes.scss */
+.skipped {
+  display: none; }
+
+/* line 921, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question .text .answers .answer.correct_answer, .question_holder .text .answers .answer.correct_answer {
+  background-image: none; }
+  /* line 923, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .survey_quiz .question .text .answers .answer.correct_answer .answer_text, .question_holder .text .answers .answer.correct_answer .answer_text {
+    font-weight: normal; }
+
+/* line 927, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question .text .answers .answer.partial_answer, .question_holder .text .answers .answer.partial_answer {
+  background-image: none; }
+  /* line 929, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .survey_quiz .question .text .answers .answer.partial_answer .answer_text, .question_holder .text .answers .answer.partial_answer .answer_text {
+    font-weight: normal; }
+
+/* line 933, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question .text .answers .answer.negative_answer, .question_holder .text .answers .answer.negative_answer {
+  background-image: none; }
+
+/* line 936, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question .text .answers .answer .answer_text, .survey_quiz .question .text .answers .answer .answer_html, .question_holder .text .answers .answer .answer_text, .question_holder .text .answers .answer .answer_html {
+  display: inline-block; }
+
+/* line 944, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question.selectable .answer .answer_select, .question_holder.selectable .answer .answer_select {
+  visibility: hidden; }
+
+/* line 947, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question.selectable .answer .answer_select .select_answer:focus .answer_image, .question_holder.selectable .answer .answer_select .select_answer:focus .answer_image {
+  background-image: none; }
+
+/* line 951, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question.selectable .answer .answer_select .answer_box.hover .answer_box, .question_holder.selectable .answer .answer_select .answer_box.hover .answer_box {
+  background-image: none; }
+
+/* line 956, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question.selectable .answer.hover .answer_select .answer_image, .question_holder.selectable .answer.hover .answer_select .answer_image {
+  background-image: none; }
+
+/* line 960, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz .question.selectable .answer.correct_answer .answer_select .answer_image, .question_holder.selectable .answer.correct_answer .answer_select .answer_image {
+  background-image: none; }
+
+/* line 968, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question textarea {
+  border: 1px solid #ccc;
+  padding: 2px;
+  margin: 2px; }
+
+/* line 978, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz form.question_form .form_answers .answer_comments {
+  display: none; }
+
+/* line 982, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz form.question_form .question_comment {
+  display: none; }
+
+/* line 985, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz form.question_form .question_comment.question_neutral_comment {
+  display: block; }
+
+/* line 989, app/stylesheets/pages/quizzes/_quizzes.scss */
+.survey_quiz form.question_form .question.selectable .answer.correct_answer {
+  color: inherit; }
+
+/* line 997, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .question .header {
+  overflow: hidden; }
+
+/* line 1000, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .multi_answer_sets {
+  display: none; }
+
+/* line 1004, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .fill_in_multiple_blanks_question .multi_answer_sets, form.question_form .multiple_dropdowns_question .multi_answer_sets {
+  display: block; }
+
+/* line 1007, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .fill_in_multiple_blanks_question .multi_answer_sets_subheader, form.question_form .multiple_dropdowns_question .multi_answer_sets_subheader {
+  font-size: 0.8em; }
+
+/* line 1011, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .explanation {
+  font-size: 0.8em;
+  margin-bottom: 5px; }
+
+/* line 1016, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .form_answers .answer {
+  border: 1px solid #fff;
+  -moz-border-radius: 5px; }
+
+/* line 1020, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .form_answers .answer.hover {
+  border: 1px solid #ddd; }
+
+/* line 1023, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .form_answers .answer .question_actions a {
+  position: relative;
+  left: -100000px; }
+
+/* line 1027, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .form_answers .answer.hover .question_actions a, form.question_form .form_answers .question_actions a:focus {
+  left: 0; }
+
+/* line 1030, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .form_answers .answer_comments {
+  overflow-x: auto;
+  margin-left: 30px;
+  padding: 10px 5px;
+  margin-top: 5px; }
+  /* line 1035, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .form_answers .answer_comments .answer_comment_box {
+    height: 2.5em; }
+  /* line 1038, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .form_answers .answer_comments.empty {
+    padding: 0; }
+
+/* line 1043, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .form_answers .answer.correct_answer .answer_comments {
+  border-color: #4a4; }
+  /* line 1045, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .form_answers .answer.correct_answer .answer_comments .comment_top {
+    background-image: url(/dist/images/comment_top_correct-ea9034f417.png); }
+
+/* line 1051, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .question_comment {
+  float: none;
+  display: inline-block;
+  width: 40%;
+  min-width: 50px;
+  padding: 3px 5px;
+  margin: 5px 10px;
+  vertical-align: top; }
+  /* line 1060, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .question_comment.question_correct_comment {
+    border-color: #4a4;
+    color: #080; }
+    /* line 1063, app/stylesheets/pages/quizzes/_quizzes.scss */
+    form.question_form .question_comment.question_correct_comment .comment_top {
+      background-image: url(/dist/images/comment_top_correct-ea9034f417.png); }
+
+/* line 1069, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .question.selectable .answer.correct_answer {
+  color: #080; }
+
+/* line 1074, app/stylesheets/pages/quizzes/_quizzes.scss */
+form.question_form .comment {
+  position: relative;
+  border: 2px solid #faa;
+  -moz-border-radius: 5px; }
+  /* line 1079, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .comment .details {
+    font-size: 0.8em; }
+  /* line 1083, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .comment .comment_focus {
+    position: relative;
+    left: -100000px;
+    float: right; }
+    /* line 1087, app/stylesheets/pages/quizzes/_quizzes.scss */
+    form.question_form .comment .comment_focus .ellipsis {
+      display: none; }
+  /* line 1092, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .comment.hover .comment_focus, form.question_form .comment .comment_focus:focus {
+    left: 0; }
+  /* line 1096, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .comment .comment_top {
+    position: absolute;
+    display: block;
+    top: -8px;
+    left: 10px;
+    width: 19px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-image: url(/dist/images/comment_top-e1f4d6264a.png); }
+  /* line 1107, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .comment.empty {
+    width: 50px;
+    opacity: 0.5; }
+    /* line 1110, app/stylesheets/pages/quizzes/_quizzes.scss */
+    form.question_form .comment.empty .comment_focus {
+      left: 0;
+      float: none;
+      display: block;
+      text-align: center;
+      font-size: 1.2em; }
+      /* line 1116, app/stylesheets/pages/quizzes/_quizzes.scss */
+      form.question_form .comment.empty .comment_focus .ellipsis {
+        display: block; }
+      /* line 1119, app/stylesheets/pages/quizzes/_quizzes.scss */
+      form.question_form .comment.empty .comment_focus .icon-edit {
+        display: none; }
+    /* line 1123, app/stylesheets/pages/quizzes/_quizzes.scss */
+    form.question_form .comment.empty .details {
+      display: none; }
+  /* line 1128, app/stylesheets/pages/quizzes/_quizzes.scss */
+  form.question_form .comment.editing {
+    display: block;
+    width: auto; }
+    /* line 1131, app/stylesheets/pages/quizzes/_quizzes.scss */
+    form.question_form .comment.editing .mce-container-body {
+      overflow: inherit; }
+    /* line 1134, app/stylesheets/pages/quizzes/_quizzes.scss */
+    form.question_form .comment.editing .comment_focus {
+      display: none; }
+
+/* line 1141, app/stylesheets/pages/quizzes/_quizzes.scss */
+ul#question_list {
+  margin: 0 0 13px;
+  padding: 0 0 0 20px;
+  list-style-type: none; }
+  /* line 1145, app/stylesheets/pages/quizzes/_quizzes.scss */
+  ul#question_list li {
+    padding-left: 20px; }
+    /* line 1147, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li i {
+      color: #595959;
+      margin-right: 4px; }
+    /* line 1151, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li.answered a {
+      color: var(--ic-brand-primary-darkened-15); }
+    /* line 1154, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li.answered.current_question a {
+      color: #396eb2; }
+    /* line 1157, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li.marked {
+      font-weight: bold;
+      background-image: url("/dist/images/flagged_question-e2565888dd.png");
+      background-position: "left" 3px top 7px;
+      background-repeat: no-repeat;
+      background-color: transparent;
+      background-image: url("/dist/images/flagged_question_hc-e2565888dd.png");
+      background-repeat: no-repeat;
+      background-position: 3px 7px; }
+      @media (min--moz-device-pixel-ratio: 1.5), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+        /* line 1157, app/stylesheets/pages/quizzes/_quizzes.scss */
+        ul#question_list li.marked {
+          background-image: url("/dist/images/flagged_question_hc@2x-e1d612b819.png");
+          background-size: 10px 8px; } }
+    /* line 1166, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li.current_question {
+      color: #2D3B45 !important;
+      font-weight: bold; }
+    /* line 1170, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li.correct {
+      color: #080; }
+      /* line 1172, app/stylesheets/pages/quizzes/_quizzes.scss */
+      ul#question_list li.correct a {
+        color: #080; }
+    /* line 1176, app/stylesheets/pages/quizzes/_quizzes.scss */
+    ul#question_list li.incorrect {
+      color: #800; }
+      /* line 1178, app/stylesheets/pages/quizzes/_quizzes.scss */
+      ul#question_list li.incorrect a {
+        color: #800; }
+  /* line 1185, app/stylesheets/pages/quizzes/_quizzes.scss */
+  ul#question_list.read_only li.seen {
+    color: #ccc; }
+
+/* line 1193, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz_score .score_value {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #444; }
+
+/* line 1200, app/stylesheets/pages/quizzes/_quizzes.scss */
+ul#quiz_versions {
+  margin-top: 5px; }
+  /* line 1203, app/stylesheets/pages/quizzes/_quizzes.scss */
+  ul#quiz_versions .quiz_version.selected {
+    font-weight: bold; }
+
+/* line 1210, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_edit_header #quiz_display_points_possible {
+  line-height: 33px;
+  font-size: 1.1em;
+  text-align: right; }
+
+/* line 1217, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_edit_actions {
+  border: 1px solid #b6babf;
+  border-width: 1px 0;
+  padding: 12px 13px;
+  text-align: right; }
+  /* line 1222, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_actions .notify {
+    text-align: left; }
+    /* line 1224, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_edit_actions .notify .checkbox {
+      margin-bottom: 0;
+      margin-top: 5px;
+      min-height: 18px; }
+  /* line 1230, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_actions #cancel_button {
+    margin-right: 6px; }
+
+/* line 1235, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_edit_wrapper {
+  background-color: #ffffff; }
+  /* line 1237, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper .form {
+    padding: 1em; }
+  /* line 1240, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper #quiz_title {
+    margin-top: 5px; }
+  /* line 1243, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper .title #quiz_title {
+    width: 430px; }
+  /* line 1246, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper #student_submissions_warning,
+  #quiz_edit_wrapper #unpublished_changes_message {
+    padding: 12px;
+    border-width: 1px;
+    margin-bottom: 0.7em; }
+  /* line 1252, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper #quiz_display_points_possible {
+    line-height: 40px;
+    font-size: 1.2em;
+    text-align: right; }
+  /* line 1257, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper .admin-links {
+    line-height: 40px; }
+    /* line 1259, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_edit_wrapper .admin-links .al-options {
+      min-width: 125px; }
+  /* line 1263, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper #options_tab {
+    overflow-x: scroll; }
+  /* line 1266, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper #quiz_tabs {
+    margin-top: 12px; }
+    /* line 1269, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_edit_wrapper #quiz_tabs #quiz_tabs_tab_list {
+      display: flex;
+      align-items: flex-end; }
+      /* line 1273, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_tabs_tab_list #quiz_tabs_spacer {
+        flex: 1; }
+      /* line 1277, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_tabs_tab_list .header-bar-right {
+        display: flex;
+        align-items: center; }
+        /* line 1281, app/stylesheets/pages/quizzes/_quizzes.scss */
+        #quiz_edit_wrapper #quiz_tabs #quiz_tabs_tab_list .header-bar-right .admin-links {
+          padding-bottom: 6px; }
+    /* line 1287, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_edit_wrapper #quiz_tabs #questions_tab {
+      background: #fff; }
+      /* line 1289, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #questions_tab #show_question_details_wrap {
+        width: 80%;
+        min-width: 415px;
+        margin: 1em auto; }
+    /* line 1295, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #quiz_edit_wrapper #quiz_tabs #quiz_options_form {
+      margin: 0 auto; }
+      /* line 1297, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form td {
+        vertical-align: top; }
+      /* line 1300, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form label.checkbox {
+        margin-bottom: 10px; }
+      /* line 1303, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form .inline {
+        display: inline-block; }
+        /* line 1305, app/stylesheets/pages/quizzes/_quizzes.scss */
+        #quiz_edit_wrapper #quiz_tabs #quiz_options_form .inline.checkbox {
+          margin-bottom: 10px; }
+        /* line 1308, app/stylesheets/pages/quizzes/_quizzes.scss */
+        #quiz_edit_wrapper #quiz_tabs #quiz_options_form .inline.nowrap {
+          white-space: nowrap; }
+      /* line 1312, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #keep_score_select,
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #quiz_allowed_attempts {
+        margin-left: 10px; }
+      /* line 1316, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #quiz_allowed_attempts {
+        width: 20px;
+        margin-bottom: 5px; }
+      /* line 1320, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #keep_score_select {
+        width: 100px; }
+      /* line 1324, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #quiz_show_correct_answers_options > div {
+        margin-bottom: 10px; }
+      /* line 1327, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #quiz_show_correct_answers_options label.inline {
+        min-width: 160px; }
+      /* line 1330, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form #quiz_show_correct_answers_options .datetime_suggest {
+        display: inline-block; }
+      /* line 1334, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form .control-group {
+        margin-bottom: 10px;
+        overflow: visible; }
+      /* line 1338, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-group {
+        max-width: 478px;
+        padding: 10px 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-bottom: 15px;
+        position: relative;
+        overflow: hidden; }
+        /* line 1346, app/stylesheets/pages/quizzes/_quizzes.scss */
+        #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-group > label.checkbox {
+          position: relative;
+          z-index: 1; }
+          /* line 1349, app/stylesheets/pages/quizzes/_quizzes.scss */
+          #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-group > label.checkbox:hover:before {
+            content: "";
+            position: absolute;
+            z-index: -1;
+            top: -10px;
+            right: -10px;
+            bottom: -10px;
+            left: -10px;
+            background: #E7F4FF;
+            border-radius: 4px; }
+      /* line 1362, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-group.disabled label {
+        color: #999; }
+      /* line 1365, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-caption {
+        font-size: 15px;
+        font-size: 0.9375rem;
+        font-weight: bold;
+        line-height: 1.4em; }
+        /* line 1369, app/stylesheets/pages/quizzes/_quizzes.scss */
+        #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-caption:not(:first-of-type) {
+          margin-top: 30px; }
+      /* line 1373, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #quiz_edit_wrapper #quiz_tabs #quiz_options_form .options {
+        margin-left: 20px; }
+
+/* line 1380, app/stylesheets/pages/quizzes/_quizzes.scss */
+.options_header {
+  font-weight: bold;
+  font-size: 1.2em; }
+  /* line 1383, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .options_header a {
+    margin-right: 10px;
+    margin-top: 0.35em;
+    float: right;
+    font-size: 0.8em; }
+
+/* line 1391, app/stylesheets/pages/quizzes/_quizzes.scss */
+.equation_answers {
+  display: none; }
+
+/* line 1395, app/stylesheets/pages/quizzes/_quizzes.scss */
+.equation_header {
+  display: none;
+  margin-bottom: 0; }
+  /* line 1398, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .equation_header .equation_subheader {
+    margin-left: 0;
+    font-size: 0.8em; }
+
+/* line 1405, app/stylesheets/pages/quizzes/_quizzes.scss */
+.true_false_question .delete_answer_link {
+  display: none !important; }
+
+/* line 1411, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .equation_answers {
+  display: block; }
+
+/* line 1414, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .form_answers {
+  display: none; }
+
+/* line 1417, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .add_answer {
+  display: none; }
+
+/* line 1420, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .variables {
+  margin-bottom: 10px;
+  table-layout: fixed; }
+  /* line 1421, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .variables #equation_var_name {
+    width: 10%; }
+  /* line 1426, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .variables th {
+    font-size: 0.8em; }
+  /* line 1430, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .variables td input {
+    width: 120px;
+    min-width: 40px;
+    max-width: 100%; }
+
+/* line 1437, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .equation_content > table {
+  width: 100%; }
+  /* line 1439, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .equation_content > table th {
+    vertical-align: top;
+    text-align: left; }
+
+/* line 1444, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .word_problem {
+  width: 100%; }
+
+/* line 1447, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .formulas {
+  table-layout: fixed; }
+  /* line 1451, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas thead tr td:last-child {
+    width: 5%; }
+  /* line 1454, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas thead tr #headings\.result {
+    width: 30%; }
+  /* line 1459, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas .formula_row.last_row {
+    font-weight: bold; }
+  /* line 1462, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas .formula_row.last_row .status {
+    font-size: 1.2em; }
+  /* line 1465, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas .last_row_details {
+    font-size: 0.8em; }
+  /* line 1468, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas .formula_row .formula {
+    cursor: move; }
+  /* line 1471, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas .formula_row .status {
+    cursor: pointer; }
+  /* line 1474, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .formulas .decimal_places {
+    font-size: 0.8em; }
+
+/* line 1478, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .combinations td, .calculated_question .combinations th {
+  text-align: left;
+  width: 10%; }
+
+/* line 1482, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .combinations th {
+  padding-right: 5px;
+  padding-left: 5px; }
+
+/* line 1486, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .combinations td.final_answer, .calculated_question .combinations th.final_answer {
+  width: 1%; }
+
+/* line 1489, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .combinations td.final_answer {
+  white-space: nowrap; }
+
+/* line 1492, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .combinations {
+  border-collapse: collapse; }
+  /* line 1494, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .combinations td {
+    border-top: 1px solid #ccc;
+    padding: 1px 3px; }
+
+/* line 1499, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .combinations_holder {
+  overflow: auto;
+  max-height: 100px; }
+
+/* line 1503, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .equation_header {
+  display: block; }
+
+/* line 1507, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .equation_answers .equation_header {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block; }
+  /* line 1512, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .calculated_question .equation_answers .equation_header .equation_subheader {
+    font-size: 0.7em;
+    font-weight: normal;
+    margin-left: 20px; }
+
+/* line 1518, app/stylesheets/pages/quizzes/_quizzes.scss */
+.calculated_question .equation_answers .equation_content {
+  margin-left: 20px;
+  margin-bottom: 15px; }
+
+/* line 1525, app/stylesheets/pages/quizzes/_quizzes.scss */
+#equations_dialog_tabs pre {
+  margin: 3px 1px; }
+
+/* line 1530, app/stylesheets/pages/quizzes/_quizzes.scss */
+#find_question_dialog .page_link {
+  display: block;
+  font-weight: bold;
+  margin: 5px 0; }
+
+/* line 1535, app/stylesheets/pages/quizzes/_quizzes.scss */
+#find_question_dialog .found_question {
+  margin-bottom: 5px; }
+  /* line 1537, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_question_dialog .found_question .question_text {
+    margin: 2px 10px 2px 25px;
+    font-size: 0.8em; }
+  /* line 1541, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_question_dialog .found_question .question_name {
+    font-weight: bold; }
+  /* line 1544, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_question_dialog .found_question .already_added_message {
+    display: none; }
+  /* line 1548, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_question_dialog .found_question.already_added .question_name, #find_question_dialog .found_question.already_added .question_text {
+    color: #888; }
+  /* line 1551, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_question_dialog .found_question.already_added .already_added_message {
+    display: block;
+    font-size: 0.8em;
+    color: #888;
+    font-style: italic;
+    margin-left: 25px; }
+
+/* line 1563, app/stylesheets/pages/quizzes/_quizzes.scss */
+#ip_filters_dialog .searching_message {
+  font-size: 1.1em;
+  font-weight: bold; }
+
+/* line 1567, app/stylesheets/pages/quizzes/_quizzes.scss */
+#ip_filters_dialog .filters {
+  border-collapse: collapse; }
+  /* line 1569, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ip_filters_dialog .filters td {
+    border-bottom: 1px dotted #ccc;
+    cursor: pointer; }
+  /* line 1574, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ip_filters_dialog .filters .ip_filter .name_and_account {
+    padding: 2px 10px 2px 5px; }
+    /* line 1576, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #ip_filters_dialog .filters .ip_filter .name_and_account .name {
+      font-weight: bold; }
+    /* line 1579, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #ip_filters_dialog .filters .ip_filter .name_and_account .account {
+      font-size: 0.8em;
+      color: #888; }
+  /* line 1584, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ip_filters_dialog .filters .ip_filter .filter {
+    vertical-align: top;
+    text-style: italic;
+    padding: 2px 5px 2px 10px; }
+  /* line 1590, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ip_filters_dialog .filters .ip_filter:hover td {
+    background-color: #eee; }
+
+/* line 1599, app/stylesheets/pages/quizzes/_quizzes.scss */
+#aligned_outcomes_list .outcome {
+  margin-bottom: 3px;
+  padding-bottom: 3px;
+  border-bottom: 1px dotted #ccc; }
+  /* line 1603, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #aligned_outcomes_list .outcome .short_description {
+    float: left;
+    font-weight: bold; }
+  /* line 1607, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #aligned_outcomes_list .outcome .delete_outcome_link {
+    float: right; }
+  /* line 1610, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #aligned_outcomes_list .outcome .content {
+    font-size: 0.8em;
+    padding-left: 20px; }
+
+/* line 1618, app/stylesheets/pages/quizzes/_quizzes.scss */
+#find_bank_dialog .bank_list {
+  max-height: 220px;
+  overflow: auto;
+  margin: 10px 0; }
+
+/* line 1623, app/stylesheets/pages/quizzes/_quizzes.scss */
+#find_bank_dialog .bank {
+  border-radius: 3px;
+  padding: 4px 5px;
+  cursor: pointer;
+  margin: 0 20px;
+  border-bottom: 1px dotted #ccc; }
+  /* line 1629, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_bank_dialog .bank .title {
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; }
+  /* line 1635, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_bank_dialog .bank .sub_content {
+    font-size: 0.8em;
+    padding-left: 20px; }
+  /* line 1639, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_bank_dialog .bank:hover {
+    background-color: #eee; }
+  /* line 1642, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #find_bank_dialog .bank.selected {
+    background-color: #ccc;
+    font-weight: bold; }
+
+/* line 1649, app/stylesheets/pages/quizzes/_quizzes.scss */
+#last_saved_indicator {
+  color: #666;
+  padding-right: 10px; }
+
+/* line 1654, app/stylesheets/pages/quizzes/_quizzes.scss */
+.muted-notice {
+  background: #f1f1f1;
+  background-image: linear-gradient(to bottom, #eee, #f7f7f7);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 16px;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.75); }
+
+/* line 1663, app/stylesheets/pages/quizzes/_quizzes.scss */
+.ui-selectmenu-menu a, .ui-selectmenu {
+  color: #222 !important;
+  font-weight: normal;
+  text-decoration: none !important; }
+
+/* line 1669, app/stylesheets/pages/quizzes/_quizzes.scss */
+.ui-selectmenu {
+  max-width: 100% !important; }
+
+/* line 1673, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question select {
+  max-width: 100%; }
+
+/* line 1677, app/stylesheets/pages/quizzes/_quizzes.scss */
+.edit_html_done_wrapper {
+  text-align: right; }
+
+/* line 1681, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_actions .edit_html {
+  display: none; }
+
+/* line 1685, app/stylesheets/pages/quizzes/_quizzes.scss */
+.multiple_choice_question .question_actions .edit_html,
+.multiple_answers_question .question_actions .edit_html {
+  display: inline-block; }
+
+/* line 1692, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answer_arrow {
+  background-image: url(/dist/images/answers_sprite_hc-44b386cf85.png);
+  background-repeat: repeat-x;
+  display: inline-block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-weight: bold;
+  line-height: 27px;
+  min-width: 96px;
+  padding: 0 8px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5); }
+  /* line 1704, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_arrow.correct:before, .answer_arrow.correct:after, .answer_arrow.incorrect:before, .answer_arrow.incorrect:after, .answer_arrow.info:before, .answer_arrow.info:after {
+    background-image: url(/dist/images/answers_sprite_hc-44b386cf85.png);
+    background-repeat: no-repeat;
+    content: " ";
+    height: 27px;
+    position: absolute;
+    top: 0; }
+  /* line 1718, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_arrow.correct:before, .answer_arrow.incorrect:before, .answer_arrow.info:before {
+    left: -3px;
+    width: 3px; }
+  /* line 1722, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_arrow.correct:after, .answer_arrow.incorrect:after, .answer_arrow.info:after {
+    right: -11px;
+    width: 11px; }
+  /* line 1726, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_arrow.correct {
+    background-position: left -34px;
+    color: #fff; }
+    /* line 1729, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer_arrow.correct:before {
+      background-position: top left; }
+    /* line 1732, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer_arrow.correct:after {
+      background-position: -12px top; }
+  /* line 1736, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_arrow.incorrect {
+    background-position: left -62px;
+    color: #fff; }
+    /* line 1739, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer_arrow.incorrect:before {
+      background-position: -4px top; }
+    /* line 1742, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer_arrow.incorrect:after {
+      background-position: -24px top; }
+  /* line 1746, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_arrow.info {
+    background-position: left -90px;
+    color: #333;
+    text-shadow: 0 -1px 0 rgba(255, 255, 255, 0.5); }
+    /* line 1750, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer_arrow.info:before {
+      background-position: -8px top; }
+    /* line 1753, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .answer_arrow.info:after {
+      background-position: -36px top; }
+
+/* line 1768, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz_comment {
+  background-image: linear-gradient(to bottom, #fff, #f4f5f6);
+  border: 1px solid #b5bfc7;
+  filter: none;
+  border-radius: 5px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  font-size: 16px;
+  font-size: 1rem;
+  min-width: 100px;
+  padding: 14px;
+  position: relative;
+  margin: 16px 30px;
+  text-align: left;
+  display: inline-block; }
+  /* line 1781, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz_comment.empty {
+    display: none; }
+  /* line 1784, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz_comment p {
+    margin-bottom: 0.5em; }
+    /* line 1786, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .quiz_comment p:last-child {
+      margin-bottom: 0; }
+  /* line 1790, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz_comment:before {
+    border: 10px solid transparent;
+    content: " ";
+    height: 0;
+    position: absolute;
+    width: 0;
+    border-bottom-color: #b5bfc7;
+    left: 30px;
+    top: -20px; }
+  /* line 1796, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz_comment:after {
+    border: 10px solid transparent;
+    content: " ";
+    height: 0;
+    position: absolute;
+    width: 0;
+    border-bottom-color: #fff;
+    left: 30px;
+    top: -19px; }
+
+/* line 1804, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answer_comment_holder {
+  border-radius: 5px;
+  border: 1px solid #faa;
+  margin-left: 20px;
+  padding: 5px;
+  margin-top: 5px;
+  font-size: 0.8em;
+  position: relative;
+  float: left;
+  width: auto;
+  min-width: 50px;
+  background-image: linear-gradient(to bottom, #ffeae7, #fdd7d7); }
+  /* line 1816, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_comment_holder .answer_comment {
+    background-image: none; }
+  /* line 1819, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answer_comment_holder .comment_top {
+    position: absolute;
+    display: block;
+    top: -8px;
+    left: 10px;
+    width: 19px;
+    height: 8px;
+    background-repeat: no-repeat;
+    background-image: url(/dist/images/comment_top-e1f4d6264a.png); }
+
+/* line 1832, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answers .quiz_comment {
+  font-size: 0.9em;
+  margin: 16px 0 8px;
+  padding: 5px 10px; }
+
+/* line 1839, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_comments {
+  display: flex;
+  flex-wrap: wrap; }
+  /* line 1843, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_comments .comments_header {
+    font-weight: bold; }
+  /* line 1847, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_comments .quiz_comment {
+    font-size: 0.9em; }
+  /* line 1851, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_comments .correct_comments_header {
+    color: #127A1B; }
+  /* line 1855, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_comments .incorrect_comments_header {
+    color: #D01A19; }
+
+/* line 1861, app/stylesheets/pages/quizzes/_quizzes.scss */
+#update_history_form {
+  margin: 0px; }
+  /* line 1863, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form .assessment_results {
+    clear: none; }
+  /* line 1866, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form .question .text {
+    clear: none; }
+  /* line 1869, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form .button-container {
+    padding: 16px;
+    text-align: right; }
+  /* line 1874, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form #questions .user_points, #update_history_form #questions .question_points_holder {
+    display: block; }
+  /* line 1879, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form .header .question_points_holder {
+    font-size: 14px;
+    font-size: 0.875rem;
+    margin: 0; }
+  /* line 1883, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form .header .question_input {
+    width: 70px;
+    margin-bottom: 0; }
+  /* line 1890, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_history_form .short_answer_question .answers .question_input {
+    font-size: 13px;
+    font-size: 0.8125rem;
+    width: 125px; }
+
+/* line 1898, app/stylesheets/pages/quizzes/_quizzes.scss */
+.summary .footnote {
+  font-size: 14px;
+  font-size: 0.875rem;
+  text-align: right; }
+
+/* line 1903, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answer-group-heading {
+  display: block;
+  margin: 8px 0; }
+
+/* line 1908, app/stylesheets/pages/quizzes/_quizzes.scss */
+.answers_wrapper {
+  position: relative; }
+  /* line 1910, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .answers_wrapper .margin {
+    margin-left: 8px;
+    color: #999; }
+
+/* line 1917, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question img, .answer img {
+  max-width: 100%; }
+
+/* line 1924, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .short_answer_question .answers_wrapper, #questions .numerical_question .answers_wrapper {
+  border-top: 1px solid #ddd;
+  padding-top: 8px; }
+  /* line 1927, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions .short_answer_question .answers_wrapper .answer, #questions .numerical_question .answers_wrapper .answer {
+    margin: 0 !important;
+    padding-top: 0; }
+
+/* line 1934, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.question_editing .question {
+  /* Display persistent correct answer arrow when editing only. */ }
+  /* line 1935, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.question_editing .question .answers_wrapper {
+    border-top: none; }
+    /* line 1937, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #questions.question_editing .question .answers_wrapper .answer {
+      position: relative; }
+  /* line 1942, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.question_editing .question .answers .answer {
+    position: relative; }
+  /* line 1946, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.question_editing .question .calculated_question_answers {
+    position: relative; }
+  /* line 1950, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #questions.question_editing .question.selectable .form_answers .answer.correct_answer .answer_select .answer_image {
+    background-image: url(/dist/images/correct_answer-611a5f53b9.png); }
+
+/* line 1957, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions.question_editing .blank_id_select {
+  width: auto;
+  min-width: 220px; }
+
+/* line 1964, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .essay_question .answers .question_input {
+  width: 100%; }
+
+/* line 1968, app/stylesheets/pages/quizzes/_quizzes.scss */
+#questions .essay_question .tinymce-keyboard-shortcuts-toggle {
+  float: right; }
+
+/* line 1974, app/stylesheets/pages/quizzes/_quizzes.scss */
+.form-actions {
+  border: 1px solid #999;
+  margin: 18px 0 -1px; }
+
+/* line 1980, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_options_holder select {
+  width: auto;
+  margin-left: 3px; }
+
+/* line 1984, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_options_holder input[type="text"] {
+  width: 90%;
+  margin-left: 3px; }
+  /* line 1987, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_options_holder input[type="text"].hasDatepicker {
+    width: 45%; }
+
+/* line 1993, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .upload-label {
+  padding-right: 2px;
+  padding-top: 25px; }
+
+/* line 1999, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .control-group .controls {
+  margin: 0 auto; }
+
+/* line 2005, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .file-status {
+  margin-left: 55px; }
+
+/* line 2008, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .file-removed {
+  color: red; }
+
+/* line 2011, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .file-uploaded {
+  color: green; }
+
+/* line 2014, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .upload-label {
+  vertical-align: top; }
+
+/* line 2019, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .file-upload-box-with-file {
+  padding: 5px; }
+  /* line 2021, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .question_holder .display_question .file-upload-question-holder .file-upload-box-with-file .icon-end {
+    color: grey;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0; }
+
+/* line 2027, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .file-upload-box {
+  margin-bottom: 0;
+  position: relative;
+  display: inline-block;
+  width: 85%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px; }
+
+/* line 2035, app/stylesheets/pages/quizzes/_quizzes.scss */
+.question_holder .display_question .file-upload-question-holder .controls {
+  margin: 0 auto 30px; }
+
+/* line 2040, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz-nav {
+  width: 100%;
+  position: fixed; }
+
+/* line 2045, app/stylesheets/pages/quizzes/_quizzes.scss */
+.quiz-nav, .quiz-nav-fullpage {
+  text-align: center;
+  background: #e8e8e8;
+  margin: 0;
+  padding: 15px;
+  right: -15px;
+  height: 30px;
+  z-index: 9;
+  border-bottom: 1px solid #cccccc;
+  text-align: center;
+  display: block; }
+  /* line 2056, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav ul.nav, .quiz-nav-fullpage ul.nav {
+    overflow: hidden;
+    height: 30px;
+    width: 984px;
+    position: relative;
+    z-index: 10; }
+  /* line 2063, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav.drshadow, .quiz-nav-fullpage.drshadow {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 7px;
+    border-bottom: 1px solid #b5b5b5; }
+  /* line 2068, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav li a.question-nav-link, .quiz-nav-fullpage li a.question-nav-link {
+    width: 33px;
+    height: 28px;
+    padding: 0px;
+    line-height: 32px; }
+  /* line 2074, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav li.active a, .quiz-nav-fullpage li.active a {
+    box-shadow: #31b5ff 0px 2px 1px;
+    background: white;
+    border: 1px solid #31b5ff;
+    color: #0088cc;
+    font-weight: bold; }
+  /* line 2081, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav li.complete a, .quiz-nav-fullpage li.complete a {
+    background-color: #eeeeee;
+    color: #999999; }
+  /* line 2085, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav li.nav-arrow, .quiz-nav-fullpage li.nav-arrow {
+    z-index: 12;
+    position: absolute; }
+  /* line 2089, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav li#nav-next, .quiz-nav-fullpage li#nav-next {
+    right: 0px; }
+  /* line 2092, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .quiz-nav li#nav-prev, .quiz-nav-fullpage li#nav-prev {
+    left: 0px; }
+
+/* line 2098, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz-nav-inner-wrapper {
+  position: absolute;
+  left: 32px;
+  z-index: 11; }
+
+/* line 2104, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz-draft-state {
+  padding: 10px;
+  font-weight: bold; }
+  /* line 2107, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz-draft-state.published {
+    color: #007711; }
+  /* line 2110, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz-draft-state.not_published {
+    color: #999999; }
+
+/* line 2115, app/stylesheets/pages/quizzes/_quizzes.scss */
+.regrade-options {
+  color: #333;
+  padding: 2px 10px; }
+  /* line 2118, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .regrade-options h3 {
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 100%;
+    font-weight: bold; }
+    /* line 2123, app/stylesheets/pages/quizzes/_quizzes.scss */
+    .regrade-options h3 span {
+      font-weight: normal;
+      text-transform: none; }
+  /* line 2129, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .regrade-options .checkbox input {
+    height: 16px;
+    margin: 0 9px 0 0; }
+  /* line 2134, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .regrade-options label {
+    display: block;
+    padding-left: 0px; }
+
+/* line 2140, app/stylesheets/pages/quizzes/_quizzes.scss */
+.user-regrade-points {
+  color: orange; }
+
+/* line 2144, app/stylesheets/pages/quizzes/_quizzes.scss */
+.regraded-warning {
+  margin: 0 0 10px; }
+
+/* line 2148, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz-submission-version-table {
+  margin: 30px 0 20px; }
+  /* line 25, app/stylesheets/base/_ic_mixins.scss */
+  #quiz-submission-version-table:before, #quiz-submission-version-table:after {
+    display: table;
+    content: "";
+    line-height: 0; }
+  /* line 31, app/stylesheets/base/_ic_mixins.scss */
+  #quiz-submission-version-table:after {
+    clear: both; }
+  /* line 2152, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz-submission-version-table .submission-pending-review {
+    width: 65%;
+    float: left;
+    margin-left: 24%;
+    margin-bottom: 0;
+    color: #707070;
+    font-size: 90%; }
+
+/* line 2162, app/stylesheets/pages/quizzes/_quizzes.scss */
+#speed_update_scores_container {
+  background: #e8e8e8;
+  border-top: 1px solid #ccc;
+  width: 100%;
+  padding: 20px 0 20px 20px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px; }
+  /* line 2170, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #speed_update_scores_container .update_scores_fudge {
+    padding-right: 200px; }
+  /* line 2173, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #speed_update_scores_container .button-container {
+    position: fixed;
+    bottom: 30px;
+    right: 10px; }
+
+/* line 2180, app/stylesheets/pages/quizzes/_quizzes.scss */
+#update_scores {
+  position: relative; }
+  /* line 2182, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_scores .update_scores_fudge {
+    padding-right: 200px; }
+  /* line 2185, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #update_scores .button-container {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    padding-bottom: 0px; }
+
+/* line 2193, app/stylesheets/pages/quizzes/_quizzes.scss */
+#ldb_deauthorized_dialog {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #4b555d;
+  background: url("/dist/images/Money_Noise_tm-756d579950.png"), radial-gradient(50% -100px, circle cover, rgba(255, 255, 255, 0.6) 0%, transparent 100%), linear-gradient(to bottom, #59656e, #3e464c);
+  padding: 0;
+  margin: 0;
+  color: #b3b3b3;
+  border: none; }
+  /* line 2205, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog label {
+    display: none; }
+  /* line 2208, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog div {
+    margin: 0 20px; }
+  /* line 2211, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog #unauthorized_message {
+    margin: 0;
+    width: auto;
+    padding-left: 80px; }
+    /* line 2215, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #ldb_deauthorized_dialog #unauthorized_message h2 {
+      font-size: 1.5em;
+      margin: 0 0 -10px 0;
+      height: 41px; }
+    /* line 2220, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #ldb_deauthorized_dialog #unauthorized_message p {
+      font-weight: normal;
+      margin: 10px 0;
+      padding: 0; }
+  /* line 2226, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog h1 {
+    height: 107px;
+    margin: 0 0 50px;
+    background-color: transparent;
+    background-image: url("/images/canvas.png");
+    background-repeat: no-repeat;
+    background-position: 20px 66px;
+    text-indent: -999em; }
+    @media (min--moz-device-pixel-ratio: 1.5), (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+      /* line 2226, app/stylesheets/pages/quizzes/_quizzes.scss */
+      #ldb_deauthorized_dialog h1 {
+        background-image: url("/images/canvas@2x.png");
+        background-size: 136px 33px; } }
+  /* line 2232, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog input[type="text"], #ldb_deauthorized_dialog input[type="password"] {
+    background: #f6f6f6 none;
+    border: 6px solid rgba(255, 255, 255, 0.25);
+    border-radius: 7px;
+    padding: 12px 9px 12px 17px;
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.4);
+    background-clip: padding-box;
+    width: 40%;
+    max-width: 45%;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    color: #303030;
+    outline: none;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    box-sizing: content-box;
+    -moz-box-sizing: content-box; }
+  /* line 2251, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog .dialog-actions {
+    position: relative; }
+    /* line 2253, app/stylesheets/pages/quizzes/_quizzes.scss */
+    #ldb_deauthorized_dialog .dialog-actions .btn-primary {
+      position: absolute;
+      right: 0;
+      top: 0;
+      padding: 10px 36px;
+      font-size: 15px;
+      font-size: 0.9375rem; }
+  /* line 2261, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #ldb_deauthorized_dialog span.field + span.field {
+    margin-left: 0; }
+
+/* line 2269, app/stylesheets/pages/quizzes/_quizzes.scss */
+.hover .move .move_icon {
+  display: inline;
+  cursor: move; }
+
+/* line 2273, app/stylesheets/pages/quizzes/_quizzes.scss */
+.hover .links a {
+  left: 0; }
+
+/* line 2280, app/stylesheets/pages/quizzes/_quizzes.scss */
+li.quiz.quiz-loading-overrides .date-available {
+  visibility: hidden; }
+
+/* line 2284, app/stylesheets/pages/quizzes/_quizzes.scss */
+li.quiz.quiz-loading-overrides .date-due {
+  min-height: inherit;
+  height: 20px;
+  overflow: hidden; }
+
+/* line 2290, app/stylesheets/pages/quizzes/_quizzes.scss */
+li.quiz.quiz-loading-overrides .date-due:before {
+  content: " ";
+  display: block;
+  background-image: url("/dist/images/ajax-loader-black-on-white-3b4fe5b450.gif");
+  background-color: white;
+  background-position: "left" 90% top 50%;
+  background-repeat: no-repeat;
+  opacity: 0.35;
+  width: 100%; }
+
+/* line 2302, app/stylesheets/pages/quizzes/_quizzes.scss */
+.rce_links {
+  float: right;
+  font-size: 0.8em;
+  cursor: pointer; }
+  /* line 2307, app/stylesheets/pages/quizzes/_quizzes.scss */
+  .rce_links .icon-info {
+    margin-left: 2px; }
+
+/* line 2312, app/stylesheets/pages/quizzes/_quizzes.scss */
+.options-spacer {
+  width: 52px; }
+
+/* support for master class locked input fields */
+/* line 2318, app/stylesheets/pages/quizzes/_quizzes.scss */
+#quiz_edit_wrapper input[readonly] {
+  background-color: transparent;
+  border-color: transparent;
+  box-shadow: none;
+  font-weight: bold;
+  cursor: default;
+  padding-left: 0; }
+  /* line 2325, app/stylesheets/pages/quizzes/_quizzes.scss */
+  #quiz_edit_wrapper input[readonly]:focus {
+    outline-style: none; }
+
+/* line 2331, app/stylesheets/pages/quizzes/_quizzes.scss */
+.new-quiz-form {
+  display: inline; }
+
+/*
+ * Copyright (C) 2013 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+@media (max-width: 767px) {
+  /* line 20, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers.with-right-side {
+    min-width: 0 !important; }
+  /* line 26, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers body {
+    padding: 0; }
+  /* line 30, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers .ic-Layout-wrapper {
+    min-width: 0 !important; }
+  /* line 34, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers .ic-Layout-wrapper,
+  .assessing.no-headers .ic-Layout-columns {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /*max-width: 100%;*/
+    min-width: 320px !important;
+    width: auto; }
+  /* line 46, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers #question_list {
+    padding-left: 10px; }
+  /* line 50, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers .question .flag_question {
+    left: 8px;
+    top: -3px; }
+  /* line 55, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers .question .question_name {
+    padding-left: 15px; }
+  /* line 59, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers .question {
+    margin: 20px 0 !important;
+    min-width: 99% !important; }
+  /* line 64, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers #not_right_side {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    top: 45px;
+    bottom: 0;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch; }
+  /* line 75, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers #right-side > div > * {
+    display: none; }
+  /* line 79, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers #right-side-wrapper {
+    border-right: none;
+    width: 100%;
+    height: 45px; }
+  /* line 85, app/stylesheets/pages/quizzes/_quizzes-mobile.scss */
+  .assessing.no-headers #right-side > div > #quiz-time-elapsed {
+    display: block;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: #fff;
+    border: 1px solid #ccc; } }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 24, app/stylesheets/pages/shared/_message_students.scss */
+#message_students_dialog .button-container {
+  text-align: right; }
+
+/* line 27, app/stylesheets/pages/shared/_message_students.scss */
+#message_students_dialog .student_list {
+  max-height: 100px;
+  overflow: auto;
+  font-size: 0.8em;
+  padding: 5px 0;
+  margin: 0;
+  list-style-type: none; }
+  /* line 34, app/stylesheets/pages/shared/_message_students.scss */
+  #message_students_dialog .student_list li {
+    float: left;
+    padding: 2px 4px;
+    margin: 1px 2px;
+    background-color: #cdf;
+    border: 1px solid #aaa; }
+    /* line 40, app/stylesheets/pages/shared/_message_students.scss */
+    #message_students_dialog .student_list li .score {
+      display: none;
+      padding-left: 5px;
+      font-size: 0.9em;
+      color: #444; }
+    /* line 46, app/stylesheets/pages/shared/_message_students.scss */
+    #message_students_dialog .student_list li:hover .remove-button {
+      color: #444; }
+    /* line 49, app/stylesheets/pages/shared/_message_students.scss */
+    #message_students_dialog .student_list li .remove-button {
+      padding: 0px;
+      color: #9ac; }
+      /* line 52, app/stylesheets/pages/shared/_message_students.scss */
+      #message_students_dialog .student_list li .remove-button:focus {
+        color: #444; }
+  /* line 59, app/stylesheets/pages/shared/_message_students.scss */
+  #message_students_dialog .student_list.show_score li .score {
+    display: inline; }
+
+/*
+ * Copyright (C) 2011 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/* Selectmenu
+----------------------------------*/
+/* line 22, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu {
+  display: block;
+  display: inline-block;
+  position: relative;
+  height: 2.2em;
+  vertical-align: middle;
+  text-decoration: none;
+  overflow: hidden;
+  zoom: 1; }
+
+/* line 23, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-icon {
+  position: absolute;
+  right: 6px;
+  margin-top: -8px;
+  top: 50%; }
+
+/* line 24, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 0;
+  display: none;
+  z-index: 1005; }
+
+/* z-index: 1005 to make selectmenu work with dialog */
+/* line 25, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden; }
+
+/* line 26, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-open {
+  display: block; }
+
+/* line 27, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu-popup {
+  margin-top: -1px; }
+
+/* line 28, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li {
+  padding: 0;
+  margin: 0;
+  display: block;
+  border-top: 1px dotted transparent;
+  border-bottom: 1px dotted transparent;
+  border-right-width: 0 !important;
+  border-left-width: 0 !important;
+  font-weight: normal !important; }
+
+/* line 29, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li a, .ui-selectmenu-status {
+  line-height: 1.4em;
+  display: block;
+  padding: 0.405em 2.1em 0.405em 1em;
+  outline: none;
+  text-decoration: none; }
+
+/* line 30, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li.ui-state-disabled a, .ui-state-disabled {
+  cursor: default; }
+
+/* line 31, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li.ui-selectmenu-hasIcon a,
+.ui-selectmenu-hasIcon .ui-selectmenu-status {
+  padding-left: 20px;
+  position: relative;
+  margin-left: 5px; }
+
+/* line 33, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li .ui-icon, .ui-selectmenu-status .ui-icon {
+  position: absolute;
+  top: 1em;
+  margin-top: -8px;
+  left: 0; }
+
+/* line 34, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-status {
+  line-height: 1.4em; }
+
+/* line 35, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li span, .ui-selectmenu-status span {
+  display: block;
+  margin-bottom: .2em; }
+
+/* line 36, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li .ui-selectmenu-item-header {
+  font-weight: bold; }
+
+/* line 37, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu li .ui-selectmenu-item-footer {
+  opacity: .8; }
+
+/* for optgroups */
+/* line 39, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu .ui-selectmenu-group {
+  font-size: 1em; }
+
+/* line 40, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu .ui-selectmenu-group .ui-selectmenu-group-label {
+  line-height: 1.4em;
+  display: block;
+  padding: .6em .5em 0;
+  font-weight: bold; }
+
+/* line 41, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu .ui-selectmenu-group ul {
+  margin: 0;
+  padding: 0; }
+
+/* IE7 workaround (opacity disabled) */
+/* line 43, app/stylesheets/components/_ui.selectmenu.scss */
+* + html .ui-state-disabled, * + html .ui-state-disabled a {
+  color: silver; }
+
+/* line 46, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu a {
+  color: var(--ic-link-color);
+  text-shadow: none; }
+
+/* line 52, app/stylesheets/components/_ui.selectmenu.scss */
+.ui-selectmenu-menu .ui-state-focus, .ui-selectmenu-menu .ui-state-hover {
+  background: #f2f2f2;
+  border-color: transparent; }
+
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/components/_conditional_release.scss */
+#canvas-conditional-release-editor {
+  height: 675px;
+  padding-top: 12px;
+  display: flex;
+  overflow-x: scroll; }
+
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/components/_conditional_release_stats.scss */
+#crs-graphs {
+  margin-top: 50px; }
+  /* line 22, app/stylesheets/components/_conditional_release_stats.scss */
+  #crs-graphs:first-child {
+    margin: 0px; }
+
+/* line 27, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-graph {
+  display: flex;
+  flex-direction: column; }
+  /* line 32, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-breakdown-graph .crs-breakdown-graph__loading p {
+    float: left;
+    padding-top: 8px;
+    padding-left: 10px; }
+  /* line 38, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-breakdown-graph .crs-breakdown-graph__loading > div {
+    float: left; }
+
+/* line 44, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details {
+  width: 365px; }
+
+/* line 48, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__closeButton {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 11;
+  color: #556572; }
+
+/* line 56, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__closeButtonIcon {
+  font-size: 1rem;
+  font-weight: lighter; }
+
+/* line 61, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__header {
+  margin-top: 10px;
+  font-weight: lighter;
+  border-bottom: 1px solid #C7CDD1;
+  padding: 2px;
+  text-align: center;
+  display: flex; }
+
+/* line 70, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown-details__header-text {
+  margin-left: 20px;
+  margin-right: 10px; }
+
+/* line 75, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__horizontal-outside {
+  position: relative;
+  height: 14px;
+  border-radius: 25px;
+  padding: 5px 0; }
+
+/* line 82, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__horizontal-inside-fill {
+  position: absolute;
+  height: 50%;
+  border-radius: 20px;
+  background-color: #394B58;
+  overflow: hidden;
+  border: 1px solid #394B58; }
+
+/* line 91, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__horizontal-inside {
+  position: absolute;
+  height: 50%;
+  width: 100%;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  border: 1px solid #394B58; }
+
+/* line 101, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__bottom {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #2D3B45;
+  margin-left: 4px;
+  margin-bottom: 15px; }
+
+/* line 112, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-bar__info {
+  height: 50%; }
+
+/* line 116, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-link-button {
+  background: transparent;
+  border: none;
+  color: var(--ic-link-color); }
+  /* line 121, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-link-button:focus, .crs-link-button:hover {
+    text-decoration: underline;
+    color: var(--ic-link-color-darkened-10); }
+
+/* line 128, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-ranges-view {
+  transition: all .5s; }
+  /* line 131, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view.crs-ranges-view__hidden {
+    opacity: 0;
+    visibility: hidden; }
+  /* line 136, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view .crs-ranges-view__header {
+    font-weight: lighter;
+    padding: 15px 10px;
+    color: #556572;
+    text-indent: 10px; }
+  /* line 143, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-Tab__accordion"] {
+    border-radius: 0;
+    font-weight: bold;
+    margin: 0 0 1px;
+    text-indent: 10px;
+    border: none;
+    box-shadow: 0 0 0 1px #C7CDD1 !important; }
+  /* line 152, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-TabPanel__accordion"] {
+    margin-bottom: 1px; }
+  /* line 156, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-TabPanel__accordion"][aria-hidden="true"] {
+    margin-bottom: 0; }
+  /* line 160, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-ranges-view [class*="-TabPanel__content"] {
+    background: transparent;
+    border: none;
+    padding: 5px 0; }
+
+/* line 167, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-range__item {
+  margin: 15px; }
+
+/* line 171, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student__avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin-right: 10px; }
+
+/* line 178, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student__trend-icon {
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  float: right; }
+  /* line 185, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student__trend-icon.crs-student__trend-icon__positive {
+    color: #127A1B; }
+    /* line 188, app/stylesheets/components/_conditional_release_stats.scss */
+    .crs-student__trend-icon.crs-student__trend-icon__positive:before {
+      content: '▲'; }
+  /* line 193, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student__trend-icon.crs-student__trend-icon__neutral {
+    color: #556572;
+    font-family: monospace;
+    font-size: 40px;
+    line-height: 25px;
+    text-indent: -3px; }
+    /* line 200, app/stylesheets/components/_conditional_release_stats.scss */
+    .crs-student__trend-icon.crs-student__trend-icon__neutral:before {
+      content: '-'; }
+  /* line 205, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student__trend-icon.crs-student__trend-icon__negative {
+    color: #C23C0D; }
+    /* line 208, app/stylesheets/components/_conditional_release_stats.scss */
+    .crs-student__trend-icon.crs-student__trend-icon__negative:before {
+      content: '▼'; }
+
+/* line 214, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details {
+  width: 20em;
+  height: 100%;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  transition: all .5s;
+  background: #FFFFFF; }
+  /* line 223, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-student-details.crs-student-details__hidden {
+    right: -365px;
+    opacity: 0;
+    visibility: hidden; }
+
+/* line 230, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__header {
+  margin-top: 10px;
+  padding: 15px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #C7CDD1; }
+
+/* line 239, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__name {
+  margin: 5px 0px 0px; }
+
+/* line 243, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student__range-item {
+  margin: 15px 5px; }
+
+/* line 247, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__profile-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 1px solid #C7CDD1;
+  background-color: #FFFFFF;
+  padding: 17px 10px; }
+
+/* line 257, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__profile-image {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%; }
+
+/* line 263, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__profile-inner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FFFFFF; }
+
+/* line 270, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 1px solid #C7CDD1;
+  padding: 10px; }
+
+/* line 278, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-date {
+  opacity: .6; }
+
+/* line 282, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-number {
+  margin: 2px 0px;
+  font-weight: bolder;
+  font-size: 25px; }
+
+/* line 288, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__score-title {
+  font-weight: normal; }
+
+/* line 292, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-breakdown__link {
+  text-decoration: none;
+  font-weight: normal;
+  color: var(--ic-link-color); }
+  /* line 297, app/stylesheets/components/_conditional_release_stats.scss */
+  .crs-breakdown__link:focus, .crs-breakdown__link:hover {
+    color: var(--ic-link-color-darkened-10);
+    text-decoration: underline; }
+
+/* line 304, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-back-button {
+  background: #FFFFFF;
+  border: none; }
+
+/* line 309, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-student-details__assignment-icon {
+  background: #394B58;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 32px;
+  border-radius: 50%;
+  color: #FFFFFF;
+  float: left;
+  margin-left: 5px; }
+  /* line 320, app/stylesheets/components/_conditional_release_stats.scss */
+  i.crs-student-details__assignment-icon:before {
+    font-size: 14px; }
+
+/* line 325, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-icon-assignment {
+  background: #B8309E; }
+
+/* line 329, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-icon-quiz {
+  background: #D01A19; }
+
+/* line 333, app/stylesheets/components/_conditional_release_stats.scss */
+i.crs-icon-discussion {
+  background: #C23C0D; }
+
+/* line 337, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__assignment-name {
+  flex: 0.9; }
+
+/* line 341, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__assignment {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #C7CDD1; }
+
+/* line 349, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__assignment-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10px;
+  font-weight: bold; }
+
+/* line 357, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-student-details__loading {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  justify-content: center; }
+
+/* line 364, app/stylesheets/components/_conditional_release_stats.scss */
+.crs-icon-email {
+  padding-right: 5px; }
+
+/*
+ * Copyright (C) 2018 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+@keyframes morph {
+  0% {
+    stroke-dashoffset: 190%; }
+  50% {
+    stroke-dashoffset: 50%;
+    transform: rotate(90deg); }
+  100% {
+    stroke-dashoffset: 190%;
+    transform: rotate(360deg); } }
+
+/* line 39, app/stylesheets/components/_spinner.scss */
+.spinner {
+  stroke-width: 0.375em;
+  width: 3em;
+  height: 3em; }
+  /* line 44, app/stylesheets/components/_spinner.scss */
+  .spinner .shadow {
+    fill: none;
+    stroke: none;
+    stroke-width: 0.65em; }
+  /* line 50, app/stylesheets/components/_spinner.scss */
+  .spinner .track {
+    fill: none;
+    stroke: #F5F5F5;
+    stroke-width: 0.375em; }
+  /* line 56, app/stylesheets/components/_spinner.scss */
+  .spinner .spin {
+    animation-name: morph;
+    animation-duration: 1.75s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+    fill: none;
+    stroke: #008EE2;
+    stroke-width: 0.375em;
+    stroke-dasharray: 6em;
+    stroke-linecap: round;
+    transform-origin: 1.5em 1.5em; }

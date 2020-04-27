@@ -62,7 +62,7 @@ module.exports = {
     // tracking them too. Then, as we work to get all chunks smaller, we should change
     // this number to the size of our biggest known asset and hopefully someday get
     // to where they are all under the default value of 250000 and then remove this
-    maxAssetSize: 1200000,
+    hints: false,
     assetFilter: assetFilename => {
       const thingsWeKnowAreWayTooBig = [
         'canvas-rce-async-chunk',
@@ -92,26 +92,26 @@ module.exports = {
         sourceMap: !skipSourcemaps,
         terserOptions: {
           compress: {
-            sequences: false, // prevents it from combining a bunch of statements with ","s so it is easier to set breakpoints
+            sequences: true, // prevents it from combining a bunch of statements with ","s so it is easier to set breakpoints
 
             // these are all things that terser does by default but we turn
             // them off because they don't reduce file size enough to justify the
             // time they take, especially after gzip:
             // see: https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1
-            booleans: false,
-            collapse_vars: false,
-            comparisons: false,
-            computed_props: false,
-            hoist_props: false,
-            if_return: false,
-            join_vars: false,
+            booleans: true,
+            collapse_vars: true,
+            comparisons: true,
+            computed_props: true,
+            hoist_props: true,
+            if_return: true,
+            join_vars: true,
             keep_infinity: true,
-            loops: false,
-            negate_iife: false,
-            properties: false,
-            reduce_funcs: false,
-            reduce_vars: false,
-            typeofs: false
+            loops: true,
+            negate_iife: true,
+            properties: true,
+            reduce_funcs: true,
+            reduce_vars: true,
+            typeofs: true
           },
           output: {
             comments: false,

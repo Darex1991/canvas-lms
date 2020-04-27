@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Asia/Qatar"]={zones:{"Asia/Qatar":["z",{wallclock:762048e5,format:"+03",abbrev:"+03",offset:108e5,posix:761904e5,save:0},{wallclock:-15779232e5,format:"+04",abbrev:"+04",offset:144e5,posix:-1577935568e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:12368e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Asia/Qatar-60f9aa09d1.js.map

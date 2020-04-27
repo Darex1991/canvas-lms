@@ -1,0 +1,577 @@
+/*
+ * Copyright (C) 2016 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2013 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/pages/react_files/_DialogPreview.scss */
+.DialogPreview__thumbnail {
+  width: 160px !important;
+  height: 160px !important;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  position: relative; }
+
+/* line 28, app/stylesheets/pages/react_files/_DialogPreview.scss */
+.DialogPreview__container {
+  height: 0;
+  /* Super weird way to keep the column from being massively tall. */ }
+
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/pages/react_files/_RestrictedRadioButtons.scss */
+.RestrictedRadioButtons__publish_icon {
+  color: #00AC18;
+  padding: 0px 10px 0px 5px; }
+
+/* line 24, app/stylesheets/pages/react_files/_RestrictedRadioButtons.scss */
+.RestrictedRadioButtons__icon {
+  color: var(--ic-brand-font-color-dark);
+  padding: 0px 10px 0px 5px; }
+
+/* line 25, app/stylesheets/bundles/context_modules2.scss */
+.permissions-dialog-form .radio {
+  margin-top: 15px; }
+
+/* line 30, app/stylesheets/bundles/context_modules2.scss */
+.no-wrap {
+  white-space: nowrap; }
+
+/* line 34, app/stylesheets/bundles/context_modules2.scss */
+.RestrictedDialogForm__form .form-controls .btn:first-of-type {
+  margin-right: 10px; }
+
+/* line 38, app/stylesheets/bundles/context_modules2.scss */
+.context_modules2 {
+  /*
+  .editable .item-group-condensed {
+    .ig-title {
+      right: 600px;
+      left: 30px;
+      &.indent-1 {
+        left: 42px;
+      }
+      &.indent-2 {
+        left: 54px;
+      }
+      &.indent-3 {
+        left: 66px;
+      }
+      &.indent-4 {
+        left: 78px;
+      }
+    }
+    .ig-details {
+      right: 140px;
+      width: 400px;
+    }
+    .ig-publish-btn {
+      position: absolute;
+      right: 76px;
+    }
+    .add-item-button {
+      padding-left: 7px;
+      padding-right: 7px;
+    }
+  }
+  */ }
+  /* line 41, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .publish-button.published {
+    color: #007711;
+    /* green */ }
+  /* line 45, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .publish-button.unpublished {
+    color: #999999;
+    /* light grey */ }
+  /* line 49, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .publish-button.published.hover {
+    color: #db4f4a;
+    /* red */ }
+  /* line 53, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .publish-button.transitioning {
+    color: #999999; }
+  /* line 57, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .publish-button.disabled {
+    color: #999999; }
+  /* line 61, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .publish-button.disabled span,
+  .context_modules2 .publish-button .icon-unpublished {
+    color: #999999; }
+  /* line 67, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .module-item-title {
+    color: black; }
+  /* line 71, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .invisible {
+    visibility: hidden; }
+  /* line 75, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 tr.hidden {
+    display: none; }
+  /* line 79, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .small-text {
+    font-size: .9em; }
+  /* line 83, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 tr.visible {
+    display: table-row; }
+  /* line 87, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 a,
+  .context_modules2 .ig-publish-btn,
+  .context_modules2 .module-published-button {
+    cursor: pointer; }
+  /* line 93, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 #breadcrumbs {
+    border-bottom-color: #b6babf; }
+  /* line 96, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .modules-toolbar {
+    padding: 16px;
+    border-bottom: 1px solid #b6babf; }
+    /* line 99, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 .modules-toolbar input[type="search"] {
+      width: 300px;
+      margin-bottom: 0; }
+  /* line 104, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .ic-Layout-contentMain {
+    padding: 0; }
+  /* line 107, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .btn {
+    padding-left: 8px;
+    padding-right: 8px; }
+  /* line 111, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .module-published-button {
+    color: #33802a;
+    font-size: 14px;
+    font-size: 0.875rem;
+    display: inline-block;
+    padding-bottom: 3px;
+    line-height: 22px;
+    vertical-align: middle; }
+  /* line 120, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 a.al-trigger {
+    color: #b4b8bb; }
+    /* line 123, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 a.al-trigger:hover {
+      color: #0088cc; }
+  /* line 129, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .module h3 {
+    font-size: 1.18em;
+    font-weight: bold;
+    line-height: 1em;
+    margin: 0; }
+  /* line 137, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 table {
+    table-layout: fixed;
+    margin-bottom: 0; }
+    /* line 141, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table thead {
+      background-color: inherit; }
+    /* line 145, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table .drag-handler {
+      cursor: move; }
+    /* line 149, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table tbody {
+      background-color: white;
+      border: 1px solid #c2c9d1; }
+      /* line 152, app/stylesheets/bundles/context_modules2.scss */
+      .context_modules2 table tbody tr:hover {
+        background-color: #F6F8F9; }
+    /* line 157, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table td:first-of-type, .context_modules2 table th:first-of-type {
+      text-align: left; }
+    /* line 161, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table td:last-of-type, .context_modules2 table th:last-of-type {
+      text-align: right; }
+    /* line 165, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table td {
+      width: 11%; }
+    /* line 169, app/stylesheets/bundles/context_modules2.scss */
+    .context_modules2 table td, .context_modules2 table th {
+      text-align: inherit; }
+      /* line 172, app/stylesheets/bundles/context_modules2.scss */
+      .context_modules2 table td.align-right, .context_modules2 table th.align-right {
+        text-align: right; }
+      /* line 175, app/stylesheets/bundles/context_modules2.scss */
+      .context_modules2 table td.long, .context_modules2 table th.long {
+        width: auto; }
+      /* line 178, app/stylesheets/bundles/context_modules2.scss */
+      .context_modules2 table td.inherit-width, .context_modules2 table th.inherit-width {
+        width: auto; }
+      /* line 182, app/stylesheets/bundles/context_modules2.scss */
+      .context_modules2 table td.compact, .context_modules2 table th.compact {
+        width: 1%; }
+      /* line 186, app/stylesheets/bundles/context_modules2.scss */
+      .context_modules2 table td.no-right-padding, .context_modules2 table th.no-right-padding {
+        padding-right: 0; }
+  /* line 192, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .prereqs {
+    font-size: 14px;
+    font-size: 0.875rem;
+    padding: 4px 12px;
+    line-height: 22px;
+    display: inline-block;
+    vertical-align: middle; }
+  /* line 199, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .editable-show {
+    display: none; }
+  /* line 202, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .editable .editable-show {
+    display: inherit; }
+  /* line 205, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .item-group-condensed .ig-title {
+    left: 20px; }
+  /* line 209, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .indent-1 {
+    margin-left: 18px; }
+  /* line 212, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .indent-2 {
+    margin-left: 36px; }
+  /* line 215, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .indent-3 {
+    margin-left: 54px; }
+  /* line 218, app/stylesheets/bundles/context_modules2.scss */
+  .context_modules2 .indent-4 {
+    margin-left: 72px; }
+
+/* line 256, app/stylesheets/bundles/context_modules2.scss */
+tbody.sortable tr {
+  display: table-row;
+  width: 100%; }
+
+/* line 261, app/stylesheets/bundles/context_modules2.scss */
+tr.ui-sortable-helper {
+  background-color: white; }
+
+/* line 265, app/stylesheets/bundles/context_modules2.scss */
+tbody.sortable.empty2 {
+  min-height: 30px;
+  display: block;
+  width: 100%; }
+
+/* line 271, app/stylesheets/bundles/context_modules2.scss */
+.drag_and_drop_warning {
+  padding: 4px 8px;
+  background: var(--ic-link-color);
+  background-clip: border-box;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 4px;
+  border: 1px dashed rgba(255, 255, 255, 0.8); }
+  /* line 48, app/stylesheets/base/_ic_mixins.scss */
+  .drag_and_drop_warning:focus {
+    color: #fff; }
+  /* line 273, app/stylesheets/bundles/context_modules2.scss */
+  .drag_and_drop_warning:focus {
+    margin-bottom: 8px; }
+
+/* line 279, app/stylesheets/bundles/context_modules2.scss */
+#add_context_module_form .form-controls {
+  z-index: 10; }
+
+/* line 22, app/stylesheets/bundles/choose_mastery_path.scss */
+.cmp-wrapper h2 {
+  margin-bottom: 50px; }
+
+/* line 28, app/stylesheets/bundles/choose_mastery_path.scss */
+.cmp-option.item-group-container {
+  padding-bottom: 0;
+  margin-top: 20px; }
+
+/* line 33, app/stylesheets/bundles/choose_mastery_path.scss */
+.cmp-option.cmp-option__disabled {
+  opacity: .5; }
+
+/* line 37, app/stylesheets/bundles/choose_mastery_path.scss */
+.cmp-option .context_module {
+  margin-bottom: 0; }
+
+/* line 42, app/stylesheets/bundles/choose_mastery_path.scss */
+.cmp-assignment,
+.item-group-container .ig-list li.cpm-assignment {
+  margin-bottom: -1px; }
+  /* line 46, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .ig-header,
+  .item-group-container .ig-list li.cpm-assignment .ig-header {
+    display: flex;
+    align-items: center; }
+  /* line 51, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .ig-row,
+  .item-group-container .ig-list li.cpm-assignment .ig-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; }
+  /* line 57, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .item_name,
+  .item-group-container .ig-list li.cpm-assignment .item_name {
+    color: var(--ic-brand-font-color-dark);
+    font-weight: bold; }
+  /* line 63, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .ig-details__item strong,
+  .item-group-container .ig-list li.cpm-assignment .ig-details__item strong {
+    margin-right: 5px; }
+  /* line 68, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .ig-details__item span:last-child:after,
+  .item-group-container .ig-list li.cpm-assignment .ig-details__item span:last-child:after {
+    content: "\00a0\00a0|\00a0\00a0"; }
+  /* line 75, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .ig-details__item:last-of-type span:last-child:after,
+  .item-group-container .ig-list li.cpm-assignment .ig-details__item:last-of-type span:last-child:after {
+    content: ''; }
+  /* line 82, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-assignment .type_icon,
+  .item-group-container .ig-list li.cpm-assignment .type_icon {
+    margin-left: 5px; }
+    /* line 85, app/stylesheets/bundles/choose_mastery_path.scss */
+    .cmp-assignment .type_icon i,
+    .item-group-container .ig-list li.cpm-assignment .type_icon i {
+      color: #FFFFFF; }
+
+/* line 91, app/stylesheets/bundles/choose_mastery_path.scss */
+.cmp-button {
+  float: right;
+  margin-top: -10px; }
+  /* line 95, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-button.cmp-button__selected, .cmp-button.cmp-button__disabled {
+    border: none;
+    margin-top: 0;
+    padding: 0 15px;
+    cursor: default; }
+  /* line 103, app/stylesheets/bundles/choose_mastery_path.scss */
+  .cmp-button.cmp-button__disabled {
+    background: #394B58; }
