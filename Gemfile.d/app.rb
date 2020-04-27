@@ -25,6 +25,8 @@ else
   gem 'rails', '6.0.2.1'
 end
 
+gem 'rails_12factor', group: :production
+
 gem 'academic_benchmarks', '0.0.11', require: false
 gem 'active_model-better_errors', '1.6.7', require: 'active_model/better_errors'
 gem 'active_model_serializers', '0.9.0alpha1',
