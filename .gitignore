@@ -30,10 +30,11 @@ docker-compose.override.yml
 mkmf.log
 /node_modules
 npm-debug.log
+/public/dist/webpack-dev
 /tmp/
 /vendor/bundle
 yarn-error.log
-/public/dist/webpack-dev
+
 # generated plugin stuff
 /app/coffeescripts/plugins/
 /app/stylesheets/plugins/
@@ -52,9 +53,9 @@ yarn-error.log
 docker-compose.local.*
 
 # sub-packages
+/packages/*/node_modules
 /packages/*/es
 /packages/*/lib
-/packages/*/node_modules
 /packages/*/coverage/
 /packages/canvas-planner/.babel-cache
 
