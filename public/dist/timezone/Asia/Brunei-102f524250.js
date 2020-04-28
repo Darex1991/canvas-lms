@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Asia/Brunei"]={zones:{"Asia/Brunei":["z",{wallclock:-11676096e5,format:"+08",abbrev:"+08",offset:288e5,posix:-11676366e5,save:0},{wallclock:-13834368e5,format:"+0730",abbrev:"+0730",offset:27e6,posix:-138346438e4,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:2758e4,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Asia/Brunei-102f524250.js.map

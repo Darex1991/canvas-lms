@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Gambier"]={zones:{"Pacific/Gambier":["z",{wallclock:-18067104e5,format:"-09",abbrev:"-09",offset:-324e5,posix:-1806678012e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-32388e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Gambier-cf734e4acd.js.map

@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Asia/Phnom_Penh"]={zones:{"Asia/Phnom_Penh":["z",{wallclock:-15700608e5,format:"+07",abbrev:"+07",offset:252e5,posix:-1570084924e3,save:0},{wallclock:-28401408e5,format:"BMT",abbrev:"BMT",offset:24124e3,posix:-2840164924e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:24124e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Asia/Phnom_Penh-2489d59d16.js.map

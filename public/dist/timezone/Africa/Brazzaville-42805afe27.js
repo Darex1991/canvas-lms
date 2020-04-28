@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Africa/Brazzaville"]={zones:{"Africa/Brazzaville":["z",{wallclock:-1588464e6,format:"WAT",abbrev:"WAT",offset:36e5,posix:-1588464816e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:816e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Africa/Brazzaville-42805afe27.js.map

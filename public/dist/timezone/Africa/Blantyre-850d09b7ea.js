@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Africa/Blantyre"]={zones:{"Africa/Blantyre":["z",{wallclock:-21092832e5,format:"CAT",abbrev:"CAT",offset:72e5,posix:-210929102e4,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:782e4,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Africa/Blantyre-850d09b7ea.js.map

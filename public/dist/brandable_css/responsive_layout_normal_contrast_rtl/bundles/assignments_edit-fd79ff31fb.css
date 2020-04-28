@@ -1,0 +1,528 @@
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* header */
+/* line 23, app/stylesheets/bundles/assignments_edit.scss */
+.header-bar-right {
+  margin-bottom: 12px; }
+
+/* line 27, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_header-cr {
+  padding: 0;
+  border: none; }
+
+/* line 32, app/stylesheets/bundles/assignments_edit.scss */
+#edit-assignment-header-cr-tab-nav {
+  display: flex;
+  align-items: flex-end; }
+
+/* line 37, app/stylesheets/bundles/assignments_edit.scss */
+#edit-assignment-header-cr-spacer {
+  flex: 1; }
+
+/* line 41, app/stylesheets/bundles/assignments_edit.scss */
+#assignment-draft-state-cr {
+  padding: 0 0 12px 12px; }
+
+/* line 45, app/stylesheets/bundles/assignments_edit.scss */
+#assignment-gear-button-cr {
+  padding-bottom: 6px; }
+
+/* line 49, app/stylesheets/bundles/assignments_edit.scss */
+#assignment_description {
+  width: 100%;
+  min-height: 300px; }
+
+/* for labels */
+/* line 55, app/stylesheets/bundles/assignments_edit.scss */
+div.form-column-left {
+  width: 145px;
+  text-align: left;
+  margin-top: 20px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px 10px;
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: 20px; }
+  /* line 65, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-left.no-group {
+    /* for labels that correspond to an un-grouped form el */
+    margin-top: 0px; }
+  /* line 70, app/stylesheets/bundles/assignments_edit.scss */
+  body.responsive_2020_04 div.form-column-left {
+    text-align: right;
+    padding: 5px 0px; }
+    /* line 73, app/stylesheets/bundles/assignments_edit.scss */
+    body.responsive_2020_04 div.form-column-left label {
+      margin-bottom: 0px; }
+    @media only screen and (min-width: 500px) {
+      /* line 70, app/stylesheets/bundles/assignments_edit.scss */
+      body.responsive_2020_04 div.form-column-left {
+        text-align: left;
+        padding: 5px 10px; }
+        /* line 77, app/stylesheets/bundles/assignments_edit.scss */
+        body.responsive_2020_04 div.form-column-left label {
+          margin-bottom: 5px; } }
+
+/* line 81, app/stylesheets/bundles/assignments_edit.scss */
+#discussion_point_change_warning {
+  margin-top: 15px;
+  margin-bottom: 0px;
+  margin-right: 180px;
+  display: inline-block;
+  display: none; }
+
+/* for grouped and un-grouped form els */
+/* line 89, app/stylesheets/bundles/assignments_edit.scss */
+div.form-column-right, div.overrides-column-right {
+  display: inline-block;
+  /* for groups of form els ONLY */
+  /* if form field is first item in box */
+  /* nested form els within a group */ }
+  /* line 92, app/stylesheets/bundles/assignments_edit.scss */
+  body:not(.responsive_2020_04) div.form-column-right, body:not(.responsive_2020_04) div.overrides-column-right {
+    width: 380px; }
+  /* line 96, app/stylesheets/bundles/assignments_edit.scss */
+  body.responsive_2020_04 div.form-column-right, body.responsive_2020_04 div.overrides-column-right {
+    width: 100%; }
+    @media only screen and (min-width: 500px) {
+      /* line 96, app/stylesheets/bundles/assignments_edit.scss */
+      body.responsive_2020_04 div.form-column-right, body.responsive_2020_04 div.overrides-column-right {
+        width: 380px; } }
+  /* line 104, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .border, div.overrides-column-right .border {
+    /* parent form-column-right div should have a child */
+    /* div that applies border styles and hold content */
+    /* using bootstrap or other canvas borders */
+    border-color: #ccc;
+    padding: 15px 0px;
+    margin-top: 20px; }
+    /* line 111, app/stylesheets/bundles/assignments_edit.scss */
+    div.form-column-right .border select, div.form-column-right .border .subtitle, div.overrides-column-right .border select, div.overrides-column-right .border .subtitle {
+      margin-right: 15px; }
+  /* line 116, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right label:hover, div.overrides-column-right label:hover {
+    background: #E7F4FF; }
+  /* line 121, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right label.flush, div.overrides-column-right label.flush {
+    margin: 0px; }
+  /* line 125, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right label:not(.ic-Label), div.form-column-right label.date_field, div.overrides-column-right label:not(.ic-Label), div.overrides-column-right label.date_field {
+    margin: 0px;
+    padding: 10px 40px 10px 0px; }
+  /* line 130, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .subtitle, div.overrides-column-right .subtitle {
+    margin-top: 20px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    font-size: 0.9375rem;
+    font-weight: bold; }
+  /* line 139, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .nested label.checkbox, div.form-column-right .nested label.radio, div.overrides-column-right .nested label.checkbox, div.overrides-column-right .nested label.radio {
+    padding-right: 60px; }
+  /* line 142, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .nested select, div.form-column-right .nested a, div.form-column-right .nested .explanation, div.overrides-column-right .nested select, div.overrides-column-right .nested a, div.overrides-column-right .nested .explanation {
+    margin-right: 40px; }
+  /* line 145, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .nested input[type=text], div.overrides-column-right .nested input[type=text] {
+    margin-right: 60px; }
+  /* line 148, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .nested button.Button, div.overrides-column-right .nested button.Button {
+    margin: 7px 40px 0px 0px; }
+  /* line 151, app/stylesheets/bundles/assignments_edit.scss */
+  div.form-column-right .nested .nest, div.overrides-column-right .nested .nest {
+    padding-right: 20px; }
+
+/* line 157, app/stylesheets/bundles/assignments_edit.scss */
+#similarity_detection_tools .form-column-right {
+  padding-right: 4px; }
+  /* line 158, app/stylesheets/bundles/assignments_edit.scss */
+  #similarity_detection_tools .form-column-right #report_visibility_picker_label {
+    padding: 0px 17px 10px 0px !important; }
+  /* line 162, app/stylesheets/bundles/assignments_edit.scss */
+  #similarity_detection_tools .form-column-right iframe.tool_launch {
+    margin: 15px 0px 0px;
+    width: 100%; }
+
+/* line 168, app/stylesheets/bundles/assignments_edit.scss */
+.assignment-edit-group-alert, .assignment-edit-external-tool-alert {
+  margin: 15px 20px 0; }
+
+/* line 84, app/stylesheets/base/mixins/_misc.scss */
+#discussion-edit-view input[readonly] {
+  background-color: transparent;
+  border-color: transparent;
+  box-shadow: none;
+  font-weight: bold;
+  cursor: default; }
+  /* line 90, app/stylesheets/base/mixins/_misc.scss */
+  #discussion-edit-view input[readonly]:focus {
+    border-color: transparent;
+    outline-style: none; }
+
+/* support for master class locked input fields */
+/* line 178, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form h1.title, #discussion-edit-view h1.title {
+  clear: both; }
+
+/* line 182, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form .to .ic-Form-control.readonly,
+#edit_assignment_form .from .ic-Form-control.readonly, #discussion-edit-view .to .ic-Form-control.readonly,
+#discussion-edit-view .from .ic-Form-control.readonly {
+  margin-bottom: 0; }
+
+/* line 189, app/stylesheets/bundles/assignments_edit.scss */
+body.responsive_2020_04 #edit_assignment_form .ContainerDueDate .Available-from-to, body.responsive_2020_04 #discussion-edit-view .ContainerDueDate .Available-from-to {
+  flex-direction: column; }
+  /* line 191, app/stylesheets/bundles/assignments_edit.scss */
+  body.responsive_2020_04 #edit_assignment_form .ContainerDueDate .Available-from-to .from, body.responsive_2020_04 #discussion-edit-view .ContainerDueDate .Available-from-to .from {
+    margin-bottom: 18px; }
+  @media only screen and (min-width: 500px) {
+    /* line 189, app/stylesheets/bundles/assignments_edit.scss */
+    body.responsive_2020_04 #edit_assignment_form .ContainerDueDate .Available-from-to, body.responsive_2020_04 #discussion-edit-view .ContainerDueDate .Available-from-to {
+      flex-direction: row; }
+      /* line 196, app/stylesheets/bundles/assignments_edit.scss */
+      body.responsive_2020_04 #edit_assignment_form .ContainerDueDate .Available-from-to .from, body.responsive_2020_04 #discussion-edit-view .ContainerDueDate .Available-from-to .from {
+        margin-bottom: 0; } }
+
+/* line 203, app/stylesheets/bundles/assignments_edit.scss */
+body.responsive_2020_04 #edit_assignment_form .ContainerDueDate .input-append, body.responsive_2020_04 #discussion-edit-view .ContainerDueDate .input-append {
+  display: flex; }
+  @media only screen and (min-width: 500px) {
+    /* line 203, app/stylesheets/bundles/assignments_edit.scss */
+    body.responsive_2020_04 #edit_assignment_form .ContainerDueDate .input-append, body.responsive_2020_04 #discussion-edit-view .ContainerDueDate .input-append {
+      display: inline-block; } }
+
+/* line 212, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form .ContainerDueDate .ic-Form-control.readonly input[type="text"].ic-Input[readonly], #discussion-edit-view .ContainerDueDate .ic-Form-control.readonly input[type="text"].ic-Input[readonly] {
+  height: 1.4em;
+  padding: 0; }
+
+/* line 216, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form .ContainerDueDate .ic-Form-control.readonly label, #discussion-edit-view .ContainerDueDate .ic-Form-control.readonly label {
+  margin-bottom: 0; }
+
+/* line 224, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form .assignment_description {
+  background-color: #FFFFFF; }
+
+/* line 227, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form #assignment_points_possible[readonly] {
+  margin-top: -3px; }
+
+/* line 234, app/stylesheets/bundles/assignments_edit.scss */
+#discussion-edit-view .discussion-description {
+  background-color: #FFFFFF; }
+
+/* line 238, app/stylesheets/bundles/assignments_edit.scss */
+#discussion-edit-view #discussion_topic_assignment_points_possible[readonly] {
+  margin-top: -3px; }
+
+/* line 243, app/stylesheets/bundles/assignments_edit.scss */
+.GradeAnonymously__Checkbox {
+  margin-top: 5px; }
+
+/* line 247, app/stylesheets/bundles/assignments_edit.scss */
+.ModeratedGrading__Container {
+  display: inline-block;
+  margin-right: 4px;
+  margin-top: 20px;
+  width: 380px; }
+  /* line 253, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container input[type="text"] {
+    height: auto;
+    line-height: 1;
+    margin: 0;
+    padding: auto;
+    box-shadow: none;
+    border: none; }
+  /* line 263, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__GraderCountInputContainer label {
+    width: initial !important; }
+  /* line 268, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__Checkbox {
+    margin-right: 20px; }
+  /* line 272, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .Assignment__Checkbox {
+    margin-top: 5px;
+    margin-left: 7px;
+    margin-bottom: 7px; }
+  /* line 278, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__CheckboxDescription {
+    margin-right: 40px;
+    margin-left: 5px;
+    display: block;
+    font-weight: initial; }
+  /* line 285, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__CheckboxLabel {
+    display: block;
+    padding: 25px 0; }
+  /* line 290, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .GraderCommentVisibility__CheckboxLabel, .ModeratedGrading__Container .GraderNamesVisibleToFinalGrader__CheckboxLabel {
+    padding: 0 0 10px; }
+  /* line 294, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__CheckboxLabelText {
+    font-size: 15px; }
+  /* line 298, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__Content {
+    margin-right: 40px; }
+  /* line 302, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__FinalGraderSelectMenu {
+    margin: 10px 0; }
+  /* line 306, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__FinalGraderSelectMenuLabelText {
+    font-size: 15px; }
+  /* line 310, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__GraderCountInputContainer {
+    height: 98px; }
+  /* line 314, app/stylesheets/bundles/assignments_edit.scss */
+  .ModeratedGrading__Container .ModeratedGrading__GraderCountInputLabelText {
+    font-size: 15px;
+    width: initial; }
+
+/* line 320, app/stylesheets/bundles/assignments_edit.scss */
+#allowed-attempts-target {
+  margin: 15px; }
+  /* line 323, app/stylesheets/bundles/assignments_edit.scss */
+  #allowed-attempts-target select {
+    margin: 0; }
+  /* line 327, app/stylesheets/bundles/assignments_edit.scss */
+  #allowed-attempts-target label {
+    padding: 0;
+    margin: 0 0 18px 0; }
+  /* line 333, app/stylesheets/bundles/assignments_edit.scss */
+  #allowed-attempts-target label:hover {
+    background: none; }
+
+/* line 338, app/stylesheets/bundles/assignments_edit.scss */
+#edit_assignment_form .form-actions {
+  padding-right: 10px; }
+  /* line 340, app/stylesheets/bundles/assignments_edit.scss */
+  #edit_assignment_form .form-actions .pull-left {
+    min-width: 300px; }
+  /* line 344, app/stylesheets/bundles/assignments_edit.scss */
+  body.responsive_2020_04 #edit_assignment_form .form-actions .assignment__action-buttons {
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-start; }
+    /* line 349, app/stylesheets/bundles/assignments_edit.scss */
+    body.responsive_2020_04 #edit_assignment_form .form-actions .assignment__action-buttons button {
+      margin-top: 10px; }
+    @media only screen and (min-width: 500px) {
+      /* line 344, app/stylesheets/bundles/assignments_edit.scss */
+      body.responsive_2020_04 #edit_assignment_form .form-actions .assignment__action-buttons {
+        display: inline-block;
+        width: unset; }
+        /* line 355, app/stylesheets/bundles/assignments_edit.scss */
+        body.responsive_2020_04 #edit_assignment_form .form-actions .assignment__action-buttons button {
+          margin-top: 0px; } }

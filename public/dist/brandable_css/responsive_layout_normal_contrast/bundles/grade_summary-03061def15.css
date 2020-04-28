@@ -1,0 +1,1025 @@
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2011 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* line 19, app/stylesheets/components/_rubric.scss */
+.react-rubric {
+  border-collapse: collapse;
+  page-break-inside: avoid; }
+
+/* line 24, app/stylesheets/components/_rubric.scss */
+.react-rubric table {
+  width: 100%;
+  height: 100%;
+  table-layout: fixed; }
+
+/* line 30, app/stylesheets/components/_rubric.scss */
+.react-rubric th.rubric-criteria {
+  width: 8rem; }
+
+/* line 34, app/stylesheets/components/_rubric.scss */
+.react-rubric th.rubric-points {
+  width: 6rem; }
+
+/* line 38, app/stylesheets/components/_rubric.scss */
+.react-rubric .react-rubric-cell {
+  width: 100%; }
+
+/* line 42, app/stylesheets/components/_rubric.scss */
+.react-rubric thead {
+  background-color: #F5F5F5; }
+
+/* line 46, app/stylesheets/components/_rubric.scss */
+.react-rubric td, .react-rubric th {
+  border: 1px solid #C7CDD1;
+  padding: 7px 10px;
+  line-height: 1.3;
+  overflow-wrap: break-word; }
+
+/* line 53, app/stylesheets/components/_rubric.scss */
+.react-rubric th {
+  padding-bottom: 14px; }
+
+/* line 57, app/stylesheets/components/_rubric.scss */
+.react-rubric th[scope="col"] {
+  white-space: nowrap;
+  text-overflow: ellipsis; }
+
+/* line 62, app/stylesheets/components/_rubric.scss */
+.react-rubric th.rubric-title {
+  background-color: #F5F5F5;
+  border-top: 1px solid #C7CDD1;
+  border-left: 1px solid #C7CDD1;
+  border-right: 1px solid #C7CDD1;
+  padding: 5px;
+  font-weight: bold; }
+
+/* line 71, app/stylesheets/components/_rubric.scss */
+.react-rubric .description-header {
+  height: 100%;
+  vertical-align: text-top; }
+  /* line 75, app/stylesheets/components/_rubric.scss */
+  .react-rubric .description-header .long-description button {
+    margin: 0;
+    padding: 0; }
+
+/* line 81, app/stylesheets/components/_rubric.scss */
+.react-rubric .assessment-comments {
+  margin-top: 10px;
+  margin-bottom: 6px;
+  margin-left: 0px;
+  margin-right: 0px; }
+
+/* line 88, app/stylesheets/components/_rubric.scss */
+.react-rubric .react-rubric-break-words {
+  word-wrap: break-word;
+  /* for IE support */
+  overflow-wrap: break-word; }
+
+/* line 93, app/stylesheets/components/_rubric.scss */
+.react-rubric .rubric-criterion td {
+  vertical-align: top;
+  height: 100%; }
+
+/* line 98, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-description {
+  padding-bottom: 0.5em; }
+
+/* line 102, app/stylesheets/components/_rubric.scss */
+.react-rubric td.ratings {
+  padding: 0;
+  vertical-align: middle; }
+
+/* line 107, app/stylesheets/components/_rubric.scss */
+.react-rubric .ratings .rating-points {
+  white-space: nowrap; }
+
+/* line 111, app/stylesheets/components/_rubric.scss */
+.react-rubric .rubric-freeform {
+  padding: 5px; }
+
+/* line 115, app/stylesheets/components/_rubric.scss */
+.react-rubric .edit-freeform-comments-large {
+  min-width: 15rem;
+  padding: 1rem; }
+
+/* line 120, app/stylesheets/components/_rubric.scss */
+.react-rubric .edit-freeform-comments-small {
+  padding: 0.75rem; }
+
+/* line 124, app/stylesheets/components/_rubric.scss */
+.rating-all {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%; }
+
+/* line 131, app/stylesheets/components/_rubric.scss */
+.react-rubric .ratings .rating-tier-list {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  margin-left: -1px;
+  border-collapse: collapse;
+  height: 100%; }
+
+/* line 140, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier {
+  width: 100%;
+  padding: 7px 10px;
+  border-left: 1px solid #C7CDD1;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+  position: relative;
+  overflow: hidden;
+  overflow-wrap: break-word; }
+
+/* line 152, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier .rating-footer {
+  padding-bottom: 1rem; }
+
+/* line 157, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier.selected .shader {
+  width: 100%;
+  height: 0.3em;
+  position: absolute;
+  bottom: 0;
+  left: 0; }
+  /* line 163, app/stylesheets/components/_rubric.scss */
+  .react-rubric .rating-tier.selected .shader .triangle {
+    width: 0;
+    height: 0;
+    border-left: 0.7em solid transparent;
+    border-right: 0.7em solid transparent;
+    border-bottom: 1em solid;
+    position: relative;
+    margin: 0 auto;
+    bottom: 0.7em; }
+
+/* line 175, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier.selected .exceedsMasteryShader {
+  background-color: #127A1B; }
+  /* line 177, app/stylesheets/components/_rubric.scss */
+  .react-rubric .rating-tier.selected .exceedsMasteryShader .triangle {
+    color: #127A1B; }
+
+/* line 182, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier.selected .meetsMasteryShader {
+  background-color: #00AC18; }
+  /* line 184, app/stylesheets/components/_rubric.scss */
+  .react-rubric .rating-tier.selected .meetsMasteryShader .triangle {
+    color: #00AC18; }
+
+/* line 189, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier.selected .nearMasteryShader {
+  background-color: #FC5E13; }
+  /* line 191, app/stylesheets/components/_rubric.scss */
+  .react-rubric .rating-tier.selected .nearMasteryShader .triangle {
+    color: #FC5E13; }
+
+/* line 196, app/stylesheets/components/_rubric.scss */
+.react-rubric .rating-tier.selected .wellBelowMasteryShader {
+  background-color: #EE0612; }
+  /* line 198, app/stylesheets/components/_rubric.scss */
+  .react-rubric .rating-tier.selected .wellBelowMasteryShader .triangle {
+    color: #EE0612; }
+
+/* line 204, app/stylesheets/components/_rubric.scss */
+.react-rubric .react-assessing .rating-tier:focus,
+.react-rubric .react-assessing .rating-tier:hover {
+  background-color: #ad9;
+  cursor: pointer; }
+
+/* line 210, app/stylesheets/components/_rubric.scss */
+.rating-all-footer {
+  border-top: 1px solid #C7CDD1; }
+
+/* line 214, app/stylesheets/components/_rubric.scss */
+.react-rubric .graded-points {
+  white-space: nowrap;
+  text-align: end; }
+
+/* line 24, app/stylesheets/bundles/grade_summary.scss */
+.print-grades {
+  float: right; }
+  @media print {
+    /* line 24, app/stylesheets/bundles/grade_summary.scss */
+    .print-grades {
+      display: none; } }
+
+/* line 31, app/stylesheets/bundles/grade_summary.scss */
+.grading_periods_selector {
+  margin-bottom: 0px; }
+
+/* line 35, app/stylesheets/bundles/grade_summary.scss */
+.dropdowns {
+  display: inline-block; }
+  /* line 38, app/stylesheets/bundles/grade_summary.scss */
+  .dropdowns .course_selector,
+  .dropdowns .assignment_order {
+    float: left;
+    margin-right: 12px; }
+
+/* line 45, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary {
+  border-collapse: collapse;
+  margin-top: 12px; }
+  @media print {
+    /* line 45, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary {
+      border-bottom: none; }
+      /* line 51, app/stylesheets/bundles/grade_summary.scss */
+      #grades_summary a {
+        text-decoration: none !important; } }
+
+@media print {
+  /* line 57, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary thead th {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    padding-left: 0; } }
+
+/* line 68, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary .status,
+#grades_summary .assignment_score,
+#grades_summary .possible,
+#grades_summary .details {
+  text-align: center; }
+
+/* line 76, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.comments td {
+  border-width: 0;
+  padding-left: 30px; }
+  @media print {
+    /* line 76, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary tr.comments td {
+      padding-left: 0;
+      font-style: italic; } }
+
+/* line 85, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.rubric_assessments > td {
+  border-width: 0;
+  padding-left: 30px; }
+  /* line 88, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary tr.rubric_assessments > td table.rubric {
+    margin-top: 0;
+    margin-bottom: 20px; }
+
+/* line 94, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.student_assignment.dropped td,
+#grades_summary tr.student_assignment.excused td {
+  opacity: 0.7; }
+  @media print {
+    /* line 94, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary tr.student_assignment.dropped td,
+    #grades_summary tr.student_assignment.excused td {
+      color: black; } }
+
+/* line 108, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.student_assignment.dropped td.points_possible,
+#grades_summary tr.student_assignment.excused td.points_possible {
+  position: relative; }
+  /* line 110, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary tr.student_assignment.dropped td.points_possible::after,
+  #grades_summary tr.student_assignment.excused td.points_possible::after {
+    content: '\00d7';
+    position: absolute;
+    right: 0;
+    padding-left: 12px; }
+
+/* line 119, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary td.assignment_score {
+  cursor: pointer;
+  white-space: nowrap; }
+
+/* line 124, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary th.possible {
+  white-space: nowrap; }
+
+/* line 137, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary td.details {
+  text-align: right;
+  padding-left: 0;
+  white-space: nowrap;
+  min-width: 80px; }
+  /* line 143, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary td.details a {
+    color: var(--ic-brand-font-color-dark-lightened-30); }
+    /* line 145, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary td.details a:hover, #grades_summary td.details a:focus {
+      color: var(--ic-brand-font-color-dark-lightened-15); }
+    /* line 148, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary td.details a.turnitin_similarity_score {
+      color: #FFFFFF; }
+
+/* line 154, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary th.title {
+  font-weight: normal;
+  border-bottom-color: #C7CDD1; }
+
+/* line 159, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary th.title .context {
+  visibility: hidden;
+  font-size: 14px;
+  color: var(--ic-brand-font-color-dark); }
+  @media print {
+    /* line 159, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary th.title .context {
+      visibility: visible;
+      margin: 5px 0;
+      padding: 0; } }
+
+/* line 170, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary th.title .context.context_hover {
+  visibility: visible; }
+
+/* line 174, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary td.due {
+  white-space: nowrap; }
+
+/* line 179, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.assignment_graded .unread-grade {
+  margin-left: -24px; }
+
+/* line 184, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.final_grade {
+  font-size: 22px;
+  font-weight: bold;
+  border-top: 2px solid #A5AFB5; }
+  /* line 189, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary tr.final_grade .possible {
+    font-size: 16px; }
+  @media print {
+    /* line 184, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary tr.final_grade {
+      text-transform: uppercase;
+      border-top: 2px solid black;
+      font-size: 16px; } }
+
+/* line 201, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.group_total td, #grades_summary tr.group_total th[scope=row] {
+  font-weight: bold; }
+  @media print {
+    /* line 201, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary tr.group_total td, #grades_summary tr.group_total th[scope=row] {
+      text-transform: uppercase; }
+      /* line 205, app/stylesheets/bundles/grade_summary.scss */
+      #grades_summary tr.group_total td.title .context, #grades_summary tr.group_total th[scope=row].title .context {
+        display: none; } }
+
+/* line 212, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary tr.group_total td.possible {
+  font-weight: normal;
+  font-size: 0.8em; }
+
+/* line 217, app/stylesheets/bundles/grade_summary.scss */
+.revert_score_link {
+  position: absolute;
+  top: 0px;
+  left: -5px;
+  display: none; }
+  /* line 222, app/stylesheets/bundles/grade_summary.scss */
+  .revert_score_link:hover, .revert_score_link:focus {
+    opacity: 0.7; }
+
+/* line 227, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary .tooltip {
+  position: relative;
+  z-index: 10;
+  outline: none; }
+  /* line 234, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary .tooltip .grade:hover, #grades_summary .tooltip .grade:focus {
+    text-decoration: none; }
+    /* line 236, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary .tooltip .grade:hover .tooltip_wrap, #grades_summary .tooltip .grade:hover .tooltip_text, #grades_summary .tooltip .grade:focus .tooltip_wrap, #grades_summary .tooltip .grade:focus .tooltip_text {
+      visibility: visible; }
+  /* line 240, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary .tooltip:active {
+    outline: none;
+    text-decoration: none; }
+    /* line 243, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary .tooltip:active .tooltip_wrap, #grades_summary .tooltip:active .tooltip_text {
+      visibility: visible; }
+  /* line 247, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary .tooltip .tooltip_wrap, #grades_summary .tooltip .tooltip_text {
+    display: block;
+    visibility: hidden; }
+  /* line 251, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary .tooltip .tooltip_wrap {
+    background: url("/dist/images/tooltip_carat-3363aaf402.png") no-repeat left bottom;
+    bottom: 15px;
+    padding-bottom: 3px;
+    position: absolute; }
+  /* line 257, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary .tooltip .tooltip_text {
+    background-color: #2D3B45;
+    background-position: left bottom;
+    color: #FFFFFF;
+    left: 0px;
+    max-width: 250px;
+    padding: 2px 7px;
+    white-space: nowrap; }
+    /* line 265, app/stylesheets/bundles/grade_summary.scss */
+    #grades_summary .tooltip .tooltip_text table tr td {
+      background-color: transparent;
+      padding: 0 2px;
+      border-width: 0px; }
+  /* line 271, app/stylesheets/bundles/grade_summary.scss */
+  #grades_summary .tooltip .right {
+    right: 0px;
+    background-position: right bottom; }
+
+/* line 277, app/stylesheets/bundles/grade_summary.scss */
+#observer_user_url {
+  font-size: 0.8em;
+  border: 1px solid #aaa; }
+
+/* line 282, app/stylesheets/bundles/grade_summary.scss */
+#assignments-not-weighted,
+#whatif-score-description,
+#student-grades-show-all,
+#only_consider_graded_assignments_wrapper {
+  display: block;
+  margin: 6px 0; }
+
+/* line 292, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary table.score_details_table .error {
+  color: #EE0612; }
+
+/* line 296, app/stylesheets/bundles/grade_summary.scss */
+#grades_summary table.score_details_table td {
+  padding-left: 1em; }
+
+/* line 301, app/stylesheets/bundles/grade_summary.scss */
+a.screenreader-toggle {
+  font-weight: normal;
+  padding-right: 5px; }
+
+/* line 306, app/stylesheets/bundles/grade_summary.scss */
+.grade-summary-graph-component {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  overflow: hidden;
+  border-style: solid;
+  border-color: #A5AFB5; }
+
+/* line 316, app/stylesheets/bundles/grade_summary.scss */
+div.rubric-toggle {
+  padding-bottom: 5px; }
+
+/* line 320, app/stylesheets/bundles/grade_summary.scss */
+.ui-tabs .ui-tabs-panel {
+  border: none;
+  padding: 0; }
+
+/* line 325, app/stylesheets/bundles/grade_summary.scss */
+.outcome-toggles {
+  float: right;
+  position: absolute;
+  right: 1em;
+  margin-top: -2.3em; }
+  /* line 330, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-toggles .btn {
+    margin-left: 0.5em; }
+  /* line 333, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-toggles a[class*=icon-]:before, .outcome-toggles a[class^=icon-]:before {
+    margin: 0; }
+
+/* line 338, app/stylesheets/bundles/grade_summary.scss */
+#assignments {
+  padding: 1em 0; }
+
+/* line 342, app/stylesheets/bundles/grade_summary.scss */
+.individualStudentView .outcomeGroup {
+  margin-top: 1rem; }
+
+/* line 349, app/stylesheets/bundles/grade_summary.scss */
+#outcomes h2 {
+  font-size: 1.4em;
+  font-weight: bold; }
+
+/* line 353, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .group {
+  border: 1px solid #BCC2CA;
+  border-radius: 3px;
+  margin-top: 1em; }
+
+/* line 358, app/stylesheets/bundles/grade_summary.scss */
+#outcomes h3 {
+  font-size: 1.2em;
+  margin-left: 1em;
+  float: left; }
+
+/* line 363, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .group-description {
+  cursor: pointer;
+  overflow: hidden;
+  padding: 10px 15px; }
+  /* line 367, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes .group-description:hover {
+    background-color: #f7f7f7; }
+  /* line 370, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes .group-description:focus {
+    outline-width: 4px;
+    outline-offset: -4px; }
+  /* line 374, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes .group-description .outcome-icon i {
+    line-height: 40px; }
+  /* line 377, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes .group-description .group-title {
+    margin: 0;
+    font-size: 20px;
+    font-size: 1.25rem;
+    line-height: 40px; }
+  /* line 382, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes .group-description .group-status {
+    float: right;
+    top: 8px;
+    font-size: 30px;
+    font-size: 1.875rem;
+    position: relative; }
+    /* line 387, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes .group-description .group-status strong {
+      color: #2a333b; }
+    /* line 390, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes .group-description .group-status span {
+      display: block;
+      font-size: 14px;
+      font-size: 0.875rem; }
+    /* line 394, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes .group-description .group-status .pill {
+      color: white;
+      background-color: #73818C; }
+      /* line 397, app/stylesheets/bundles/grade_summary.scss */
+      #outcomes .group-description .group-status .pill .has-mastery {
+        background-color: #46a546; }
+      /* line 400, app/stylesheets/bundles/grade_summary.scss */
+      #outcomes .group-description .group-status .pill .no-mastery {
+        background-color: #999; }
+
+/* line 406, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .exceeds > i {
+  color: #6a843f; }
+
+/* line 409, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .mastery > i {
+  color: #8aac53; }
+
+/* line 412, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .near > i {
+  color: #e0d773; }
+
+/* line 415, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .remedial > i {
+  color: #df5b59; }
+
+/* line 418, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .undefined > i {
+  color: #C0C0C0; }
+
+/* line 421, app/stylesheets/bundles/grade_summary.scss */
+#outcomes .outcomes {
+  background-color: #f7f7f7; }
+
+/* line 424, app/stylesheets/bundles/grade_summary.scss */
+#outcomes ul {
+  margin-left: 0;
+  list-style-type: none; }
+
+/* line 428, app/stylesheets/bundles/grade_summary.scss */
+#outcomes li {
+  list-style-type: none;
+  overflow: hidden; }
+  /* line 431, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes li .outcome-icon {
+    float: left;
+    margin-right: 15px; }
+
+/* line 437, app/stylesheets/bundles/grade_summary.scss */
+#outcomes li.group i.collapsed-arrow {
+  display: block; }
+
+/* line 440, app/stylesheets/bundles/grade_summary.scss */
+#outcomes li.group i.expanded-arrow {
+  display: none; }
+
+/* line 445, app/stylesheets/bundles/grade_summary.scss */
+#outcomes li.group.expanded i.collapsed-arrow {
+  display: none; }
+
+/* line 448, app/stylesheets/bundles/grade_summary.scss */
+#outcomes li.group.expanded i.expanded-arrow, #outcomes li.group.expanded li.outcome {
+  display: block; }
+
+/* line 452, app/stylesheets/bundles/grade_summary.scss */
+#outcomes li.outcome {
+  padding: 20px 15px;
+  border-top: 1px solid #BCC2CA;
+  display: none; }
+  /* line 456, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes li.outcome .outcome-properties {
+    float: left;
+    width: 70%; }
+  /* line 460, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes li.outcome .description {
+    color: #2a333b;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; }
+    /* line 466, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes li.outcome .description p {
+      display: inline; }
+  /* line 470, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes li.outcome .title {
+    font-weight: bold; }
+    /* line 472, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes li.outcome .title h4 {
+      padding: 0;
+      margin: 0;
+      font-size: inherit;
+      font-weight: bold; }
+  /* line 479, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes li.outcome .alignment-info {
+    float: right;
+    text-align: right;
+    width: 200px;
+    padding-top: 10px; }
+    /* line 484, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes li.outcome .alignment-info i {
+      margin: 0px 10px;
+      cursor: pointer; }
+    /* line 488, app/stylesheets/bundles/grade_summary.scss */
+    #outcomes li.outcome .alignment-info i:before {
+      font-size: 1.5em; }
+
+@media print {
+  /* line 496, app/stylesheets/bundles/grade_summary.scss */
+  #navpills, .course_selector, .outcome-toggles {
+    display: none; }
+  /* line 501, app/stylesheets/bundles/grade_summary.scss */
+  #outcomes .groups li.group li.outcome {
+    display: block; }
+  /* line 507, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-bar-wrapper .bar {
+    border: 1px solid black;
+    padding: 3px;
+    background: none !important; }
+    /* line 511, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-bar-wrapper .bar .bar-marker {
+      width: 0px !important;
+      border: 3px solid black;
+      height: 10px !important; }
+    /* line 516, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-bar-wrapper .bar .bar-progress {
+      border: 1px solid black;
+      background: none !important; }
+      /* line 519, app/stylesheets/bundles/grade_summary.scss */
+      .outcome-bar-wrapper .bar .bar-progress.exceeds {
+        box-shadow: inset 0 0 0 1000px #6a843f; }
+      /* line 522, app/stylesheets/bundles/grade_summary.scss */
+      .outcome-bar-wrapper .bar .bar-progress.mastery {
+        box-shadow: inset 0 0 0 1000px #8aac53; }
+      /* line 525, app/stylesheets/bundles/grade_summary.scss */
+      .outcome-bar-wrapper .bar .bar-progress.near {
+        box-shadow: inset 0 0 0 1000px #e0d773; }
+      /* line 528, app/stylesheets/bundles/grade_summary.scss */
+      .outcome-bar-wrapper .bar .bar-progress.remedial {
+        box-shadow: inset 0 0 0 1000px #df5b59; } }
+
+/* line 537, app/stylesheets/bundles/grade_summary.scss */
+.outcome-bar-wrapper .bar {
+  background: #e1e1e1;
+  position: relative; }
+  /* line 540, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-bar-wrapper .bar .bar-marker {
+    position: absolute;
+    width: 3px;
+    background: #f7f7f7;
+    z-index: 5;
+    height: 8px;
+    top: 0; }
+  /* line 548, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-bar-wrapper .bar .bar-progress {
+    height: 8px; }
+    /* line 550, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-bar-wrapper .bar .bar-progress.exceeds {
+      background: #6a843f; }
+    /* line 553, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-bar-wrapper .bar .bar-progress.mastery {
+      background: #8aac53; }
+    /* line 556, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-bar-wrapper .bar .bar-progress.near {
+      background: #e0d773; }
+    /* line 559, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-bar-wrapper .bar .bar-progress.remedial {
+      background: #df5b59; }
+
+/* line 564, app/stylesheets/bundles/grade_summary.scss */
+.outcome-bar-wrapper .score {
+  color: #959595;
+  font-size: 18px;
+  font-size: 1.125rem;
+  float: left; }
+  /* line 568, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-bar-wrapper .score strong {
+    color: #2a333b; }
+
+/* line 574, app/stylesheets/bundles/grade_summary.scss */
+.outcome-modal {
+  padding: 7px 0; }
+  /* line 576, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-modal .title {
+    float: left;
+    font-weight: bold; }
+  /* line 580, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-modal .outcome-bar-wrapper {
+    float: right; }
+    /* line 582, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-modal .outcome-bar-wrapper .score {
+      text-align: right;
+      margin-right: 5px;
+      letter-spacing: 1px; }
+    /* line 587, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-modal .outcome-bar-wrapper .bar {
+      float: left;
+      width: 170px;
+      top: 6px; }
+  /* line 593, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-modal .description {
+    padding: 5px 0 15px;
+    clear: both; }
+    /* line 596, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-modal .description p {
+      margin: 0; }
+  /* line 600, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-modal .alignments ul {
+    margin: 0 0 5px;
+    border-top: 1px solid #d7d7d7; }
+  /* line 604, app/stylesheets/bundles/grade_summary.scss */
+  .outcome-modal .alignment {
+    list-style: none;
+    overflow: auto;
+    border-bottom: 1px solid #ebebeb;
+    line-height: 35px; }
+    /* line 609, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-modal .alignment .title {
+      font-weight: normal; }
+    /* line 613, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-modal .alignment .outcome-bar-wrapper .bar {
+      top: 13px; }
+    /* line 616, app/stylesheets/bundles/grade_summary.scss */
+    .outcome-modal .alignment .outcome-bar-wrapper .score {
+      font-size: 14px;
+      font-size: 0.875rem; }
+
+/* line 623, app/stylesheets/bundles/grade_summary.scss */
+.ui-widget.ui-tooltip {
+  max-width: 500px; }
+
+/* line 627, app/stylesheets/bundles/grade_summary.scss */
+.student-grades-revert-guess-button {
+  display: none;
+  margin-bottom: 10px;
+  font-size: 0.8em; }
+
+/* line 635, app/stylesheets/bundles/grade_summary.scss */
+.turnitin_score_container i.icon-empty, .turnitin_score_container i.icon-oval-half {
+  color: #EE0612; }
+
+/* line 640, app/stylesheets/bundles/grade_summary.scss */
+.turnitin_score_container i.icon-certified {
+  color: #00AC18; }
+
+/* line 645, app/stylesheets/bundles/grade_summary.scss */
+.turnitin_score_container .turnitin_similarity_score {
+  color: #2D3B45; }

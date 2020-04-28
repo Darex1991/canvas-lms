@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["US/Samoa"]={zones:{"US/Samoa":["z",{wallclock:-186192e7,format:"SST",abbrev:"SST",offset:-396e5,posix:-1861879032e3,save:0},{wallclock:-24453792e5,format:"LMT",abbrev:"LMT",offset:-40968e3,posix:-2445424632e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:45432e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/US/Samoa-e8ed6a57ea.js.map

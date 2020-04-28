@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Indian/Christmas"]={zones:{"Indian/Christmas":["z",{wallclock:-23640768e5,format:"+07",abbrev:"+07",offset:252e5,posix:-2364102172e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:25372e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Indian/Christmas-584bed0c0c.js.map

@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Pacific/Funafuti"]={zones:{"Pacific/Funafuti":["z",{wallclock:-21774528e5,format:"+12",abbrev:"+12",offset:432e5,posix:-2177495812e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:43012e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Pacific/Funafuti-f91a0e66b8.js.map

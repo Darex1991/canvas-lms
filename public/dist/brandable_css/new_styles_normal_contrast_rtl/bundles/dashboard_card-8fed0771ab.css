@@ -1,0 +1,494 @@
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+@styleguide Badges
+
+## Badges
+
+You can easily create notification badges in two ways:
+
+### Use the .ic-badge class
+
+```html
+<span class="ic-badge">9</span>
+<span class="ic-badge ic-badge--success">99+</span>
+<span class="ic-badge ic-badge--alert">25</span>
+<span class="ic-badge ic-badge--danger">8</span>
+```
+
+### Use the ic-badge-maker mixin with your own class. It takes four arguments, detailed below.
+
+```css
+.my-awesome-badge {
+  @include ic-badge-maker(
+    22px, // how large should the badge be? Default is 20px.
+    $ic-color-success, // background color
+    $ic-color-light, // text color
+    12px // font-size
+    );
+}
+```
+*/
+/* line 70, app/stylesheets/components/_ic-badge.scss */
+.ic-badge {
+  font-size: 11px;
+  font-size: 0.6875rem;
+  min-width: 20px;
+  line-height: 20px;
+  border-radius: 10px;
+  background: var(--ic-brand-primary);
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 0 6px; }
+  /* line 72, app/stylesheets/components/_ic-badge.scss */
+  .ic-badge.ic-badge--neutral {
+    background: #F5F5F5;
+    color: var(--ic-brand-font-color-dark); }
+  /* line 76, app/stylesheets/components/_ic-badge.scss */
+  .ic-badge.ic-badge--success {
+    background: #00AC18; }
+  /* line 77, app/stylesheets/components/_ic-badge.scss */
+  .ic-badge.ic-badge--alert {
+    background: #FC5E13; }
+  /* line 78, app/stylesheets/components/_ic-badge.scss */
+  .ic-badge.ic-badge--danger {
+    background: #EE0612; }
+
+/* line 30, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__box {
+  padding: 12px 0.125rem 0; }
+
+@supports ((position: -webkit-sticky) or (position: sticky)) or (position: -webkit-sticky) {
+  /* line 35, app/stylesheets/bundles/dashboard_card.scss */
+  .ic-DashboardCard__box {
+    padding-top: 24px; } }
+
+@keyframes placeholder {
+  to {
+    opacity: 0.5; } }
+
+/* line 44, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__placeholder-svg {
+  display: block;
+  width: 100%;
+  height: 100%; }
+  /* line 48, app/stylesheets/bundles/dashboard_card.scss */
+  .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > * {
+    fill: #ededed;
+    animation-name: placeholder;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite; }
+    /* line 54, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > *:nth-child(2) {
+      animation-delay: 0.2s; }
+    /* line 54, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > *:nth-child(3) {
+      animation-delay: 0.3s; }
+    /* line 54, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > *:nth-child(4) {
+      animation-delay: 0.4s; }
+    /* line 54, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > *:nth-child(5) {
+      animation-delay: 0.5s; }
+    /* line 54, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > *:nth-child(6) {
+      animation-delay: 0.6s; }
+    /* line 54, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > *:nth-child(7) {
+      animation-delay: 0.7s; }
+
+/* line 61, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard {
+  box-sizing: border-box;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  overflow: hidden;
+  background: #FFFFFF;
+  width: 262px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 36px 36px; }
+  @media only screen and (max-width: 620px) {
+    /* line 74, app/stylesheets/bundles/dashboard_card.scss */
+    .ic-DashboardCard {
+      width: 100%; }
+    /* line 75, app/stylesheets/bundles/dashboard_card.scss */
+    body.responsive_2020_03 .ic-DashboardCard {
+      margin-left: 0; } }
+  /* line 81, app/stylesheets/bundles/dashboard_card.scss */
+  .no-touch .ic-DashboardCard:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35); }
+
+/* line 85, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header {
+  position: relative;
+  cursor: pointer;
+  box-sizing: border-box; }
+
+/* line 91, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header_hero {
+  box-sizing: border-box;
+  height: 146px;
+  border: 1px solid rgba(0, 0, 0, 0.1); }
+
+/* line 97, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header_image {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat; }
+
+/* line 103, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header_content {
+  box-sizing: border-box;
+  padding: 12px 18px 0;
+  background: #FFFFFF; }
+
+/* line 117, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header-button {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%; }
+  /* line 74, app/stylesheets/base/mixins/_misc.scss */
+  .ic-DashboardCard__header-button i[class*=icon-], .ic-DashboardCard__header-button i[class^=icon-] {
+    line-height: 1; }
+    /* line 76, app/stylesheets/base/mixins/_misc.scss */
+    .ic-DashboardCard__header-button i[class*=icon-]:before, .ic-DashboardCard__header-button i[class^=icon-]:before {
+      font-size: 24px; }
+
+/* line 122, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header-button-bg {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%; }
+
+/* line 126, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard_settings_icon {
+  color: white;
+  opacity: 0.6; }
+
+/* line 131, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header-title {
+  transition: all 0.2s ease-out;
+  transform: translate3d(0, 0, 0);
+  padding: 0;
+  margin: 0;
+  line-height: 1.3;
+  font-size: 0.875rem;
+  font-weight: bold; }
+
+/* line 141, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header-subtitle {
+  line-height: 1.3;
+  padding: 0;
+  margin-top: 4px; }
+
+/* line 147, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header-term {
+  line-height: 1.3;
+  font-size: 12px;
+  height: 1rem; }
+
+/* line 154, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__header-subtitle,
+.ic-DashboardCard__header-term {
+  color: var(--ic-brand-font-color-dark-lightened-30); }
+
+/* line 160, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__action-layout {
+  position: relative;
+  font-size: 24px; }
+
+/* line 165, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__action-badge {
+  font-size: 11px;
+  font-size: 0.6875rem;
+  min-width: 18px;
+  line-height: 18px;
+  border-radius: 9px;
+  background: var(--ic-brand-primary);
+  color: #FFFFFF;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 0 6px;
+  transition: all 0.2s;
+  position: absolute;
+  top: -0.5rem;
+  left: -0.875rem;
+  z-index: 1; }
+
+/* line 173, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__action-container {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 0 12px;
+  margin-top: 9px;
+  height: 2.5rem; }
+
+/* line 182, app/stylesheets/bundles/dashboard_card.scss */
+.ic-DashboardCard__action {
+  transition: color 0.2s;
+  box-sizing: border-box;
+  color: var(--ic-brand-font-color-dark-lightened-30);
+  flex: 0 0 25%;
+  display: flex;
+  justify-content: center; }
+  /* line 74, app/stylesheets/base/mixins/_misc.scss */
+  .ic-DashboardCard__action i[class*=icon-], .ic-DashboardCard__action i[class^=icon-] {
+    line-height: 1; }
+    /* line 76, app/stylesheets/base/mixins/_misc.scss */
+    .ic-DashboardCard__action i[class*=icon-]:before, .ic-DashboardCard__action i[class^=icon-]:before {
+      font-size: 24px; }
+  /* line 192, app/stylesheets/bundles/dashboard_card.scss */
+  .no-touch .ic-DashboardCard__action:hover {
+    color: var(--ic-brand-primary); }
+  /* line 199, app/stylesheets/bundles/dashboard_card.scss */
+  .no-touch:not(.ff) .ic-DashboardCard__action:focus {
+    outline-style: solid;
+    outline-width: 1px;
+    outline-offset: -1px; }
+  /* line 206, app/stylesheets/bundles/dashboard_card.scss */
+  .no-touch.ff .ic-DashboardCard__action:focus {
+    outline: none; }
+    /* line 208, app/stylesheets/bundles/dashboard_card.scss */
+    .no-touch.ff .ic-DashboardCard__action:focus svg, .no-touch.ff .ic-DashboardCard__action:focus i {
+      outline-offset: .25rem;
+      outline-style: solid;
+      outline-width: 1px; }
+  /* line 214, app/stylesheets/bundles/dashboard_card.scss */
+  .no-touch.ff .ic-DashboardCard__action:hover {
+    color: var(--ic-brand-primary); }
+
+/* line 218, app/stylesheets/bundles/dashboard_card.scss */
+.DashboardCardMenu__ColorPicker {
+  padding-right: 8px; }
+
+/* line 222, app/stylesheets/bundles/dashboard_card.scss */
+.DashboardCardMenu__MovementItem {
+  display: flex;
+  align-items: center; }
+
+/* line 227, app/stylesheets/bundles/dashboard_card.scss */
+.DashboardCardMenu__MovementIcon {
+  margin-left: 12px;
+  font-size: 25px; }

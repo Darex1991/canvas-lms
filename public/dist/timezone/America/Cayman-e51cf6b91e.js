@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["America/Cayman"]={zones:{"America/Cayman":["z",{wallclock:-19469376e5,format:"EST",abbrev:"EST",offset:-18e6,posix:-1946918424e3,save:0},{wallclock:-25245216e5,format:"CMT",abbrev:"CMT",offset:-19176e3,posix:-2524502512e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:-19088e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/America/Cayman-e51cf6b91e.js.map

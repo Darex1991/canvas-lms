@@ -1,0 +1,2 @@
+(window.__PRELOADED_TIMEZONE_DATA__||(window.__PRELOADED_TIMEZONE_DATA__={}))["Asia/Kathmandu"]={zones:{"Asia/Kathmandu":["z",{wallclock:5049216e5,format:"+0545",abbrev:"+0545",offset:207e5,posix:5049018e5,save:0},{wallclock:-15779232e5,format:"+0530",abbrev:"+0530",offset:198e5,posix:-1577943676e3,save:0},{wallclock:-17976931348623157e292,format:"LMT",abbrev:"LMT",offset:20476e3,posix:-17976931348623157e292,save:0}]},rules:{}};
+//# sourceMappingURL=../../maps/timezone/Asia/Kathmandu-f991e6a5f6.js.map

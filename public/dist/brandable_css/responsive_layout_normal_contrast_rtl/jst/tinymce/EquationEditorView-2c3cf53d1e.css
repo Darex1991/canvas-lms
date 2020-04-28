@@ -1,0 +1,815 @@
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/* Legacy variables. Discontinue to use these: */
+/*
+ * Copyright (C) 2017 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2012 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/*
+ * Copyright (C) 2015 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+/**
+ * Convert font-size from px to rem with px fallback
+ * @param $size - the value in pixel you want to convert
+ * e.g. p {@include fontSize(12px);}
+ * courtesy of https://github.com/stubbornella/oocss/blob/master/oocss/src/components/utils/_fontSize.scss
+ */
+/*
+ * LaTeX Math in pure HTML and CSS -- No images whatsoever
+ * v0.xa
+ * by Jay and Han
+ * Lesser GPL Licensed: http: //www.gnu.org/licenses/lgpl.html
+ *
+ * This file is automatically included by mathquill.js
+ *
+ */
+/* line 11, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable,
+.mathquill-rendered-math,
+.mathquill-rendered-math .cursor,
+.mathquill-rendered-math .underline,
+.mathquill-rendered-math .overline,
+.mathquill-rendered-math .font,
+.mathquill-rendered-math sup,
+.mathquill-rendered-math sub,
+.mathquill-rendered-math .fraction,
+.mathquill-rendered-math .sqrt-prefix,
+.mathquill-rendered-math .sqrt-stem,
+.mathquill-rendered-math .paren,
+.mathquill-rendered-math .array,
+.mathquill-rendered-math .block {
+  display: -moz-inline-box;
+  display: inline-block;
+  padding-top: .075em; }
+
+/* line 29, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable, .mathquill-embedded-latex .mathquill-editable {
+  border: 1px solid gray;
+  padding: 2px; }
+
+/* line 33, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-embedded-latex .mathquill-editable {
+  margin: 1px; }
+
+/* line 36, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-textbox {
+  overflow-x: auto;
+  overflow-y: hidden;
+  /*so IE8 won't show a vertical scrollbar*/ }
+
+/* line 41, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .textarea, .mathquill-rendered-math .textarea {
+  position: relative;
+  user-select: text;
+  -moz-user-select: text;
+  -webkit-user-select: text; }
+
+/* line 47, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .textarea textarea, .mathquill-rendered-math .textarea textarea, .mathquill-rendered-math .selectable {
+  position: absolute;
+  clip: rect(1em 1em 1em 1em);
+  /* the only way to hide the textarea *and the blinking insertion point* in IE */
+  user-select: text;
+  -moz-user-select: text;
+  -webkit-user-select: text; }
+
+/* line 55, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .cursor {
+  border-right: 1px solid black;
+  margin-left: -1px;
+  position: relative;
+  z-index: 1; }
+
+/* line 61, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .cursor.blink {
+  visibility: hidden; }
+
+/* line 64, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable.empty:after, .mathquill-textbox:after, .mathquill-rendered-math .empty:after {
+  visibility: hidden;
+  content: 'c'; }
+
+/*separated from above because unrecognized pseudoclasses invalidate the entire selector*/
+/* line 69, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .cursor:only-child:after,
+.mathquill-editable .textarea + .cursor:last-child:after {
+  visibility: hidden;
+  content: 'c'; }
+
+/* line 75, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .matrixed {
+  background: white; }
+
+/* line 79, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .selection,
+.mathquill-rendered-math .selection,
+.mathquill-editable .selection .mathquill-rendered-math,
+.mathquill-rendered-math .selection .underline,
+.mathquill-rendered-math .selection .overline,
+.mathquill-rendered-math .selection .font,
+.mathquill-rendered-math .selection sup,
+.mathquill-rendered-math .selection sub,
+.mathquill-rendered-math .selection .fraction,
+.mathquill-rendered-math .selection .sqrt-prefix,
+.mathquill-rendered-math .selection .sqrt-stem,
+.mathquill-rendered-math .selection .paren,
+.mathquill-rendered-math .selection .array,
+.mathquill-editable .selection .matrixed,
+.mathquill-rendered-math .selection .matrixed,
+.mathquill-rendered-math .selection .block {
+  background: #B4D5FE;
+  background: Highlight;
+  color: HighlightText;
+  border-color: HighlightText; }
+
+/* line 100, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .selection.blur,
+.mathquill-rendered-math .selection.blur,
+.mathquill-editable .selection.blur .mathquill-rendered-math,
+.mathquill-rendered-math .selection.blur .underline,
+.mathquill-rendered-math .selection.blur .overline,
+.mathquill-rendered-math .selection.blur .font,
+.mathquill-rendered-math .selection.blur sup,
+.mathquill-rendered-math .selection.blur sub,
+.mathquill-rendered-math .selection.blur .fraction,
+.mathquill-rendered-math .selection.blur .sqrt-prefix,
+.mathquill-rendered-math .selection.blur .sqrt-stem,
+.mathquill-rendered-math .selection.blur .paren,
+.mathquill-rendered-math .selection.blur .array,
+.mathquill-editable .selection.blur .matrixed,
+.mathquill-rendered-math .selection.blur .matrixed,
+.mathquill-rendered-math .selection.blur .block {
+  background: #D4D4D4;
+  color: black;
+  border-color: black; }
+
+/* line 120, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .selection .selection.blur,
+.mathquill-rendered-math .selection .selection.blur,
+.mathquill-editable .selection .selection.blur .mathquill-rendered-math,
+.mathquill-rendered-math .selection .selection.blur .underline,
+.mathquill-rendered-math .selection .selection.blur .overline,
+.mathquill-rendered-math .selection .selection.blur .font,
+.mathquill-rendered-math .selection .selection.blur sup,
+.mathquill-rendered-math .selection .selection.blur sub,
+.mathquill-rendered-math .selection .selection.blur .fraction,
+.mathquill-rendered-math .selection .selection.blur .sqrt-prefix,
+.mathquill-rendered-math .selection .selection.blur .sqrt-stem,
+.mathquill-rendered-math .selection .selection.blur .paren,
+.mathquill-rendered-math .selection .selection.blur .array,
+.mathquill-editable .selection .selection.blur .matrixed,
+.mathquill-rendered-math .selection .selection.blur .matrixed,
+.mathquill-rendered-math .selection .selection.blur .block {
+  background: #ABF; }
+
+/* line 138, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable .selection.blur .selection.blur,
+.mathquill-rendered-math .selection.blur .selection.blur,
+.mathquill-editable .selection.blur .selection.blur .mathquill-rendered-math,
+.mathquill-rendered-math .selection.blur .selection.blur .underline,
+.mathquill-rendered-math .selection.blur .selection.blur .overline,
+.mathquill-rendered-math .selection.blur .selection.blur .font,
+.mathquill-rendered-math .selection.blur .selection.blur sup,
+.mathquill-rendered-math .selection.blur .selection.blur sub,
+.mathquill-rendered-math .selection.blur .selection.blur .fraction,
+.mathquill-rendered-math .selection.blur .selection.blur .sqrt-prefix,
+.mathquill-rendered-math .selection.blur .selection.blur .sqrt-stem,
+.mathquill-rendered-math .selection.blur .selection.blur .paren,
+.mathquill-rendered-math .selection.blur .selection.blur .array,
+.mathquill-editable .selection.blur .selection.blur .matrixed,
+.mathquill-rendered-math .selection.blur .selection.blur .matrixed,
+.mathquill-rendered-math .selection.blur .selection.blur .block {
+  background: #AAA;
+  background: rgba(0, 0, 0, 0.15); }
+
+/* line 158, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable, .mathquill-rendered-math {
+  cursor: text;
+  white-space: pre-wrap;
+  font-family: Symbola, "Times New Roman", serif; }
+
+/* line 163, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math {
+  font-variant: normal;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 115%;
+  line-height: 1; }
+
+/* line 170, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math var, .mathquill-rendered-math .text, .mathquill-rendered-math .nonSymbola {
+  font-family: "Times New Roman", Symbola, serif; }
+
+/* line 173, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math * {
+  font-size: inherit;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+  border-color: black;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none; }
+
+/* line 183, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable.hasCursor,
+.mathquill-rendered-math .latex-command-input.hasCursor {
+  border-color: ActiveBorder; }
+
+/* line 187, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editable.hasCursor, .mathquill-editable .hasCursor {
+  box-shadow: #68B4DF 0 0 3px 2px; }
+
+/* line 193, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .empty {
+  background: #ccc; }
+
+/* line 196, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math.empty {
+  background: transparent; }
+
+/* line 200, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .text {
+  font-size: 87%; }
+
+/* line 204, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .font {
+  font: 1em "Times New Roman", Symbola, serif; }
+
+/* line 207, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .font * {
+  font-family: inherit;
+  font-style: inherit; }
+
+/* line 212, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math b,
+.mathquill-rendered-math b.font {
+  font-weight: bolder; }
+
+/* line 216, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math var,
+.mathquill-rendered-math i,
+.mathquill-rendered-math i.font {
+  font-style: italic; }
+
+/* line 221, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math var.florin {
+  /* florin looks so much better than italic f */
+  margin: 0 -.1em; }
+
+/* line 225, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math big {
+  font-size: 125%; }
+
+/* line 229, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .roman {
+  font-style: normal; }
+
+/* line 233, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .sans-serif {
+  font-family: sans-serif, Symbola, serif; }
+
+/* line 237, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .monospace {
+  font-family: monospace, Symbola, serif; }
+
+/* line 241, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .overline {
+  border-top: 1px solid black;
+  margin-top: 1px; }
+
+/* line 245, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .underline {
+  border-bottom: 1px solid black;
+  margin-bottom: 1px; }
+
+/* line 250, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup, .mathquill-rendered-math sub {
+  position: relative;
+  font-size: 90%; }
+
+/* line 254, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup {
+  vertical-align: .5em; }
+
+/* line 257, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sub {
+  vertical-align: -.4em; }
+
+/* line 260, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup.nthroot {
+  margin-left: -.6em;
+  margin-right: .2em;
+  min-width: .5em; }
+
+/* line 265, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup.limit, .mathquill-rendered-math sub.limit,
+.mathquill-rendered-math sup.nthroot {
+  font-size: 80%; }
+
+/* line 269, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup.limit, .mathquill-rendered-math sup.nthroot {
+  vertical-align: .8em; }
+
+/* line 272, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sub.limit {
+  vertical-align: -.6em; }
+
+/* line 276, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .binary-operator {
+  padding: 0 .2em; }
+
+/* line 279, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .unary-operator {
+  padding-right: .2em; }
+
+/* line 282, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup .binary-operator,
+.mathquill-rendered-math sub .binary-operator {
+  padding: 0 .1em; }
+
+/* line 286, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup .unary-operator,
+.mathquill-rendered-math sub .unary-operator {
+  padding-right: .1em; }
+
+/* line 291, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .fraction {
+  font-size: 90%;
+  text-align: center;
+  vertical-align: -.5em;
+  padding: 0 .1em; }
+
+/* line 297, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .fraction, x:-moz-any-link {
+  /* Firefox 2 (and older?) only */
+  display: -moz-groupbox;
+  /* because display:inline-block is FUBAR in Gecko < 1.9.0 */ }
+
+/* line 300, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .fraction, x:-moz-any-link, x:default {
+  /* Firefox 3+ (Gecko 1.9.0+) */
+  display: inline-block; }
+
+/* line 303, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .numerator, .mathquill-rendered-math .denominator {
+  display: block;
+  padding-top: .075em; }
+
+/* line 307, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .numerator {
+  padding-right: .1em;
+  padding-left: .1em; }
+
+/* line 311, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .denominator {
+  border-top: 1px solid;
+  float: left;
+  /* take out of normal flow to manipulate baseline */
+  width: 100%; }
+
+/* line 317, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup .fraction, .mathquill-rendered-math sub .fraction {
+  font-size: 70%;
+  vertical-align: -.4em; }
+
+/* line 321, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup .numerator, .mathquill-rendered-math sub .numerator {
+  padding-bottom: 0; }
+
+/* line 324, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math sup .denominator, .mathquill-rendered-math sub .denominator {
+  padding-top: 0; }
+
+/* line 328, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .latex-command-input {
+  color: inherit;
+  font-family: "Courier New", monospace;
+  border: 1px solid gray;
+  padding-left: 1px;
+  margin-left: 1px;
+  margin-right: 2px; }
+
+/* line 336, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .latex-command-input.empty {
+  background: transparent; }
+
+/* line 340, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .sqrt-prefix {
+  padding-top: 0;
+  position: relative;
+  top: .1em;
+  vertical-align: top;
+  transform-origin: top; }
+
+/* line 351, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .sqrt-stem {
+  border-top: 1px solid;
+  margin-top: 1px;
+  padding-right: .15em;
+  padding-left: .2em;
+  margin-left: .1em; }
+
+/* line 359, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .paren {
+  padding: 0 .1em;
+  vertical-align: bottom;
+  transform-origin: bottom center; }
+
+/* line 369, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .array {
+  vertical-align: middle;
+  text-align: center; }
+
+/* line 374, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .array > span {
+  display: block; }
+
+/* line 378, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-rendered-math .non-italicized-function {
+  padding-left: .2em; }
+
+/*.mathquill-rendered-math .not {
+  margin-left: -.75em;
+}*/
+/*
+ * editor/toolbar styles
+ */
+/* line 390, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-editor {
+  padding: 10px;
+  display: inline-block; }
+
+/* line 394, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-toolbar {
+  font-family: sans-serif, Arial, Verdana;
+  font-size: 1em;
+  margin: 0 -4px 10px;
+  position: relative;
+  overflow: hidden;
+  z-index: 101; }
+
+/* line 402, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-bar {
+  padding: 8px 16px 2px 8px;
+  margin: 0 0 -2px;
+  line-height: 1.5;
+  font-size: 9pt;
+  list-style: none;
+  overflow: hidden;
+  display: block;
+  background: #aaa; }
+
+/* line 412, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-bar li {
+  color: #555;
+  background: #ccc;
+  border-color: #999;
+  border-width: 1px 1px 0 1px;
+  border-style: solid;
+  -moz-border-radius-topleft: 4px;
+  -moz-border-radius-topright: 4px;
+  -webkit-border-radius-topleft: 4px;
+  -webkit-border-radius-topright: 4px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin: 0 0 0 4px;
+  float: right;
+  top: 1px;
+  height: 2em;
+  overflow: hidden;
+  position: relative; }
+
+/* line 431, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-bar li.mathquill-tab-selected, .mathquill-tab-bar li#hover {
+  background: #e8e8e8;
+  border-color: #999; }
+
+/* line 435, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-bar li a {
+  padding: 0 8px;
+  line-height: 2em;
+  color: #000;
+  text-decoration: none;
+  cursor: default;
+  display: block; }
+
+/* line 443, app/stylesheets/vendor/_mathquill.scss */
+*:first-child + html .mathquill-tab-bar li a {
+  /* IE7 only */
+  padding: 0 7px; }
+
+/* line 446, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-bar a span {
+  padding: 0 0 0 6px;
+  line-height: inherit;
+  font-weight: bold; }
+
+/* line 451, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-toolbar-panes {
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #aaa;
+  background: #e8e8e8;
+  overflow: hidden; }
+
+/* line 457, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane {
+  margin: 0 0 0 -100%;
+  width: 100%;
+  visibility: hidden;
+  float: right; }
+
+/* line 463, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane-selected {
+  visibility: visible;
+  margin: 0; }
+
+/* line 467, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane ul {
+  margin: 0;
+  padding: 6px 12px;
+  overflow: hidden;
+  line-height: 1;
+  list-style: none; }
+
+/* line 474, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane li {
+  overflow: hidden;
+  display: block;
+  float: right;
+  height: 1.5em;
+  margin: 0 -4px 3px;
+  padding: 4px 6px 0;
+  text-align: center;
+  background: #eee;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #ccc; }
+
+/* line 486, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane li.mathquill-button-spacer {
+  background: transparent;
+  border-color: transparent;
+  width: 10px; }
+
+/* line 491, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane li a {
+  display: block;
+  font-size: 0.9em;
+  width: 1.5em;
+  height: 1.4em; }
+
+/* line 497, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-tab-pane li a:hover {
+  background-color: #adcddf; }
+
+/* line 500, app/stylesheets/vendor/_mathquill.scss */
+.mathquill-toolbar * {
+  cursor: default !important; }
+
+/*
+ * instructure tweaks of stock mathquill styles
+ */
+@font-face {
+  font-family: Symbola;
+  src: url(/dist/fonts/Symbola-e4ae9ff7ac.eot);
+  src: local("Symbola Regular"), local("Symbola"), url(/dist/fonts/Symbola-52a6aac18a.ttf) format("truetype"), url(/dist/fonts/Symbola-4621fcfd9d.otf) format("opentype"), url(/dist/fonts/Symbola-7b210c5ed9.svg#webfont7MzkO3xs) format("svg"); }
+
+/* line 40, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+div.math-dialog > span {
+  padding: 0 !important; }
+
+/* line 44, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-editor {
+  font-size: 1.5em;
+  margin-bottom: -5px;
+  min-height: 247px;
+  margin-right: 5px;
+  width: 96%; }
+
+/* line 55, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-rendered-math sup {
+  top: auto; }
+
+/* line 60, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-toolbar {
+  margin-right: -1em !important;
+  margin-left: -1em !important; }
+
+/* line 65, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-toolbar-panes {
+  background: #ccc url(/dist/images/tinybg-97bf34305c.png) repeat-x top left; }
+
+/* line 68, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-tab-pane li {
+  background: #ccc url(/dist/images/tinybutton-efe37a8301.png) repeat-x top left;
+  font-size: 1.52em; }
+
+/* line 72, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-tab-pane li a:hover {
+  text-decoration: none; }
+
+/* line 76, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.mathquill-editable .textarea textarea {
+  z-index: inherit;
+  /* so that jquery modal dialogs don't cancel its events */ }
+
+/* line 80, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+#mathjax-editor {
+  width: 95%;
+  min-height: 100px;
+  margin: 0px 10px; }
+
+/* line 86, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+#mathjax-preview, .MathJax_Display {
+  min-height: 100px; }
+
+/* line 90, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+#mathjax-message {
+  min-height: 20px; }
+
+/* line 94, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+.math-toggle {
+  text-align: left;
+  padding-left: 10px; }
+
+/* line 99, app/stylesheets/jst/tinymce/EquationEditorView.scss */
+#mathquill-view, #mathjax-view {
+  min-height: 403px; }
